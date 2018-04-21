@@ -2,7 +2,6 @@ import apiStocksResponse from "../data/api-stocks-response";
 import { Schemas } from "./schema";
 import { denormalize, normalize } from "normalizr";
 import { createSelector } from "reselect";
-
 export const INITIALIZE_STOCKS = "INITIALIZE_STOCKS";
 
 export default (state = [], action) => {
