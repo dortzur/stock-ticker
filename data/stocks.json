@@ -1,858 +1,794 @@
 [
   {
-    "Symbol": "AAL",
-    "Name": "American Airlines Group Inc",
-    "Price": 46.78,
-    "FIELD4": "",
-    "Change": -0.1,
-    "%Change": "-0.21%"
-  },
-  {
-    "Symbol": "AAPL",
-    "Name": "Apple Inc",
-    "Price": 165.72,
-    "FIELD4": "",
-    "Change": -7.08,
-    "%Change": "-4.10%"
-  },
-  {
-    "Symbol": "ADBE",
-    "Name": "Adobe Systems Inc",
-    "Price": 225.24,
-    "FIELD4": "",
-    "Change": -2.38,
-    "%Change": "-1.05%"
-  },
-  {
-    "Symbol": "ADI",
-    "Name": "Analog Devices Inc",
-    "Price": 89.76,
-    "FIELD4": "",
-    "Change": -0.09,
-    "%Change": "-0.10%"
-  },
-  {
-    "Symbol": "ADP",
-    "Name": "Automatic Data Processing Inc",
-    "Price": 116.84,
-    "FIELD4": "",
-    "Change": -0.91,
-    "%Change": "-0.77%"
-  },
-  {
-    "Symbol": "ADSK",
-    "Name": "Autodesk Inc",
-    "Price": 130.09,
-    "FIELD4": "",
-    "Change": -2.24,
-    "%Change": "-1.69%"
-  },
-  {
-    "Symbol": "AKAM",
-    "Name": "Akamai Technologies Inc",
-    "Price": 71.3,
-    "FIELD4": "",
-    "Change": -1.16,
-    "%Change": "-1.60%"
-  },
-  {
-    "Symbol": "ALGN",
-    "Name": "Align Technology Inc",
-    "Price": 247.07,
-    "FIELD4": "",
-    "Change": -5.71,
-    "%Change": "-2.26%"
-  },
-  {
-    "Symbol": "ALXN",
-    "Name": "Alexion Pharmaceuticals Inc",
-    "Price": 107.78,
-    "FIELD4": "",
-    "Change": -3.96,
-    "%Change": "-3.54%"
-  },
-  {
-    "Symbol": "AMAT",
-    "Name": "Applied Materials Inc",
-    "Price": 51.09,
-    "FIELD4": "",
-    "Change": -0.1,
-    "%Change": "-0.20%"
-  },
-  {
-    "Symbol": "AMGN",
-    "Name": "Amgen Inc",
-    "Price": 171.56,
-    "FIELD4": "",
-    "Change": -1.37,
-    "%Change": "-0.79%"
-  },
-  {
-    "Symbol": "AMZN",
-    "Name": "Amazon.com Inc",
-    "Price": 1527.49,
-    "FIELD4": "",
-    "Change": -29.42,
-    "%Change": "-1.89%"
-  },
-  {
-    "Symbol": "ATVI",
-    "Name": "Activision Blizzard Inc",
-    "Price": 66.3,
-    "FIELD4": "",
-    "Change": -1.38,
-    "%Change": "-2.04%"
+    "symbol": "AAL",
+    "name": "American Airlines Group Inc",
+    "price": 46.78,
+    "field4": "",
+    "change": -0.1,
+    "percentChange": "-0.21%"
+  },
+  {
+    "symbol": "AAPL",
+    "name": "Apple Inc",
+    "price": 165.72,
+    "field4": "",
+    "change": -7.08,
+    "percentChange": "-4.10%"
+  },
+  {
+    "symbol": "ADBE",
+    "name": "Adobe Systems Inc",
+    "price": 225.24,
+    "field4": "",
+    "change": -2.38,
+    "percentChange": "-1.05%"
+  },
+  {
+    "symbol": "ADI",
+    "name": "Analog Devices Inc",
+    "price": 89.76,
+    "field4": "",
+    "change": -0.09,
+    "percentChange": "-0.10%"
+  },
+  {
+    "symbol": "ADP",
+    "name": "Automatic Data Processing Inc",
+    "price": 116.84,
+    "field4": "",
+    "change": -0.91,
+    "percentChange": "-0.77%"
+  },
+  {
+    "symbol": "ADSK",
+    "name": "Autodesk Inc",
+    "price": 130.09,
+    "field4": "",
+    "change": -2.24,
+    "percentChange": "-1.69%"
+  },
+  {
+    "symbol": "AKAM",
+    "name": "Akamai Technologies Inc",
+    "price": 71.3,
+    "field4": "",
+    "change": -1.16,
+    "percentChange": "-1.60%"
+  },
+  {
+    "symbol": "ALGN",
+    "name": "Align Technology Inc",
+    "price": 247.07,
+    "field4": "",
+    "change": -5.71,
+    "percentChange": "-2.26%"
+  },
+  {
+    "symbol": "ALXN",
+    "name": "Alexion Pharmaceuticals Inc",
+    "price": 107.78,
+    "field4": "",
+    "change": -3.96,
+    "percentChange": "-3.54%"
+  },
+  {
+    "symbol": "AMAT",
+    "name": "Applied Materials Inc",
+    "price": 51.09,
+    "field4": "",
+    "change": -0.1,
+    "percentChange": "-0.20%"
+  },
+  {
+    "symbol": "AMGN",
+    "name": "Amgen Inc",
+    "price": 171.56,
+    "field4": "",
+    "change": -1.37,
+    "percentChange": "-0.79%"
+  },
+  {
+    "symbol": "AMZN",
+    "name": "Amazon.com Inc",
+    "price": 1527.49,
+    "field4": "",
+    "change": -29.42,
+    "percentChange": "-1.89%"
+  },
+  {
+    "symbol": "ATVI",
+    "name": "Activision Blizzard Inc",
+    "price": 66.3,
+    "field4": "",
+    "change": -1.38,
+    "percentChange": "-2.04%"
   },
   {
-    "Symbol": "AVGO",
-    "Name": "Broadcom Inc",
-    "Price": 237.12,
-    "FIELD4": "",
-    "Change": -5.74,
-    "%Change": "-2.36%"
+    "symbol": "AVGO",
+    "name": "Broadcom Inc",
+    "price": 237.12,
+    "field4": "",
+    "change": -5.74,
+    "percentChange": "-2.36%"
   },
   {
-    "Symbol": "BIDU",
-    "Name": "Baidu Inc",
-    "Price": 232.5,
-    "FIELD4": "",
-    "Change": -4.61,
-    "%Change": "-1.94%"
+    "symbol": "BIDU",
+    "name": "Baidu Inc",
+    "price": 232.5,
+    "field4": "",
+    "change": -4.61,
+    "percentChange": "-1.94%"
   },
   {
-    "Symbol": "BIIB",
-    "Name": "Biogen Inc",
-    "Price": 263.02,
-    "FIELD4": "",
-    "Change": -3,
-    "%Change": "-1.13%"
+    "symbol": "BIIB",
+    "name": "Biogen Inc",
+    "price": 263.02,
+    "field4": "",
+    "change": -3,
+    "percentChange": "-1.13%"
   },
   {
-    "Symbol": "BMRN",
-    "Name": "Biomarin Pharmaceutical Inc",
-    "Price": 82.3,
-    "FIELD4": "",
-    "Change": -1.32,
-    "%Change": "-1.58%"
+    "symbol": "BMRN",
+    "name": "Biomarin Pharmaceutical Inc",
+    "price": 82.3,
+    "field4": "",
+    "change": -1.32,
+    "percentChange": "-1.58%"
   },
   {
-    "Symbol": "CA",
-    "Name": "CA Inc",
-    "Price": 34.58,
-    "FIELD4": "",
-    "Change": -0.26,
-    "%Change": "-0.75%"
+    "symbol": "CA",
+    "name": "CA Inc",
+    "price": 34.58,
+    "field4": "",
+    "change": -0.26,
+    "percentChange": "-0.75%"
   },
   {
-    "Symbol": "CELG",
-    "Name": "Celgene Corp",
-    "Price": 88.95,
-    "FIELD4": "",
-    "Change": -0.67,
-    "%Change": "-0.75%"
+    "symbol": "CELG",
+    "name": "Celgene Corp",
+    "price": 88.95,
+    "field4": "",
+    "change": -0.67,
+    "percentChange": "-0.75%"
   },
   {
-    "Symbol": "CERN",
-    "Name": "Cerner Corp",
-    "Price": 58.23,
-    "FIELD4": "",
-    "Change": -0.69,
-    "%Change": "-1.17%"
+    "symbol": "CERN",
+    "name": "Cerner Corp",
+    "price": 58.23,
+    "field4": "",
+    "change": -0.69,
+    "percentChange": "-1.17%"
   },
   {
-    "Symbol": "CHKP",
-    "Name": "Check Point Software Technologies Ltd",
-    "Price": 102.23,
-    "FIELD4": "",
-    "Change": -0.87,
-    "%Change": "-0.84%"
+    "symbol": "CHKP",
+    "name": "Check Point Software Technologies Ltd",
+    "price": 102.23,
+    "field4": "",
+    "change": -0.87,
+    "percentChange": "-0.84%"
   },
   {
-    "Symbol": "CHTR",
-    "Name": "Charter Communications Inc",
-    "Price": 310.94,
-    "FIELD4": "",
-    "Change": -4.61,
-    "%Change": "-1.46%"
+    "symbol": "CHTR",
+    "name": "Charter Communications Inc",
+    "price": 310.94,
+    "field4": "",
+    "change": -4.61,
+    "percentChange": "-1.46%"
   },
   {
-    "Symbol": "CTRP",
-    "Name": "Ctrip.Com International Ltd",
-    "Price": 42.65,
-    "FIELD4": "",
-    "Change": -0.45,
-    "%Change": "-1.04%"
+    "symbol": "CTRP",
+    "name": "Ctrip.Com International Ltd",
+    "price": 42.65,
+    "field4": "",
+    "change": -0.45,
+    "percentChange": "-1.04%"
   },
   {
-    "Symbol": "CTAS",
-    "Name": "Cintas Corp",
-    "Price": 173.12,
-    "FIELD4": "",
-    "Change": -1.04,
-    "%Change": "-0.60%"
+    "symbol": "CTAS",
+    "name": "Cintas Corp",
+    "price": 173.12,
+    "field4": "",
+    "change": -1.04,
+    "percentChange": "-0.60%"
   },
   {
-    "Symbol": "CSCO",
-    "Name": "Cisco Systems Inc",
-    "Price": 44.09,
-    "FIELD4": "",
-    "Change": -0.47,
-    "%Change": "-1.05%"
+    "symbol": "CSCO",
+    "name": "Cisco Systems Inc",
+    "price": 44.09,
+    "field4": "",
+    "change": -0.47,
+    "percentChange": "-1.05%"
   },
   {
-    "Symbol": "CTXS",
-    "Name": "Citrix Systems Inc",
-    "Price": 96.57,
-    "FIELD4": "",
-    "Change": -0.65,
-    "%Change": "-0.67%"
+    "symbol": "CTXS",
+    "name": "Citrix Systems Inc",
+    "price": 96.57,
+    "field4": "",
+    "change": -0.65,
+    "percentChange": "-0.67%"
   },
   {
-    "Symbol": "CMCSA",
-    "Name": "Comcast Corp",
-    "Price": 33.21,
-    "FIELD4": "",
-    "Change": -0.27,
-    "%Change": "-0.81%"
+    "symbol": "CMCSA",
+    "name": "Comcast Corp",
+    "price": 33.21,
+    "field4": "",
+    "change": -0.27,
+    "percentChange": "-0.81%"
   },
   {
-    "Symbol": "COST",
-    "Name": "Costco Wholesale Corp",
-    "Price": 193.56,
-    "FIELD4": "",
-    "Change": -1.51,
-    "%Change": "-0.77%"
+    "symbol": "COST",
+    "name": "Costco Wholesale Corp",
+    "price": 193.56,
+    "field4": "",
+    "change": -1.51,
+    "percentChange": "-0.77%"
   },
   {
-    "Symbol": "CSX",
-    "Name": "CSX Corp",
-    "Price": 60.04,
-    "FIELD4": "",
-    "Change": -1.15,
-    "%Change": "-1.88%"
+    "symbol": "CTSH",
+    "name": "Cognizant Technology Solutions Corp",
+    "price": 81.77,
+    "field4": "",
+    "change": -0.6,
+    "percentChange": "-0.73%"
   },
   {
-    "Symbol": "CTSH",
-    "Name": "Cognizant Technology Solutions Corp",
-    "Price": 81.77,
-    "FIELD4": "",
-    "Change": -0.6,
-    "%Change": "-0.73%"
+    "symbol": "DISCA",
+    "name": "Discovery Inc",
+    "price": 23.16,
+    "field4": "",
+    "change": -0.22,
+    "percentChange": "-0.94%"
   },
   {
-    "Symbol": "DISCA",
-    "Name": "Discovery Inc",
-    "Price": 23.16,
-    "FIELD4": "",
-    "Change": -0.22,
-    "%Change": "-0.94%"
+    "symbol": "DISCK",
+    "name": "Discovery Inc",
+    "price": 21.46,
+    "field4": "",
+    "change": -0.17,
+    "percentChange": "-0.79%"
   },
   {
-    "Symbol": "DISCK",
-    "Name": "Discovery Inc",
-    "Price": 21.46,
-    "FIELD4": "",
-    "Change": -0.17,
-    "%Change": "-0.79%"
+    "symbol": "DISH",
+    "name": "DISH Network Corp",
+    "price": 37.23,
+    "field4": "",
+    "change": -1.29,
+    "percentChange": "-3.35%"
   },
   {
-    "Symbol": "DISH",
-    "Name": "DISH Network Corp",
-    "Price": 37.23,
-    "FIELD4": "",
-    "Change": -1.29,
-    "%Change": "-3.35%"
+    "symbol": "DLTR",
+    "name": "Dollar Tree Inc",
+    "price": 97.56,
+    "field4": "",
+    "change": -1.34,
+    "percentChange": "-1.35%"
   },
   {
-    "Symbol": "DLTR",
-    "Name": "Dollar Tree Inc",
-    "Price": 97.56,
-    "FIELD4": "",
-    "Change": -1.34,
-    "%Change": "-1.35%"
+    "symbol": "EA",
+    "name": "Electronic Arts",
+    "price": 120.89,
+    "field4": "",
+    "change": -2.22,
+    "percentChange": "-1.80%"
   },
   {
-    "Symbol": "EA",
-    "Name": "Electronic Arts",
-    "Price": 120.89,
-    "FIELD4": "",
-    "Change": -2.22,
-    "%Change": "-1.80%"
+    "symbol": "EBAY",
+    "name": "eBay Inc",
+    "price": 42.2,
+    "field4": "",
+    "change": 0.09,
+    "percentChange": "0.21%"
   },
   {
-    "Symbol": "EBAY",
-    "Name": "eBay Inc",
-    "Price": 42.2,
-    "FIELD4": "",
-    "Change": 0.09,
-    "%Change": "0.21%"
+    "symbol": "ESRX",
+    "name": "Express Scripts Holding Co",
+    "price": 73.49,
+    "field4": "",
+    "change": -0.27,
+    "percentChange": "-0.37%"
   },
   {
-    "Symbol": "ESRX",
-    "Name": "Express Scripts Holding Co",
-    "Price": 73.49,
-    "FIELD4": "",
-    "Change": -0.27,
-    "%Change": "-0.37%"
+    "symbol": "EXPE",
+    "name": "Expedia Group Inc",
+    "price": 109.77,
+    "field4": "",
+    "change": -1.6,
+    "percentChange": "-1.44%"
   },
   {
-    "Symbol": "EXPE",
-    "Name": "Expedia Group Inc",
-    "Price": 109.77,
-    "FIELD4": "",
-    "Change": -1.6,
-    "%Change": "-1.44%"
+    "symbol": "FAST",
+    "name": "Fastenal Co",
+    "price": 50.49,
+    "field4": "",
+    "change": -0.09,
+    "percentChange": "-0.18%"
   },
   {
-    "Symbol": "FAST",
-    "Name": "Fastenal Co",
-    "Price": 50.49,
-    "FIELD4": "",
-    "Change": -0.09,
-    "%Change": "-0.18%"
+    "symbol": "FB",
+    "name": "Facebook",
+    "price": 166.28,
+    "field4": "",
+    "change": -1.82,
+    "percentChange": "-1.08%"
   },
   {
-    "Symbol": "FB",
-    "Name": "Facebook",
-    "Price": 166.28,
-    "FIELD4": "",
-    "Change": -1.82,
-    "%Change": "-1.08%"
+    "symbol": "FISV",
+    "name": "Fiserv Inc",
+    "price": 71.34,
+    "field4": "",
+    "change": -0.41,
+    "percentChange": "-0.57%"
   },
   {
-    "Symbol": "FISV",
-    "Name": "Fiserv Inc",
-    "Price": 71.34,
-    "FIELD4": "",
-    "Change": -0.41,
-    "%Change": "-0.57%"
+    "symbol": "FOX",
+    "name": "Twenty-First Century Fox Inc",
+    "price": 36.18,
+    "field4": "",
+    "change": -0.5,
+    "percentChange": "-1.36%"
   },
   {
-    "Symbol": "FOX",
-    "Name": "Twenty-First Century Fox Inc",
-    "Price": 36.18,
-    "FIELD4": "",
-    "Change": -0.5,
-    "%Change": "-1.36%"
+    "symbol": "FOXA",
+    "name": "Twenty-First Century Fox Inc",
+    "price": 36.68,
+    "field4": "",
+    "change": -0.52,
+    "percentChange": "-1.40%"
   },
   {
-    "Symbol": "FOXA",
-    "Name": "Twenty-First Century Fox Inc",
-    "Price": 36.68,
-    "FIELD4": "",
-    "Change": -0.52,
-    "%Change": "-1.40%"
+    "symbol": "GILD",
+    "name": "Gilead Sciences Inc",
+    "price": 73.7,
+    "field4": "",
+    "change": -0.74,
+    "percentChange": "-0.99%"
   },
   {
-    "Symbol": "GILD",
-    "Name": "Gilead Sciences Inc",
-    "Price": 73.7,
-    "FIELD4": "",
-    "Change": -0.74,
-    "%Change": "-0.99%"
+    "symbol": "GOOG",
+    "name": "Alphabet Class C",
+    "price": 1072.96,
+    "field4": "",
+    "change": -14.74,
+    "percentChange": "-1.36%"
   },
   {
-    "Symbol": "GOOG",
-    "Name": "Alphabet Class C",
-    "Price": 1072.96,
-    "FIELD4": "",
-    "Change": -14.74,
-    "%Change": "-1.36%"
+    "symbol": "GOOGL",
+    "name": "Alphabet Class A",
+    "price": 1077.3199,
+    "field4": "",
+    "change": -12.1301,
+    "percentChange": "-1.11%"
   },
   {
-    "Symbol": "GOOGL",
-    "Name": "Alphabet Class A",
-    "Price": 1077.3199,
-    "FIELD4": "",
-    "Change": -12.1301,
-    "%Change": "-1.11%"
+    "symbol": "HAS",
+    "name": "Hasbro Inc",
+    "price": 82.81,
+    "field4": "",
+    "change": -1.18,
+    "percentChange": "-1.40%"
   },
   {
-    "Symbol": "HAS",
-    "Name": "Hasbro Inc",
-    "Price": 82.81,
-    "FIELD4": "",
-    "Change": -1.18,
-    "%Change": "-1.40%"
+    "symbol": "HSIC",
+    "name": "Henry Schein Inc",
+    "price": 69.07,
+    "field4": "",
+    "change": -0.68,
+    "percentChange": "-0.97%"
   },
   {
-    "Symbol": "HSIC",
-    "Name": "Henry Schein Inc",
-    "Price": 69.07,
-    "FIELD4": "",
-    "Change": -0.68,
-    "%Change": "-0.97%"
+    "symbol": "HOLX",
+    "name": "Hologic Inc",
+    "price": 38.3,
+    "field4": "",
+    "change": -0.31,
+    "percentChange": "-0.80%"
   },
   {
-    "Symbol": "HOLX",
-    "Name": "Hologic Inc",
-    "Price": 38.3,
-    "FIELD4": "",
-    "Change": -0.31,
-    "%Change": "-0.80%"
+    "symbol": "ILMN",
+    "name": "Illumina Inc",
+    "price": 244.6,
+    "field4": "",
+    "change": -1.24,
+    "percentChange": "-0.50%"
   },
   {
-    "Symbol": "ILMN",
-    "Name": "Illumina Inc",
-    "Price": 244.6,
-    "FIELD4": "",
-    "Change": -1.24,
-    "%Change": "-0.50%"
+    "symbol": "INCY",
+    "name": "Incyte Corp",
+    "price": 68.43,
+    "field4": "",
+    "change": -0.62,
+    "percentChange": "-0.90%"
   },
   {
-    "Symbol": "INCY",
-    "Name": "Incyte Corp",
-    "Price": 68.43,
-    "FIELD4": "",
-    "Change": -0.62,
-    "%Change": "-0.90%"
+    "symbol": "INTC",
+    "name": "Intel Corp",
+    "price": 51.53,
+    "field4": "",
+    "change": -0.69,
+    "percentChange": "-1.32%"
   },
   {
-    "Symbol": "INTC",
-    "Name": "Intel Corp",
-    "Price": 51.53,
-    "FIELD4": "",
-    "Change": -0.69,
-    "%Change": "-1.32%"
+    "symbol": "INTU",
+    "name": "Intuit Inc",
+    "price": 178.13,
+    "field4": "",
+    "change": -1.28,
+    "percentChange": "-0.71%"
   },
   {
-    "Symbol": "INTU",
-    "Name": "Intuit Inc",
-    "Price": 178.13,
-    "FIELD4": "",
-    "Change": -1.28,
-    "%Change": "-0.71%"
+    "symbol": "ISRG",
+    "name": "Intuitive Surgical Inc",
+    "price": 456.27,
+    "field4": "",
+    "change": -6.44,
+    "percentChange": "-1.39%"
   },
   {
-    "Symbol": "ISRG",
-    "Name": "Intuitive Surgical Inc",
-    "Price": 456.27,
-    "FIELD4": "",
-    "Change": -6.44,
-    "%Change": "-1.39%"
+    "symbol": "JBHT",
+    "name": "J.B. Hunt Transport Services Inc",
+    "price": 119.59,
+    "field4": "",
+    "change": -1.68,
+    "percentChange": "-1.39%"
   },
   {
-    "Symbol": "JBHT",
-    "Name": "J.B. Hunt Transport Services Inc",
-    "Price": 119.59,
-    "FIELD4": "",
-    "Change": -1.68,
-    "%Change": "-1.39%"
+    "symbol": "JD",
+    "name": "JD.com Inc",
+    "price": 37.44,
+    "field4": "",
+    "change": -1.46,
+    "percentChange": "-3.75%"
   },
   {
-    "Symbol": "JD",
-    "Name": "JD.com Inc",
-    "Price": 37.44,
-    "FIELD4": "",
-    "Change": -1.46,
-    "%Change": "-3.75%"
+    "symbol": "KLAC",
+    "name": "KLA-Tencor Corp",
+    "price": 101.48,
+    "field4": "",
+    "change": -0.81,
+    "percentChange": "-0.79%"
   },
   {
-    "Symbol": "KLAC",
-    "Name": "KLA-Tencor Corp",
-    "Price": 101.48,
-    "FIELD4": "",
-    "Change": -0.81,
-    "%Change": "-0.79%"
+    "symbol": "LBTYK",
+    "name": "Liberty Global PLC",
+    "price": 30.45,
+    "field4": "",
+    "change": -0.42,
+    "percentChange": "-1.36%"
   },
   {
-    "Symbol": "KHC",
-    "Name": "Kraft Heinz Co",
-    "Price": 58.22,
-    "FIELD4": "",
-    "Change": -1.51,
-    "%Change": "-2.53%"
+    "symbol": "LBTYA",
+    "name": "Liberty Global PLC",
+    "price": 31.78,
+    "field4": "",
+    "change": -0.44,
+    "percentChange": "-1.37%"
   },
   {
-    "Symbol": "LBTYK",
-    "Name": "Liberty Global PLC",
-    "Price": 30.45,
-    "FIELD4": "",
-    "Change": -0.42,
-    "%Change": "-1.36%"
+    "symbol": "MELI",
+    "name": "MercadoLibre Inc",
+    "price": 324.49,
+    "field4": "",
+    "change": -5.51,
+    "percentChange": "-1.67%"
   },
   {
-    "Symbol": "LILA",
-    "Name": "Liberty Latin America Ltd",
-    "Price": 19.81,
-    "FIELD4": "",
-    "Change": -0.05,
-    "%Change": "-0.25%"
+    "symbol": "MAR",
+    "name": "Marriott International Inc",
+    "price": 137.48,
+    "field4": "",
+    "change": -0.14,
+    "percentChange": "-0.10%"
   },
   {
-    "Symbol": "LBTYA",
-    "Name": "Liberty Global PLC",
-    "Price": 31.78,
-    "FIELD4": "",
-    "Change": -0.44,
-    "%Change": "-1.37%"
+    "symbol": "MAT",
+    "name": "Mattel Inc",
+    "price": 12.96,
+    "field4": "",
+    "change": -0.49,
+    "percentChange": "-3.64%"
   },
   {
-    "Symbol": "QRTEA",
-    "Name": "Qurate Retail Inc",
-    "Price": 25.23,
-    "FIELD4": "",
-    "Change": -0.18,
-    "%Change": "-0.71%"
+    "symbol": "MDLZ",
+    "name": "Mondelez International Inc",
+    "price": 40.11,
+    "field4": "",
+    "change": -0.9,
+    "percentChange": "-2.19%"
   },
   {
-    "Symbol": "MELI",
-    "Name": "MercadoLibre Inc",
-    "Price": 324.49,
-    "FIELD4": "",
-    "Change": -5.51,
-    "%Change": "-1.67%"
+    "symbol": "MNST",
+    "name": "Monster Beverage Corp",
+    "price": 56.5,
+    "field4": "",
+    "change": -0.81,
+    "percentChange": "-1.41%"
   },
   {
-    "Symbol": "MAR",
-    "Name": "Marriott International Inc",
-    "Price": 137.48,
-    "FIELD4": "",
-    "Change": -0.14,
-    "%Change": "-0.10%"
+    "symbol": "MSFT",
+    "name": "Microsoft Corp",
+    "price": 95,
+    "field4": "",
+    "change": -1.11,
+    "percentChange": "-1.15%"
   },
   {
-    "Symbol": "MAT",
-    "Name": "Mattel Inc",
-    "Price": 12.96,
-    "FIELD4": "",
-    "Change": -0.49,
-    "%Change": "-3.64%"
+    "symbol": "MU",
+    "name": "Micron Technology Inc",
+    "price": 50.62,
+    "field4": "",
+    "change": -0.8,
+    "percentChange": "-1.56%"
   },
   {
-    "Symbol": "MDLZ",
-    "Name": "Mondelez International Inc",
-    "Price": 40.11,
-    "FIELD4": "",
-    "Change": -0.9,
-    "%Change": "-2.19%"
+    "symbol": "MXIM",
+    "name": "Maxim Integrated Products Inc",
+    "price": 54.4,
+    "field4": "",
+    "change": -1.75,
+    "percentChange": "-3.12%"
   },
   {
-    "Symbol": "MNST",
-    "Name": "Monster Beverage Corp",
-    "Price": 56.5,
-    "FIELD4": "",
-    "Change": -0.81,
-    "%Change": "-1.41%"
+    "symbol": "MYL",
+    "name": "Mylan NV",
+    "price": 40.72,
+    "field4": "",
+    "change": -0.09,
+    "percentChange": "-0.22%"
   },
   {
-    "Symbol": "MSFT",
-    "Name": "Microsoft Corp",
-    "Price": 95,
-    "FIELD4": "",
-    "Change": -1.11,
-    "%Change": "-1.15%"
+    "symbol": "NCLH",
+    "name": "Norwegian Cruise Line Holdings Ltd",
+    "price": 55.65,
+    "field4": "",
+    "change": 0.69,
+    "percentChange": "1.26%"
   },
   {
-    "Symbol": "MU",
-    "Name": "Micron Technology Inc",
-    "Price": 50.62,
-    "FIELD4": "",
-    "Change": -0.8,
-    "%Change": "-1.56%"
+    "symbol": "NFLX",
+    "name": "Netflix Inc",
+    "price": 327.77,
+    "field4": "",
+    "change": -4.93,
+    "percentChange": "-1.48%"
   },
   {
-    "Symbol": "MXIM",
-    "Name": "Maxim Integrated Products Inc",
-    "Price": 54.4,
-    "FIELD4": "",
-    "Change": -1.75,
-    "%Change": "-3.12%"
+    "symbol": "NTES",
+    "name": "NetEase Inc",
+    "price": 266.3,
+    "field4": "",
+    "change": -8.84,
+    "percentChange": "-3.21%"
   },
   {
-    "Symbol": "MYL",
-    "Name": "Mylan NV",
-    "Price": 40.72,
-    "FIELD4": "",
-    "Change": -0.09,
-    "%Change": "-0.22%"
+    "symbol": "NVDA",
+    "name": "NVIDIA Corp",
+    "price": 228.71,
+    "field4": "",
+    "change": -0.33,
+    "percentChange": "-0.14%"
   },
   {
-    "Symbol": "NCLH",
-    "Name": "Norwegian Cruise Line Holdings Ltd",
-    "Price": 55.65,
-    "FIELD4": "",
-    "Change": 0.69,
-    "%Change": "1.26%"
+    "symbol": "PAYX",
+    "name": "Paychex Inc",
+    "price": 60.34,
+    "field4": "",
+    "change": -0.59,
+    "percentChange": "-0.97%"
   },
   {
-    "Symbol": "NFLX",
-    "Name": "Netflix Inc",
-    "Price": 327.77,
-    "FIELD4": "",
-    "Change": -4.93,
-    "%Change": "-1.48%"
+    "symbol": "QCOM",
+    "name": "Qualcomm Inc",
+    "price": 51.44,
+    "field4": "",
+    "change": -1.13,
+    "percentChange": "-2.15%"
   },
   {
-    "Symbol": "NTES",
-    "Name": "NetEase Inc",
-    "Price": 266.3,
-    "FIELD4": "",
-    "Change": -8.84,
-    "%Change": "-3.21%"
+    "symbol": "REGN",
+    "name": "Regeneron Pharmaceuticals Inc",
+    "price": 314.25,
+    "field4": "",
+    "change": -1.58,
+    "percentChange": "-0.50%"
   },
   {
-    "Symbol": "NVDA",
-    "Name": "NVIDIA Corp",
-    "Price": 228.71,
-    "FIELD4": "",
-    "Change": -0.33,
-    "%Change": "-0.14%"
+    "symbol": "ROST",
+    "name": "Ross Stores Inc",
+    "price": 77.32,
+    "field4": "",
+    "change": -1.43,
+    "percentChange": "-1.82%"
   },
   {
-    "Symbol": "PAYX",
-    "Name": "Paychex Inc",
-    "Price": 60.34,
-    "FIELD4": "",
-    "Change": -0.59,
-    "%Change": "-0.97%"
+    "symbol": "SHPG",
+    "name": "Shire PLC",
+    "price": 164.37,
+    "field4": "",
+    "change": 3.63,
+    "percentChange": "2.26%"
   },
   {
-    "Symbol": "BKNG",
-    "Name": "Booking Holdings Inc",
-    "Price": 2131.3701,
-    "FIELD4": "",
-    "Change": -27.5799,
-    "%Change": "-1.28%"
+    "symbol": "SIRI",
+    "name": "Sirius XM Holdings Inc",
+    "price": 6.31,
+    "field4": "",
+    "change": -0.03,
+    "percentChange": "-0.47%"
   },
   {
-    "Symbol": "PYPL",
-    "Name": "PayPal Holdings Inc",
-    "Price": 78.73,
-    "FIELD4": "",
-    "Change": -0.95,
-    "%Change": "-1.19%"
+    "symbol": "SWKS",
+    "name": "Skyworks Solutions Inc",
+    "price": 91.18,
+    "field4": "",
+    "change": -2.7,
+    "percentChange": "-2.88%"
   },
   {
-    "Symbol": "QCOM",
-    "Name": "Qualcomm Inc",
-    "Price": 51.44,
-    "FIELD4": "",
-    "Change": -1.13,
-    "%Change": "-2.15%"
+    "symbol": "SBUX",
+    "name": "Starbucks Corp",
+    "price": 58,
+    "field4": "",
+    "change": -1.22,
+    "percentChange": "-2.06%"
   },
   {
-    "Symbol": "REGN",
-    "Name": "Regeneron Pharmaceuticals Inc",
-    "Price": 314.25,
-    "FIELD4": "",
-    "Change": -1.58,
-    "%Change": "-0.50%"
+    "symbol": "SYMC",
+    "name": "Symantec Corp",
+    "price": 27.71,
+    "field4": "",
+    "change": -0.14,
+    "percentChange": "-0.50%"
   },
   {
-    "Symbol": "ROST",
-    "Name": "Ross Stores Inc",
-    "Price": 77.32,
-    "FIELD4": "",
-    "Change": -1.43,
-    "%Change": "-1.82%"
+    "symbol": "TSCO",
+    "name": "Tractor Supply Co",
+    "price": 60.33,
+    "field4": "",
+    "change": 0.45,
+    "percentChange": "0.75%"
   },
   {
-    "Symbol": "SHPG",
-    "Name": "Shire PLC",
-    "Price": 164.37,
-    "FIELD4": "",
-    "Change": 3.63,
-    "%Change": "2.26%"
+    "symbol": "TXN",
+    "name": "Texas Instruments Inc",
+    "price": 99.96,
+    "field4": "",
+    "change": -1.33,
+    "percentChange": "-1.31%"
   },
   {
-    "Symbol": "SIRI",
-    "Name": "Sirius XM Holdings Inc",
-    "Price": 6.31,
-    "FIELD4": "",
-    "Change": -0.03,
-    "%Change": "-0.47%"
+    "symbol": "ULTA",
+    "name": "Ulta Beauty Inc",
+    "price": 235.05,
+    "field4": "",
+    "change": 0.89,
+    "percentChange": "0.38%"
   },
   {
-    "Symbol": "SWKS",
-    "Name": "Skyworks Solutions Inc",
-    "Price": 91.18,
-    "FIELD4": "",
-    "Change": -2.7,
-    "%Change": "-2.88%"
+    "symbol": "VIAB",
+    "name": "Viacom Inc",
+    "price": 30.66,
+    "field4": "",
+    "change": -0.1,
+    "percentChange": "-0.33%"
   },
   {
-    "Symbol": "SBUX",
-    "Name": "Starbucks Corp",
-    "Price": 58,
-    "FIELD4": "",
-    "Change": -1.22,
-    "%Change": "-2.06%"
+    "symbol": "VOD",
+    "name": "Vodafone Group PLC",
+    "price": 29.74,
+    "field4": "",
+    "change": 0.28,
+    "percentChange": "0.95%"
   },
   {
-    "Symbol": "SYMC",
-    "Name": "Symantec Corp",
-    "Price": 27.71,
-    "FIELD4": "",
-    "Change": -0.14,
-    "%Change": "-0.50%"
+    "symbol": "VRTX",
+    "name": "Vertex Pharmaceuticals Inc",
+    "price": 158.15,
+    "field4": "",
+    "change": -1.4,
+    "percentChange": "-0.88%"
   },
   {
-    "Symbol": "TSCO",
-    "Name": "Tractor Supply Co",
-    "Price": 60.33,
-    "FIELD4": "",
-    "Change": 0.45,
-    "%Change": "0.75%"
-  },
-  {
-    "Symbol": "TXN",
-    "Name": "Texas Instruments Inc",
-    "Price": 99.96,
-    "FIELD4": "",
-    "Change": -1.33,
-    "%Change": "-1.31%"
-  },
-  {
-    "Symbol": "TMUS",
-    "Name": "T-Mobile US Inc",
-    "Price": 63.09,
-    "FIELD4": "",
-    "Change": -0.16,
-    "%Change": "-0.25%"
-  },
-  {
-    "Symbol": "ULTA",
-    "Name": "Ulta Beauty Inc",
-    "Price": 235.05,
-    "FIELD4": "",
-    "Change": 0.89,
-    "%Change": "0.38%"
-  },
-  {
-    "Symbol": "VIAB",
-    "Name": "Viacom Inc",
-    "Price": 30.66,
-    "FIELD4": "",
-    "Change": -0.1,
-    "%Change": "-0.33%"
-  },
-  {
-    "Symbol": "VOD",
-    "Name": "Vodafone Group PLC",
-    "Price": 29.74,
-    "FIELD4": "",
-    "Change": 0.28,
-    "%Change": "0.95%"
-  },
-  {
-    "Symbol": "VRTX",
-    "Name": "Vertex Pharmaceuticals Inc",
-    "Price": 158.15,
-    "FIELD4": "",
-    "Change": -1.4,
-    "%Change": "-0.88%"
-  },
-  {
-    "Symbol": "WBA",
-    "Name": "Walgreens Boots Alliance Inc",
-    "Price": 63.92,
-    "FIELD4": "",
-    "Change": -1.36,
-    "%Change": "-2.08%"
-  },
-  {
-    "Symbol": "WDC",
-    "Name": "Western Digital Corp",
-    "Price": 89.56,
-    "FIELD4": "",
-    "Change": 0.05,
-    "%Change": "0.06%"
-  },
-  {
-    "Symbol": "XRAY",
-    "Name": "Dentsply Sirona Inc",
-    "Price": 49.34,
-    "FIELD4": "",
-    "Change": -0.4,
-    "%Change": "-0.80%"
-  },
-  {
-    "Symbol": "IDXX",
-    "Name": "IDEXX Laboratories Inc",
-    "Price": 196.75,
-    "FIELD4": "",
-    "Change": -1.07,
-    "%Change": "-0.54%"
-  },
-  {
-    "Symbol": "LILAK",
-    "Name": "Liberty Latin America Ltd",
-    "Price": 19.39,
-    "FIELD4": "",
-    "Change": -0.1,
-    "%Change": "-0.51%"
-  },
-  {
-    "Symbol": "LRCX",
-    "Name": "Lam Research Corp",
-    "Price": 191.91,
-    "FIELD4": "",
-    "Change": 1.52,
-    "%Change": "0.80%"
-  },
-  {
-    "Symbol": "MCHP",
-    "Name": "Microchip Technology Inc",
-    "Price": 85.68,
-    "FIELD4": "",
-    "Change": 0.54,
-    "%Change": "0.63%"
-  },
-  {
-    "Symbol": "ORLY",
-    "Name": "O'Reilly Automotive Inc",
-    "Price": 221.48,
-    "FIELD4": "",
-    "Change": -1.47,
-    "%Change": "-0.66%"
-  },
-  {
-    "Symbol": "PCAR",
-    "Name": "PACCAR Inc",
-    "Price": 69.18,
-    "FIELD4": "",
-    "Change": -0.46,
-    "%Change": "-0.66%"
-  },
-  {
-    "Symbol": "STX",
-    "Name": "Seagate Technology PLC",
-    "Price": 59.64,
-    "FIELD4": "",
-    "Change": -0.26,
-    "%Change": "-0.43%"
-  },
-  {
-    "Symbol": "TSLA",
-    "Name": "Tesla Inc",
-    "Price": 290.24,
-    "FIELD4": "",
-    "Change": -9.84,
-    "%Change": "-3.28%"
-  },
-  {
-    "Symbol": "VRSK",
-    "Name": "Verisk Analytics Inc",
-    "Price": 107.38,
-    "FIELD4": "",
-    "Change": -0.19,
-    "%Change": "-0.18%"
-  },
-  {
-    "Symbol": "WYNN",
-    "Name": "Wynn Resorts Ltd",
-    "Price": 192.51,
-    "FIELD4": "",
-    "Change": 0.86,
-    "%Change": "0.45%"
-  },
-  {
-    "Symbol": "XLNX",
-    "Name": "Xilinx Inc",
-    "Price": 64.15,
-    "FIELD4": "",
-    "Change": -0.75,
-    "%Change": "-1.16%"
+    "symbol": "WBA",
+    "name": "Walgreens Boots Alliance Inc",
+    "price": 63.92,
+    "field4": "",
+    "change": -1.36,
+    "percentChange": "-2.08%"
+  },
+  {
+    "symbol": "WDC",
+    "name": "Western Digital Corp",
+    "price": 89.56,
+    "field4": "",
+    "change": 0.05,
+    "percentChange": "0.06%"
+  },
+  {
+    "symbol": "XRAY",
+    "name": "Dentsply Sirona Inc",
+    "price": 49.34,
+    "field4": "",
+    "change": -0.4,
+    "percentChange": "-0.80%"
+  },
+  {
+    "symbol": "IDXX",
+    "name": "IDEXX Laboratories Inc",
+    "price": 196.75,
+    "field4": "",
+    "change": -1.07,
+    "percentChange": "-0.54%"
+  },
+  {
+    "symbol": "LRCX",
+    "name": "Lam Research Corp",
+    "price": 191.91,
+    "field4": "",
+    "change": 1.52,
+    "percentChange": "0.80%"
+  },
+  {
+    "symbol": "MCHP",
+    "name": "Microchip Technology Inc",
+    "price": 85.68,
+    "field4": "",
+    "change": 0.54,
+    "percentChange": "0.63%"
+  },
+  {
+    "symbol": "ORLY",
+    "name": "O'Reilly Automotive Inc",
+    "price": 221.48,
+    "field4": "",
+    "change": -1.47,
+    "percentChange": "-0.66%"
+  },
+  {
+    "symbol": "PCAR",
+    "name": "PACCAR Inc",
+    "price": 69.18,
+    "field4": "",
+    "change": -0.46,
+    "percentChange": "-0.66%"
+  },
+  {
+    "symbol": "STX",
+    "name": "Seagate Technology PLC",
+    "price": 59.64,
+    "field4": "",
+    "change": -0.26,
+    "percentChange": "-0.43%"
+  },
+  {
+    "symbol": "TSLA",
+    "name": "Tesla Inc",
+    "price": 290.24,
+    "field4": "",
+    "change": -9.84,
+    "percentChange": "-3.28%"
+  },
+  {
+    "symbol": "VRSK",
+    "name": "Verisk Analytics Inc",
+    "price": 107.38,
+    "field4": "",
+    "change": -0.19,
+    "percentChange": "-0.18%"
+  },
+  {
+    "symbol": "WYNN",
+    "name": "Wynn Resorts Ltd",
+    "price": 192.51,
+    "field4": "",
+    "change": 0.86,
+    "percentChange": "0.45%"
+  },
+  {
+    "symbol": "XLNX",
+    "name": "Xilinx Inc",
+    "price": 64.15,
+    "field4": "",
+    "change": -0.75,
+    "percentChange": "-1.16%"
   }
 ]
