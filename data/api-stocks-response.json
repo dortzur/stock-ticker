@@ -1,0 +1,1691 @@
+[
+  {
+    "companyName": "American Airlines Group, Inc.",
+    "financialStatus": "N",
+    "marketCategory": "Q",
+    "roundLotSize": 100,
+    "securityName": "American Airlines Group, Inc. - Common Stock",
+    "symbol": "AAL",
+    "testIssue": "N",
+    "stock": {
+      "symbol": "AAL",
+      "name": "American Airlines Group Inc",
+      "price": 46.78,
+      "field4": "",
+      "change": -0.1,
+      "percentChange": "-0.21%"
+    }
+  },
+  {
+    "companyName": "Apple Inc.",
+    "financialStatus": "N",
+    "marketCategory": "Q",
+    "roundLotSize": 100,
+    "securityName": "Apple Inc. - Common Stock",
+    "symbol": "AAPL",
+    "testIssue": "N",
+    "stock": {
+      "symbol": "AAPL",
+      "name": "Apple Inc",
+      "price": 165.72,
+      "field4": "",
+      "change": -7.08,
+      "percentChange": "-4.10%"
+    }
+  },
+  {
+    "companyName": "Adobe Systems Incorporated",
+    "financialStatus": "N",
+    "marketCategory": "Q",
+    "roundLotSize": 100,
+    "securityName": "Adobe Systems Incorporated - Common Stock",
+    "symbol": "ADBE",
+    "testIssue": "N",
+    "stock": {
+      "symbol": "ADBE",
+      "name": "Adobe Systems Inc",
+      "price": 225.24,
+      "field4": "",
+      "change": -2.38,
+      "percentChange": "-1.05%"
+    }
+  },
+  {
+    "companyName": "Analog Devices, Inc.",
+    "financialStatus": "N",
+    "marketCategory": "Q",
+    "roundLotSize": 100,
+    "securityName": "Analog Devices, Inc. - Common Stock",
+    "symbol": "ADI",
+    "testIssue": "N",
+    "stock": {
+      "symbol": "ADI",
+      "name": "Analog Devices Inc",
+      "price": 89.76,
+      "field4": "",
+      "change": -0.09,
+      "percentChange": "-0.10%"
+    }
+  },
+  {
+    "companyName": "Automatic Data Processing, Inc.",
+    "financialStatus": "N",
+    "marketCategory": "Q",
+    "roundLotSize": 100,
+    "securityName": "Automatic Data Processing, Inc. - Common Stock",
+    "symbol": "ADP",
+    "testIssue": "N",
+    "stock": {
+      "symbol": "ADP",
+      "name": "Automatic Data Processing Inc",
+      "price": 116.84,
+      "field4": "",
+      "change": -0.91,
+      "percentChange": "-0.77%"
+    }
+  },
+  {
+    "companyName": "Autodesk, Inc.",
+    "financialStatus": "N",
+    "marketCategory": "Q",
+    "roundLotSize": 100,
+    "securityName": "Autodesk, Inc. - Common Stock",
+    "symbol": "ADSK",
+    "testIssue": "N",
+    "stock": {
+      "symbol": "ADSK",
+      "name": "Autodesk Inc",
+      "price": 130.09,
+      "field4": "",
+      "change": -2.24,
+      "percentChange": "-1.69%"
+    }
+  },
+  {
+    "companyName": "Akamai Technologies, Inc.",
+    "financialStatus": "N",
+    "marketCategory": "Q",
+    "roundLotSize": 100,
+    "securityName": "Akamai Technologies, Inc. - Common Stock",
+    "symbol": "AKAM",
+    "testIssue": "N",
+    "stock": {
+      "symbol": "AKAM",
+      "name": "Akamai Technologies Inc",
+      "price": 71.3,
+      "field4": "",
+      "change": -1.16,
+      "percentChange": "-1.60%"
+    }
+  },
+  {
+    "companyName": "Align Technology, Inc.",
+    "financialStatus": "N",
+    "marketCategory": "Q",
+    "roundLotSize": 100,
+    "securityName": "Align Technology, Inc. - Common Stock",
+    "symbol": "ALGN",
+    "testIssue": "N",
+    "stock": {
+      "symbol": "ALGN",
+      "name": "Align Technology Inc",
+      "price": 247.07,
+      "field4": "",
+      "change": -5.71,
+      "percentChange": "-2.26%"
+    }
+  },
+  {
+    "companyName": "Alexion Pharmaceuticals, Inc.",
+    "financialStatus": "N",
+    "marketCategory": "Q",
+    "roundLotSize": 100,
+    "securityName": "Alexion Pharmaceuticals, Inc. - Common Stock",
+    "symbol": "ALXN",
+    "testIssue": "N",
+    "stock": {
+      "symbol": "ALXN",
+      "name": "Alexion Pharmaceuticals Inc",
+      "price": 107.78,
+      "field4": "",
+      "change": -3.96,
+      "percentChange": "-3.54%"
+    }
+  },
+  {
+    "companyName": "Applied Materials, Inc.",
+    "financialStatus": "N",
+    "marketCategory": "Q",
+    "roundLotSize": 100,
+    "securityName": "Applied Materials, Inc. - Common Stock",
+    "symbol": "AMAT",
+    "testIssue": "N",
+    "stock": {
+      "symbol": "AMAT",
+      "name": "Applied Materials Inc",
+      "price": 51.09,
+      "field4": "",
+      "change": -0.1,
+      "percentChange": "-0.20%"
+    }
+  },
+  {
+    "companyName": "Amgen Inc.",
+    "financialStatus": "N",
+    "marketCategory": "Q",
+    "roundLotSize": 100,
+    "securityName": "Amgen Inc. - Common Stock",
+    "symbol": "AMGN",
+    "testIssue": "N",
+    "stock": {
+      "symbol": "AMGN",
+      "name": "Amgen Inc",
+      "price": 171.56,
+      "field4": "",
+      "change": -1.37,
+      "percentChange": "-0.79%"
+    }
+  },
+  {
+    "companyName": "Amazon.com, Inc.",
+    "financialStatus": "N",
+    "marketCategory": "Q",
+    "roundLotSize": 100,
+    "securityName": "Amazon.com, Inc. - Common Stock",
+    "symbol": "AMZN",
+    "testIssue": "N",
+    "stock": {
+      "symbol": "AMZN",
+      "name": "Amazon.com Inc",
+      "price": 1527.49,
+      "field4": "",
+      "change": -29.42,
+      "percentChange": "-1.89%"
+    }
+  },
+  {
+    "companyName": "Activision Blizzard, Inc",
+    "financialStatus": "N",
+    "marketCategory": "Q",
+    "roundLotSize": 100,
+    "securityName": "Activision Blizzard, Inc - Common Stock",
+    "symbol": "ATVI",
+    "testIssue": "N",
+    "stock": {
+      "symbol": "ATVI",
+      "name": "Activision Blizzard Inc",
+      "price": 66.3,
+      "field4": "",
+      "change": -1.38,
+      "percentChange": "-2.04%"
+    }
+  },
+  {
+    "companyName": "Avago Technologies Limited",
+    "financialStatus": "N",
+    "marketCategory": "Q",
+    "roundLotSize": 100,
+    "securityName": "Avago Technologies Limited - Ordinary Shares",
+    "symbol": "AVGO",
+    "testIssue": "N",
+    "stock": {
+      "symbol": "AVGO",
+      "name": "Broadcom Inc",
+      "price": 237.12,
+      "field4": "",
+      "change": -5.74,
+      "percentChange": "-2.36%"
+    }
+  },
+  {
+    "companyName": "Baidu, Inc.",
+    "financialStatus": "N",
+    "marketCategory": "Q",
+    "roundLotSize": 100,
+    "securityName":
+      "Baidu, Inc. - American Depositary Shares, each representing one tenth Class A ordinary share",
+    "symbol": "BIDU",
+    "testIssue": "N",
+    "stock": {
+      "symbol": "BIDU",
+      "name": "Baidu Inc",
+      "price": 232.5,
+      "field4": "",
+      "change": -4.61,
+      "percentChange": "-1.94%"
+    }
+  },
+  {
+    "companyName": "Biogen Idec Inc.",
+    "financialStatus": "N",
+    "marketCategory": "Q",
+    "roundLotSize": 100,
+    "securityName": "Biogen Idec Inc. - Common Stock",
+    "symbol": "BIIB",
+    "testIssue": "N",
+    "stock": {
+      "symbol": "BIIB",
+      "name": "Biogen Inc",
+      "price": 263.02,
+      "field4": "",
+      "change": -3,
+      "percentChange": "-1.13%"
+    }
+  },
+  {
+    "companyName": "BioMarin Pharmaceutical Inc.",
+    "financialStatus": "N",
+    "marketCategory": "Q",
+    "roundLotSize": 100,
+    "securityName": "BioMarin Pharmaceutical Inc. - Common Stock",
+    "symbol": "BMRN",
+    "testIssue": "N",
+    "stock": {
+      "symbol": "BMRN",
+      "name": "Biomarin Pharmaceutical Inc",
+      "price": 82.3,
+      "field4": "",
+      "change": -1.32,
+      "percentChange": "-1.58%"
+    }
+  },
+  {
+    "companyName": "CA Inc.",
+    "financialStatus": "N",
+    "marketCategory": "Q",
+    "roundLotSize": 100,
+    "securityName": "CA Inc. - Common Stock",
+    "symbol": "CA",
+    "testIssue": "N",
+    "stock": {
+      "symbol": "CA",
+      "name": "CA Inc",
+      "price": 34.58,
+      "field4": "",
+      "change": -0.26,
+      "percentChange": "-0.75%"
+    }
+  },
+  {
+    "companyName": "Celgene Corporation",
+    "financialStatus": "N",
+    "marketCategory": "Q",
+    "roundLotSize": 100,
+    "securityName": "Celgene Corporation - Common Stock",
+    "symbol": "CELG",
+    "testIssue": "N",
+    "stock": {
+      "symbol": "CELG",
+      "name": "Celgene Corp",
+      "price": 88.95,
+      "field4": "",
+      "change": -0.67,
+      "percentChange": "-0.75%"
+    }
+  },
+  {
+    "companyName": "Cerner Corporation",
+    "financialStatus": "N",
+    "marketCategory": "Q",
+    "roundLotSize": 100,
+    "securityName": "Cerner Corporation - Common Stock",
+    "symbol": "CERN",
+    "testIssue": "N",
+    "stock": {
+      "symbol": "CERN",
+      "name": "Cerner Corp",
+      "price": 58.23,
+      "field4": "",
+      "change": -0.69,
+      "percentChange": "-1.17%"
+    }
+  },
+  {
+    "companyName": "Check Point Software Technologies Ltd.",
+    "financialStatus": "N",
+    "marketCategory": "Q",
+    "roundLotSize": 100,
+    "securityName": "Check Point Software Technologies Ltd. - Ordinary Shares",
+    "symbol": "CHKP",
+    "testIssue": "N",
+    "stock": {
+      "symbol": "CHKP",
+      "name": "Check Point Software Technologies Ltd",
+      "price": 102.23,
+      "field4": "",
+      "change": -0.87,
+      "percentChange": "-0.84%"
+    }
+  },
+  {
+    "companyName": "Charter Communications, Inc.",
+    "financialStatus": "N",
+    "marketCategory": "Q",
+    "roundLotSize": 100,
+    "securityName": "Charter Communications, Inc. - Class A Common Stock",
+    "symbol": "CHTR",
+    "testIssue": "N",
+    "stock": {
+      "symbol": "CHTR",
+      "name": "Charter Communications Inc",
+      "price": 310.94,
+      "field4": "",
+      "change": -4.61,
+      "percentChange": "-1.46%"
+    }
+  },
+  {
+    "companyName": "Comcast Corporation",
+    "financialStatus": "N",
+    "marketCategory": "Q",
+    "roundLotSize": 100,
+    "securityName": "Comcast Corporation - Class A Common Stock",
+    "symbol": "CMCSA",
+    "testIssue": "N",
+    "stock": {
+      "symbol": "CMCSA",
+      "name": "Comcast Corp",
+      "price": 33.21,
+      "field4": "",
+      "change": -0.27,
+      "percentChange": "-0.81%"
+    }
+  },
+  {
+    "companyName": "Costco Wholesale Corporation",
+    "financialStatus": "N",
+    "marketCategory": "Q",
+    "roundLotSize": 100,
+    "securityName": "Costco Wholesale Corporation - Common Stock",
+    "symbol": "COST",
+    "testIssue": "N",
+    "stock": {
+      "symbol": "COST",
+      "name": "Costco Wholesale Corp",
+      "price": 193.56,
+      "field4": "",
+      "change": -1.51,
+      "percentChange": "-0.77%"
+    }
+  },
+  {
+    "companyName": "Cisco Systems, Inc.",
+    "financialStatus": "N",
+    "marketCategory": "Q",
+    "roundLotSize": 100,
+    "securityName": "Cisco Systems, Inc. - Common Stock",
+    "symbol": "CSCO",
+    "testIssue": "N",
+    "stock": {
+      "symbol": "CSCO",
+      "name": "Cisco Systems Inc",
+      "price": 44.09,
+      "field4": "",
+      "change": -0.47,
+      "percentChange": "-1.05%"
+    }
+  },
+  {
+    "companyName": "Cintas Corporation",
+    "financialStatus": "N",
+    "marketCategory": "Q",
+    "roundLotSize": 100,
+    "securityName": "Cintas Corporation - Common Stock",
+    "symbol": "CTAS",
+    "testIssue": "N",
+    "stock": {
+      "symbol": "CTAS",
+      "name": "Cintas Corp",
+      "price": 173.12,
+      "field4": "",
+      "change": -1.04,
+      "percentChange": "-0.60%"
+    }
+  },
+  {
+    "companyName": "Ctrip.com International, Ltd.",
+    "financialStatus": "N",
+    "marketCategory": "Q",
+    "roundLotSize": 100,
+    "securityName":
+      "Ctrip.com International, Ltd. - American Depositary Shares",
+    "symbol": "CTRP",
+    "testIssue": "N",
+    "stock": {
+      "symbol": "CTRP",
+      "name": "Ctrip.Com International Ltd",
+      "price": 42.65,
+      "field4": "",
+      "change": -0.45,
+      "percentChange": "-1.04%"
+    }
+  },
+  {
+    "companyName": "Cognizant Technology Solutions Corporation",
+    "financialStatus": "N",
+    "marketCategory": "Q",
+    "roundLotSize": 100,
+    "securityName":
+      "Cognizant Technology Solutions Corporation - Class A Common Stock",
+    "symbol": "CTSH",
+    "testIssue": "N",
+    "stock": {
+      "symbol": "CTSH",
+      "name": "Cognizant Technology Solutions Corp",
+      "price": 81.77,
+      "field4": "",
+      "change": -0.6,
+      "percentChange": "-0.73%"
+    }
+  },
+  {
+    "companyName": "Citrix Systems, Inc.",
+    "financialStatus": "N",
+    "marketCategory": "Q",
+    "roundLotSize": 100,
+    "securityName": "Citrix Systems, Inc. - Common Stock",
+    "symbol": "CTXS",
+    "testIssue": "N",
+    "stock": {
+      "symbol": "CTXS",
+      "name": "Citrix Systems Inc",
+      "price": 96.57,
+      "field4": "",
+      "change": -0.65,
+      "percentChange": "-0.67%"
+    }
+  },
+  {
+    "companyName": "Discovery Communications, Inc.",
+    "financialStatus": "N",
+    "marketCategory": "Q",
+    "roundLotSize": 100,
+    "securityName": "Discovery Communications, Inc. - Series A Common Stock",
+    "symbol": "DISCA",
+    "testIssue": "N",
+    "stock": {
+      "symbol": "DISCA",
+      "name": "Discovery Inc",
+      "price": 23.16,
+      "field4": "",
+      "change": -0.22,
+      "percentChange": "-0.94%"
+    }
+  },
+  {
+    "companyName": "Discovery Communications, Inc.",
+    "financialStatus": "N",
+    "marketCategory": "Q",
+    "roundLotSize": 100,
+    "securityName": "Discovery Communications, Inc. - Series C Common Stock",
+    "symbol": "DISCK",
+    "testIssue": "N",
+    "stock": {
+      "symbol": "DISCK",
+      "name": "Discovery Inc",
+      "price": 21.46,
+      "field4": "",
+      "change": -0.17,
+      "percentChange": "-0.79%"
+    }
+  },
+  {
+    "companyName": "DISH Network Corporation",
+    "financialStatus": "N",
+    "marketCategory": "Q",
+    "roundLotSize": 100,
+    "securityName": "DISH Network Corporation - Class A Common Stock",
+    "symbol": "DISH",
+    "testIssue": "N",
+    "stock": {
+      "symbol": "DISH",
+      "name": "DISH Network Corp",
+      "price": 37.23,
+      "field4": "",
+      "change": -1.29,
+      "percentChange": "-3.35%"
+    }
+  },
+  {
+    "companyName": "Dollar Tree, Inc.",
+    "financialStatus": "N",
+    "marketCategory": "Q",
+    "roundLotSize": 100,
+    "securityName": "Dollar Tree, Inc. - Common Stock",
+    "symbol": "DLTR",
+    "testIssue": "N",
+    "stock": {
+      "symbol": "DLTR",
+      "name": "Dollar Tree Inc",
+      "price": 97.56,
+      "field4": "",
+      "change": -1.34,
+      "percentChange": "-1.35%"
+    }
+  },
+  {
+    "companyName": "Electronic Arts Inc.",
+    "financialStatus": "N",
+    "marketCategory": "Q",
+    "roundLotSize": 100,
+    "securityName": "Electronic Arts Inc. - Common Stock",
+    "symbol": "EA",
+    "testIssue": "N",
+    "stock": {
+      "symbol": "EA",
+      "name": "Electronic Arts",
+      "price": 120.89,
+      "field4": "",
+      "change": -2.22,
+      "percentChange": "-1.80%"
+    }
+  },
+  {
+    "companyName": "eBay Inc.",
+    "financialStatus": "N",
+    "marketCategory": "Q",
+    "roundLotSize": 100,
+    "securityName": "eBay Inc. - Common Stock",
+    "symbol": "EBAY",
+    "testIssue": "N",
+    "stock": {
+      "symbol": "EBAY",
+      "name": "eBay Inc",
+      "price": 42.2,
+      "field4": "",
+      "change": 0.09,
+      "percentChange": "0.21%"
+    }
+  },
+  {
+    "companyName": "Express Scripts Holding Company",
+    "financialStatus": "N",
+    "marketCategory": "Q",
+    "roundLotSize": 100,
+    "securityName": "Express Scripts Holding Company - Common Stock",
+    "symbol": "ESRX",
+    "testIssue": "N",
+    "stock": {
+      "symbol": "ESRX",
+      "name": "Express Scripts Holding Co",
+      "price": 73.49,
+      "field4": "",
+      "change": -0.27,
+      "percentChange": "-0.37%"
+    }
+  },
+  {
+    "companyName": "Expedia, Inc.",
+    "financialStatus": "N",
+    "marketCategory": "Q",
+    "roundLotSize": 100,
+    "securityName": "Expedia, Inc. - Common Stock",
+    "symbol": "EXPE",
+    "testIssue": "N",
+    "stock": {
+      "symbol": "EXPE",
+      "name": "Expedia Group Inc",
+      "price": 109.77,
+      "field4": "",
+      "change": -1.6,
+      "percentChange": "-1.44%"
+    }
+  },
+  {
+    "companyName": "Fastenal Company",
+    "financialStatus": "N",
+    "marketCategory": "Q",
+    "roundLotSize": 100,
+    "securityName": "Fastenal Company - Common Stock",
+    "symbol": "FAST",
+    "testIssue": "N",
+    "stock": {
+      "symbol": "FAST",
+      "name": "Fastenal Co",
+      "price": 50.49,
+      "field4": "",
+      "change": -0.09,
+      "percentChange": "-0.18%"
+    }
+  },
+  {
+    "companyName": "Facebook, Inc.",
+    "financialStatus": "N",
+    "marketCategory": "Q",
+    "roundLotSize": 100,
+    "securityName": "Facebook, Inc. - Class A Common Stock",
+    "symbol": "FB",
+    "testIssue": "N",
+    "stock": {
+      "symbol": "FB",
+      "name": "Facebook",
+      "price": 166.28,
+      "field4": "",
+      "change": -1.82,
+      "percentChange": "-1.08%"
+    }
+  },
+  {
+    "companyName": "Fiserv, Inc.",
+    "financialStatus": "N",
+    "marketCategory": "Q",
+    "roundLotSize": 100,
+    "securityName": "Fiserv, Inc. - Common Stock",
+    "symbol": "FISV",
+    "testIssue": "N",
+    "stock": {
+      "symbol": "FISV",
+      "name": "Fiserv Inc",
+      "price": 71.34,
+      "field4": "",
+      "change": -0.41,
+      "percentChange": "-0.57%"
+    }
+  },
+  {
+    "companyName": "Twenty",
+    "financialStatus": "N",
+    "marketCategory": "Q",
+    "roundLotSize": 100,
+    "securityName": "Twenty-First Century Fox, Inc. - Class B Common Stock",
+    "symbol": "FOX",
+    "testIssue": "N",
+    "stock": {
+      "symbol": "FOX",
+      "name": "Twenty-First Century Fox Inc",
+      "price": 36.18,
+      "field4": "",
+      "change": -0.5,
+      "percentChange": "-1.36%"
+    }
+  },
+  {
+    "companyName": "Twenty",
+    "financialStatus": "N",
+    "marketCategory": "Q",
+    "roundLotSize": 100,
+    "securityName": "Twenty-First Century Fox, Inc. - Class A Common Stock",
+    "symbol": "FOXA",
+    "testIssue": "N",
+    "stock": {
+      "symbol": "FOXA",
+      "name": "Twenty-First Century Fox Inc",
+      "price": 36.68,
+      "field4": "",
+      "change": -0.52,
+      "percentChange": "-1.40%"
+    }
+  },
+  {
+    "companyName": "Gilead Sciences, Inc.",
+    "financialStatus": "N",
+    "marketCategory": "Q",
+    "roundLotSize": 100,
+    "securityName": "Gilead Sciences, Inc. - Common Stock",
+    "symbol": "GILD",
+    "testIssue": "N",
+    "stock": {
+      "symbol": "GILD",
+      "name": "Gilead Sciences Inc",
+      "price": 73.7,
+      "field4": "",
+      "change": -0.74,
+      "percentChange": "-0.99%"
+    }
+  },
+  {
+    "companyName": "Google Inc.",
+    "financialStatus": "N",
+    "marketCategory": "Q",
+    "roundLotSize": 100,
+    "securityName": "Google Inc. - Class C Capital Stock",
+    "symbol": "GOOG",
+    "testIssue": "N",
+    "stock": {
+      "symbol": "GOOG",
+      "name": "Alphabet Class C",
+      "price": 1072.96,
+      "field4": "",
+      "change": -14.74,
+      "percentChange": "-1.36%"
+    }
+  },
+  {
+    "companyName": "Google Inc.",
+    "financialStatus": "N",
+    "marketCategory": "Q",
+    "roundLotSize": 100,
+    "securityName": "Google Inc. - Class A Common Stock",
+    "symbol": "GOOGL",
+    "testIssue": "N",
+    "stock": {
+      "symbol": "GOOGL",
+      "name": "Alphabet Class A",
+      "price": 1077.3199,
+      "field4": "",
+      "change": -12.1301,
+      "percentChange": "-1.11%"
+    }
+  },
+  {
+    "companyName": "Hasbro, Inc.",
+    "financialStatus": "N",
+    "marketCategory": "Q",
+    "roundLotSize": 100,
+    "securityName": "Hasbro, Inc. - Common Stock",
+    "symbol": "HAS",
+    "testIssue": "N",
+    "stock": {
+      "symbol": "HAS",
+      "name": "Hasbro Inc",
+      "price": 82.81,
+      "field4": "",
+      "change": -1.18,
+      "percentChange": "-1.40%"
+    }
+  },
+  {
+    "companyName": "Hologic, Inc.",
+    "financialStatus": "N",
+    "marketCategory": "Q",
+    "roundLotSize": 100,
+    "securityName": "Hologic, Inc. - Common Stock",
+    "symbol": "HOLX",
+    "testIssue": "N",
+    "stock": {
+      "symbol": "HOLX",
+      "name": "Hologic Inc",
+      "price": 38.3,
+      "field4": "",
+      "change": -0.31,
+      "percentChange": "-0.80%"
+    }
+  },
+  {
+    "companyName": "Henry Schein, Inc.",
+    "financialStatus": "N",
+    "marketCategory": "Q",
+    "roundLotSize": 100,
+    "securityName": "Henry Schein, Inc. - Common Stock",
+    "symbol": "HSIC",
+    "testIssue": "N",
+    "stock": {
+      "symbol": "HSIC",
+      "name": "Henry Schein Inc",
+      "price": 69.07,
+      "field4": "",
+      "change": -0.68,
+      "percentChange": "-0.97%"
+    }
+  },
+  {
+    "companyName": "IDEXX Laboratories, Inc.",
+    "financialStatus": "N",
+    "marketCategory": "Q",
+    "roundLotSize": 100,
+    "securityName": "IDEXX Laboratories, Inc. - Common Stock",
+    "symbol": "IDXX",
+    "testIssue": "N",
+    "stock": {
+      "symbol": "IDXX",
+      "name": "IDEXX Laboratories Inc",
+      "price": 196.75,
+      "field4": "",
+      "change": -1.07,
+      "percentChange": "-0.54%"
+    }
+  },
+  {
+    "companyName": "Illumina, Inc.",
+    "financialStatus": "N",
+    "marketCategory": "Q",
+    "roundLotSize": 100,
+    "securityName": "Illumina, Inc. - Common Stock",
+    "symbol": "ILMN",
+    "testIssue": "N",
+    "stock": {
+      "symbol": "ILMN",
+      "name": "Illumina Inc",
+      "price": 244.6,
+      "field4": "",
+      "change": -1.24,
+      "percentChange": "-0.50%"
+    }
+  },
+  {
+    "companyName": "Incyte Corporation",
+    "financialStatus": "N",
+    "marketCategory": "Q",
+    "roundLotSize": 100,
+    "securityName": "Incyte Corporation - Common Stock",
+    "symbol": "INCY",
+    "testIssue": "N",
+    "stock": {
+      "symbol": "INCY",
+      "name": "Incyte Corp",
+      "price": 68.43,
+      "field4": "",
+      "change": -0.62,
+      "percentChange": "-0.90%"
+    }
+  },
+  {
+    "companyName": "Intel Corporation",
+    "financialStatus": "N",
+    "marketCategory": "Q",
+    "roundLotSize": 100,
+    "securityName": "Intel Corporation - Common Stock",
+    "symbol": "INTC",
+    "testIssue": "N",
+    "stock": {
+      "symbol": "INTC",
+      "name": "Intel Corp",
+      "price": 51.53,
+      "field4": "",
+      "change": -0.69,
+      "percentChange": "-1.32%"
+    }
+  },
+  {
+    "companyName": "Intuit Inc.",
+    "financialStatus": "N",
+    "marketCategory": "Q",
+    "roundLotSize": 100,
+    "securityName": "Intuit Inc. - Common Stock",
+    "symbol": "INTU",
+    "testIssue": "N",
+    "stock": {
+      "symbol": "INTU",
+      "name": "Intuit Inc",
+      "price": 178.13,
+      "field4": "",
+      "change": -1.28,
+      "percentChange": "-0.71%"
+    }
+  },
+  {
+    "companyName": "Intuitive Surgical, Inc.",
+    "financialStatus": "N",
+    "marketCategory": "Q",
+    "roundLotSize": 100,
+    "securityName": "Intuitive Surgical, Inc. - Common Stock",
+    "symbol": "ISRG",
+    "testIssue": "N",
+    "stock": {
+      "symbol": "ISRG",
+      "name": "Intuitive Surgical Inc",
+      "price": 456.27,
+      "field4": "",
+      "change": -6.44,
+      "percentChange": "-1.39%"
+    }
+  },
+  {
+    "companyName": "J.B. Hunt Transport Services, Inc.",
+    "financialStatus": "N",
+    "marketCategory": "Q",
+    "roundLotSize": 100,
+    "securityName": "J.B. Hunt Transport Services, Inc. - Common Stock",
+    "symbol": "JBHT",
+    "testIssue": "N",
+    "stock": {
+      "symbol": "JBHT",
+      "name": "J.B. Hunt Transport Services Inc",
+      "price": 119.59,
+      "field4": "",
+      "change": -1.68,
+      "percentChange": "-1.39%"
+    }
+  },
+  {
+    "companyName": "JD.com, Inc.",
+    "financialStatus": "N",
+    "marketCategory": "Q",
+    "roundLotSize": 100,
+    "securityName": "JD.com, Inc. - American Depositary Shares",
+    "symbol": "JD",
+    "testIssue": "N",
+    "stock": {
+      "symbol": "JD",
+      "name": "JD.com Inc",
+      "price": 37.44,
+      "field4": "",
+      "change": -1.46,
+      "percentChange": "-3.75%"
+    }
+  },
+  {
+    "companyName": "KLA",
+    "financialStatus": "N",
+    "marketCategory": "Q",
+    "roundLotSize": 100,
+    "securityName": "KLA-Tencor Corporation - Common Stock",
+    "symbol": "KLAC",
+    "testIssue": "N",
+    "stock": {
+      "symbol": "KLAC",
+      "name": "KLA-Tencor Corp",
+      "price": 101.48,
+      "field4": "",
+      "change": -0.81,
+      "percentChange": "-0.79%"
+    }
+  },
+  {
+    "companyName": "Liberty Global plc",
+    "financialStatus": "N",
+    "marketCategory": "Q",
+    "roundLotSize": 100,
+    "securityName": "Liberty Global plc - Class A Ordinary Shares",
+    "symbol": "LBTYA",
+    "testIssue": "N",
+    "stock": {
+      "symbol": "LBTYA",
+      "name": "Liberty Global PLC",
+      "price": 31.78,
+      "field4": "",
+      "change": -0.44,
+      "percentChange": "-1.37%"
+    }
+  },
+  {
+    "companyName": "Liberty Global plc",
+    "financialStatus": "N",
+    "marketCategory": "Q",
+    "roundLotSize": 100,
+    "securityName": "Liberty Global plc - Class C Ordinary Shares",
+    "symbol": "LBTYK",
+    "testIssue": "N",
+    "stock": {
+      "symbol": "LBTYK",
+      "name": "Liberty Global PLC",
+      "price": 30.45,
+      "field4": "",
+      "change": -0.42,
+      "percentChange": "-1.36%"
+    }
+  },
+  {
+    "companyName": "Lam Research Corporation",
+    "financialStatus": "N",
+    "marketCategory": "Q",
+    "roundLotSize": 100,
+    "securityName": "Lam Research Corporation - Common Stock",
+    "symbol": "LRCX",
+    "testIssue": "N",
+    "stock": {
+      "symbol": "LRCX",
+      "name": "Lam Research Corp",
+      "price": 191.91,
+      "field4": "",
+      "change": 1.52,
+      "percentChange": "0.80%"
+    }
+  },
+  {
+    "companyName": "Marriott International",
+    "financialStatus": "N",
+    "marketCategory": "Q",
+    "roundLotSize": 100,
+    "securityName": "Marriott International - Class A Common Stock",
+    "symbol": "MAR",
+    "testIssue": "N",
+    "stock": {
+      "symbol": "MAR",
+      "name": "Marriott International Inc",
+      "price": 137.48,
+      "field4": "",
+      "change": -0.14,
+      "percentChange": "-0.10%"
+    }
+  },
+  {
+    "companyName": "Mattel, Inc.",
+    "financialStatus": "N",
+    "marketCategory": "Q",
+    "roundLotSize": 100,
+    "securityName": "Mattel, Inc. - Common Stock",
+    "symbol": "MAT",
+    "testIssue": "N",
+    "stock": {
+      "symbol": "MAT",
+      "name": "Mattel Inc",
+      "price": 12.96,
+      "field4": "",
+      "change": -0.49,
+      "percentChange": "-3.64%"
+    }
+  },
+  {
+    "companyName": "Microchip Technology Incorporated",
+    "financialStatus": "N",
+    "marketCategory": "Q",
+    "roundLotSize": 100,
+    "securityName": "Microchip Technology Incorporated - Common Stock",
+    "symbol": "MCHP",
+    "testIssue": "N",
+    "stock": {
+      "symbol": "MCHP",
+      "name": "Microchip Technology Inc",
+      "price": 85.68,
+      "field4": "",
+      "change": 0.54,
+      "percentChange": "0.63%"
+    }
+  },
+  {
+    "companyName": "Mondelez International, Inc.",
+    "financialStatus": "N",
+    "marketCategory": "Q",
+    "roundLotSize": 100,
+    "securityName": "Mondelez International, Inc. - Class A Common Stock",
+    "symbol": "MDLZ",
+    "testIssue": "N",
+    "stock": {
+      "symbol": "MDLZ",
+      "name": "Mondelez International Inc",
+      "price": 40.11,
+      "field4": "",
+      "change": -0.9,
+      "percentChange": "-2.19%"
+    }
+  },
+  {
+    "companyName": "MercadoLibre, Inc.",
+    "financialStatus": "N",
+    "marketCategory": "Q",
+    "roundLotSize": 100,
+    "securityName": "MercadoLibre, Inc. - Common Stock",
+    "symbol": "MELI",
+    "testIssue": "N",
+    "stock": {
+      "symbol": "MELI",
+      "name": "MercadoLibre Inc",
+      "price": 324.49,
+      "field4": "",
+      "change": -5.51,
+      "percentChange": "-1.67%"
+    }
+  },
+  {
+    "companyName": "Monster Beverage Corporation",
+    "financialStatus": "N",
+    "marketCategory": "Q",
+    "roundLotSize": 100,
+    "securityName": "Monster Beverage Corporation - Common Stock",
+    "symbol": "MNST",
+    "testIssue": "N",
+    "stock": {
+      "symbol": "MNST",
+      "name": "Monster Beverage Corp",
+      "price": 56.5,
+      "field4": "",
+      "change": -0.81,
+      "percentChange": "-1.41%"
+    }
+  },
+  {
+    "companyName": "Microsoft Corporation",
+    "financialStatus": "N",
+    "marketCategory": "Q",
+    "roundLotSize": 100,
+    "securityName": "Microsoft Corporation - Common Stock",
+    "symbol": "MSFT",
+    "testIssue": "N",
+    "stock": {
+      "symbol": "MSFT",
+      "name": "Microsoft Corp",
+      "price": 95,
+      "field4": "",
+      "change": -1.11,
+      "percentChange": "-1.15%"
+    }
+  },
+  {
+    "companyName": "Micron Technology, Inc.",
+    "financialStatus": "N",
+    "marketCategory": "Q",
+    "roundLotSize": 100,
+    "securityName": "Micron Technology, Inc. - Common Stock",
+    "symbol": "MU",
+    "testIssue": "N",
+    "stock": {
+      "symbol": "MU",
+      "name": "Micron Technology Inc",
+      "price": 50.62,
+      "field4": "",
+      "change": -0.8,
+      "percentChange": "-1.56%"
+    }
+  },
+  {
+    "companyName": "Maxim Integrated Products, Inc.",
+    "financialStatus": "N",
+    "marketCategory": "Q",
+    "roundLotSize": 100,
+    "securityName": "Maxim Integrated Products, Inc. - Common Stock",
+    "symbol": "MXIM",
+    "testIssue": "N",
+    "stock": {
+      "symbol": "MXIM",
+      "name": "Maxim Integrated Products Inc",
+      "price": 54.4,
+      "field4": "",
+      "change": -1.75,
+      "percentChange": "-3.12%"
+    }
+  },
+  {
+    "companyName": "Mylan Inc.",
+    "financialStatus": "N",
+    "marketCategory": "Q",
+    "roundLotSize": 100,
+    "securityName": "Mylan Inc. - Common Stock",
+    "symbol": "MYL",
+    "testIssue": "N",
+    "stock": {
+      "symbol": "MYL",
+      "name": "Mylan NV",
+      "price": 40.72,
+      "field4": "",
+      "change": -0.09,
+      "percentChange": "-0.22%"
+    }
+  },
+  {
+    "companyName": "Norwegian Cruise Line Holdings Ltd.",
+    "financialStatus": "N",
+    "marketCategory": "Q",
+    "roundLotSize": 100,
+    "securityName": "Norwegian Cruise Line Holdings Ltd. - Ordinary Shares",
+    "symbol": "NCLH",
+    "testIssue": "N",
+    "stock": {
+      "symbol": "NCLH",
+      "name": "Norwegian Cruise Line Holdings Ltd",
+      "price": 55.65,
+      "field4": "",
+      "change": 0.69,
+      "percentChange": "1.26%"
+    }
+  },
+  {
+    "companyName": "Netflix, Inc.",
+    "financialStatus": "N",
+    "marketCategory": "Q",
+    "roundLotSize": 100,
+    "securityName": "Netflix, Inc. - Common Stock",
+    "symbol": "NFLX",
+    "testIssue": "N",
+    "stock": {
+      "symbol": "NFLX",
+      "name": "Netflix Inc",
+      "price": 327.77,
+      "field4": "",
+      "change": -4.93,
+      "percentChange": "-1.48%"
+    }
+  },
+  {
+    "companyName": "NetEase, Inc.",
+    "financialStatus": "N",
+    "marketCategory": "Q",
+    "roundLotSize": 100,
+    "securityName":
+      "NetEase, Inc. - American Depositary Shares, each representing 25 ordinary shares",
+    "symbol": "NTES",
+    "testIssue": "N",
+    "stock": {
+      "symbol": "NTES",
+      "name": "NetEase Inc",
+      "price": 266.3,
+      "field4": "",
+      "change": -8.84,
+      "percentChange": "-3.21%"
+    }
+  },
+  {
+    "companyName": "NVIDIA Corporation",
+    "financialStatus": "N",
+    "marketCategory": "Q",
+    "roundLotSize": 100,
+    "securityName": "NVIDIA Corporation - Common Stock",
+    "symbol": "NVDA",
+    "testIssue": "N",
+    "stock": {
+      "symbol": "NVDA",
+      "name": "NVIDIA Corp",
+      "price": 228.71,
+      "field4": "",
+      "change": -0.33,
+      "percentChange": "-0.14%"
+    }
+  },
+  {
+    "companyName": "O'Reilly Automotive, Inc.",
+    "financialStatus": "N",
+    "marketCategory": "Q",
+    "roundLotSize": 100,
+    "securityName": "O'Reilly Automotive, Inc. - Common Stock",
+    "symbol": "ORLY",
+    "testIssue": "N",
+    "stock": {
+      "symbol": "ORLY",
+      "name": "O'Reilly Automotive Inc",
+      "price": 221.48,
+      "field4": "",
+      "change": -1.47,
+      "percentChange": "-0.66%"
+    }
+  },
+  {
+    "companyName": "Paychex, Inc.",
+    "financialStatus": "N",
+    "marketCategory": "Q",
+    "roundLotSize": 100,
+    "securityName": "Paychex, Inc. - Common Stock",
+    "symbol": "PAYX",
+    "testIssue": "N",
+    "stock": {
+      "symbol": "PAYX",
+      "name": "Paychex Inc",
+      "price": 60.34,
+      "field4": "",
+      "change": -0.59,
+      "percentChange": "-0.97%"
+    }
+  },
+  {
+    "companyName": "PACCAR Inc.",
+    "financialStatus": "N",
+    "marketCategory": "Q",
+    "roundLotSize": 100,
+    "securityName": "PACCAR Inc. - Common Stock",
+    "symbol": "PCAR",
+    "testIssue": "N",
+    "stock": {
+      "symbol": "PCAR",
+      "name": "PACCAR Inc",
+      "price": 69.18,
+      "field4": "",
+      "change": -0.46,
+      "percentChange": "-0.66%"
+    }
+  },
+  {
+    "companyName": "QUALCOMM Incorporated",
+    "financialStatus": "N",
+    "marketCategory": "Q",
+    "roundLotSize": 100,
+    "securityName": "QUALCOMM Incorporated - Common Stock",
+    "symbol": "QCOM",
+    "testIssue": "N",
+    "stock": {
+      "symbol": "QCOM",
+      "name": "Qualcomm Inc",
+      "price": 51.44,
+      "field4": "",
+      "change": -1.13,
+      "percentChange": "-2.15%"
+    }
+  },
+  {
+    "companyName": "Regeneron Pharmaceuticals, Inc.",
+    "financialStatus": "N",
+    "marketCategory": "Q",
+    "roundLotSize": 100,
+    "securityName": "Regeneron Pharmaceuticals, Inc. - Common Stock",
+    "symbol": "REGN",
+    "testIssue": "N",
+    "stock": {
+      "symbol": "REGN",
+      "name": "Regeneron Pharmaceuticals Inc",
+      "price": 314.25,
+      "field4": "",
+      "change": -1.58,
+      "percentChange": "-0.50%"
+    }
+  },
+  {
+    "companyName": "Ross Stores, Inc.",
+    "financialStatus": "N",
+    "marketCategory": "Q",
+    "roundLotSize": 100,
+    "securityName": "Ross Stores, Inc. - Common Stock",
+    "symbol": "ROST",
+    "testIssue": "N",
+    "stock": {
+      "symbol": "ROST",
+      "name": "Ross Stores Inc",
+      "price": 77.32,
+      "field4": "",
+      "change": -1.43,
+      "percentChange": "-1.82%"
+    }
+  },
+  {
+    "companyName": "Starbucks Corporation",
+    "financialStatus": "N",
+    "marketCategory": "Q",
+    "roundLotSize": 100,
+    "securityName": "Starbucks Corporation - Common Stock",
+    "symbol": "SBUX",
+    "testIssue": "N",
+    "stock": {
+      "symbol": "SBUX",
+      "name": "Starbucks Corp",
+      "price": 58,
+      "field4": "",
+      "change": -1.22,
+      "percentChange": "-2.06%"
+    }
+  },
+  {
+    "companyName": "Shire plc",
+    "financialStatus": "N",
+    "marketCategory": "Q",
+    "roundLotSize": 100,
+    "securityName":
+      "Shire plc - American Depositary Shares, each representing three Ordinary Shares",
+    "symbol": "SHPG",
+    "testIssue": "N",
+    "stock": {
+      "symbol": "SHPG",
+      "name": "Shire PLC",
+      "price": 164.37,
+      "field4": "",
+      "change": 3.63,
+      "percentChange": "2.26%"
+    }
+  },
+  {
+    "companyName": "Sirius XM Holdings Inc.",
+    "financialStatus": "N",
+    "marketCategory": "Q",
+    "roundLotSize": 100,
+    "securityName": "Sirius XM Holdings Inc. - Common Stock",
+    "symbol": "SIRI",
+    "testIssue": "N",
+    "stock": {
+      "symbol": "SIRI",
+      "name": "Sirius XM Holdings Inc",
+      "price": 6.31,
+      "field4": "",
+      "change": -0.03,
+      "percentChange": "-0.47%"
+    }
+  },
+  {
+    "companyName": "Seagate Technology.",
+    "financialStatus": "N",
+    "marketCategory": "Q",
+    "roundLotSize": 100,
+    "securityName": "Seagate Technology. - Common Stock",
+    "symbol": "STX",
+    "testIssue": "N",
+    "stock": {
+      "symbol": "STX",
+      "name": "Seagate Technology PLC",
+      "price": 59.64,
+      "field4": "",
+      "change": -0.26,
+      "percentChange": "-0.43%"
+    }
+  },
+  {
+    "companyName": "Skyworks Solutions, Inc.",
+    "financialStatus": "N",
+    "marketCategory": "Q",
+    "roundLotSize": 100,
+    "securityName": "Skyworks Solutions, Inc. - Common Stock",
+    "symbol": "SWKS",
+    "testIssue": "N",
+    "stock": {
+      "symbol": "SWKS",
+      "name": "Skyworks Solutions Inc",
+      "price": 91.18,
+      "field4": "",
+      "change": -2.7,
+      "percentChange": "-2.88%"
+    }
+  },
+  {
+    "companyName": "Symantec Corporation",
+    "financialStatus": "N",
+    "marketCategory": "Q",
+    "roundLotSize": 100,
+    "securityName": "Symantec Corporation - Common Stock",
+    "symbol": "SYMC",
+    "testIssue": "N",
+    "stock": {
+      "symbol": "SYMC",
+      "name": "Symantec Corp",
+      "price": 27.71,
+      "field4": "",
+      "change": -0.14,
+      "percentChange": "-0.50%"
+    }
+  },
+  {
+    "companyName": "Tractor Supply Company",
+    "financialStatus": "N",
+    "marketCategory": "Q",
+    "roundLotSize": 100,
+    "securityName": "Tractor Supply Company - Common Stock",
+    "symbol": "TSCO",
+    "testIssue": "N",
+    "stock": {
+      "symbol": "TSCO",
+      "name": "Tractor Supply Co",
+      "price": 60.33,
+      "field4": "",
+      "change": 0.45,
+      "percentChange": "0.75%"
+    }
+  },
+  {
+    "companyName": "Tesla Motors, Inc.",
+    "financialStatus": "N",
+    "marketCategory": "Q",
+    "roundLotSize": 100,
+    "securityName": "Tesla Motors, Inc. - Common Stock",
+    "symbol": "TSLA",
+    "testIssue": "N",
+    "stock": {
+      "symbol": "TSLA",
+      "name": "Tesla Inc",
+      "price": 290.24,
+      "field4": "",
+      "change": -9.84,
+      "percentChange": "-3.28%"
+    }
+  },
+  {
+    "companyName": "Texas Instruments Incorporated",
+    "financialStatus": "N",
+    "marketCategory": "Q",
+    "roundLotSize": 100,
+    "securityName": "Texas Instruments Incorporated - Common Stock",
+    "symbol": "TXN",
+    "testIssue": "N",
+    "stock": {
+      "symbol": "TXN",
+      "name": "Texas Instruments Inc",
+      "price": 99.96,
+      "field4": "",
+      "change": -1.33,
+      "percentChange": "-1.31%"
+    }
+  },
+  {
+    "companyName": "Ulta Salon, Cosmetics & Fragrance, Inc.",
+    "financialStatus": "N",
+    "marketCategory": "Q",
+    "roundLotSize": 100,
+    "securityName": "Ulta Salon, Cosmetics & Fragrance, Inc. - Common Stock",
+    "symbol": "ULTA",
+    "testIssue": "N",
+    "stock": {
+      "symbol": "ULTA",
+      "name": "Ulta Beauty Inc",
+      "price": 235.05,
+      "field4": "",
+      "change": 0.89,
+      "percentChange": "0.38%"
+    }
+  },
+  {
+    "companyName": "Viacom Inc.",
+    "financialStatus": "N",
+    "marketCategory": "Q",
+    "roundLotSize": 100,
+    "securityName": "Viacom Inc. - Class B Common Stock",
+    "symbol": "VIAB",
+    "testIssue": "N",
+    "stock": {
+      "symbol": "VIAB",
+      "name": "Viacom Inc",
+      "price": 30.66,
+      "field4": "",
+      "change": -0.1,
+      "percentChange": "-0.33%"
+    }
+  },
+  {
+    "companyName": "Vodafone Group Plc",
+    "financialStatus": "N",
+    "marketCategory": "Q",
+    "roundLotSize": 100,
+    "securityName":
+      "Vodafone Group Plc - American Depositary Shares each representing ten Ordinary Shares",
+    "symbol": "VOD",
+    "testIssue": "N",
+    "stock": {
+      "symbol": "VOD",
+      "name": "Vodafone Group PLC",
+      "price": 29.74,
+      "field4": "",
+      "change": 0.28,
+      "percentChange": "0.95%"
+    }
+  },
+  {
+    "companyName": "Verisk Analytics, Inc.",
+    "financialStatus": "N",
+    "marketCategory": "Q",
+    "roundLotSize": 100,
+    "securityName": "Verisk Analytics, Inc. - Class A Common Stock",
+    "symbol": "VRSK",
+    "testIssue": "N",
+    "stock": {
+      "symbol": "VRSK",
+      "name": "Verisk Analytics Inc",
+      "price": 107.38,
+      "field4": "",
+      "change": -0.19,
+      "percentChange": "-0.18%"
+    }
+  },
+  {
+    "companyName": "Vertex Pharmaceuticals Incorporated",
+    "financialStatus": "N",
+    "marketCategory": "Q",
+    "roundLotSize": 100,
+    "securityName": "Vertex Pharmaceuticals Incorporated - Common Stock",
+    "symbol": "VRTX",
+    "testIssue": "N",
+    "stock": {
+      "symbol": "VRTX",
+      "name": "Vertex Pharmaceuticals Inc",
+      "price": 158.15,
+      "field4": "",
+      "change": -1.4,
+      "percentChange": "-0.88%"
+    }
+  },
+  {
+    "companyName": "Walgreens Boots Alliance, Inc.",
+    "financialStatus": "N",
+    "marketCategory": "Q",
+    "roundLotSize": 100,
+    "securityName": "Walgreens Boots Alliance, Inc. - Common Stock",
+    "symbol": "WBA",
+    "testIssue": "N",
+    "stock": {
+      "symbol": "WBA",
+      "name": "Walgreens Boots Alliance Inc",
+      "price": 63.92,
+      "field4": "",
+      "change": -1.36,
+      "percentChange": "-2.08%"
+    }
+  },
+  {
+    "companyName": "Western Digital Corporation",
+    "financialStatus": "N",
+    "marketCategory": "Q",
+    "roundLotSize": 100,
+    "securityName": "Western Digital Corporation - Common Stock",
+    "symbol": "WDC",
+    "testIssue": "N",
+    "stock": {
+      "symbol": "WDC",
+      "name": "Western Digital Corp",
+      "price": 89.56,
+      "field4": "",
+      "change": 0.05,
+      "percentChange": "0.06%"
+    }
+  },
+  {
+    "companyName": "Wynn Resorts, Limited",
+    "financialStatus": "N",
+    "marketCategory": "Q",
+    "roundLotSize": 100,
+    "securityName": "Wynn Resorts, Limited - Common Stock",
+    "symbol": "WYNN",
+    "testIssue": "N",
+    "stock": {
+      "symbol": "WYNN",
+      "name": "Wynn Resorts Ltd",
+      "price": 192.51,
+      "field4": "",
+      "change": 0.86,
+      "percentChange": "0.45%"
+    }
+  },
+  {
+    "companyName": "Xilinx, Inc.",
+    "financialStatus": "N",
+    "marketCategory": "Q",
+    "roundLotSize": 100,
+    "securityName": "Xilinx, Inc. - Common Stock",
+    "symbol": "XLNX",
+    "testIssue": "N",
+    "stock": {
+      "symbol": "XLNX",
+      "name": "Xilinx Inc",
+      "price": 64.15,
+      "field4": "",
+      "change": -0.75,
+      "percentChange": "-1.16%"
+    }
+  },
+  {
+    "companyName": "DENTSPLY International Inc.",
+    "financialStatus": "N",
+    "marketCategory": "Q",
+    "roundLotSize": 100,
+    "securityName": "DENTSPLY International Inc. - Common Stock",
+    "symbol": "XRAY",
+    "testIssue": "N",
+    "stock": {
+      "symbol": "XRAY",
+      "name": "Dentsply Sirona Inc",
+      "price": 49.34,
+      "field4": "",
+      "change": -0.4,
+      "percentChange": "-0.80%"
+    }
+  }
+]
