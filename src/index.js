@@ -7,6 +7,10 @@ import configureStore from "./configure-store";
 import { Provider } from "react-redux";
 
 const store = configureStore();
+//for debug purposes
+if (global.window) {
+  window.store = store;
+}
 ReactDOM.render(
   <Provider store={store}>
     <App />
