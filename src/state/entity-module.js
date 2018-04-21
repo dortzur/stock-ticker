@@ -5,8 +5,8 @@ import randomInt from "random-int";
 
 const UPDATE_RANDOM_STOCK_PRICE = "UPDATE_RANDOM_STOCK_PRICE";
 
-export const updateRandomStockPrice = () => (dispatch, getState) => {
-  const randomSymbol = getState().stocks[randomInt(0, 5)];
+export const updateSingleStock = () => (dispatch, getState) => {
+  const randomSymbol = getState().stocks[1];
   const randomPrice = randomInt(30, 1000);
   dispatch({
     type: UPDATE_RANDOM_STOCK_PRICE,

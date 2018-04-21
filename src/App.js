@@ -3,12 +3,12 @@ import logo from "./logo.svg";
 import "./App.css";
 import { connect } from "react-redux";
 import { fetchApiStocks, getCompanyStocks } from "./state/stock-module";
-import { updateRandomStockPrice } from "./state/entity-module";
+import { updateSingleStock } from "./state/entity-module";
 import Companies from "./Companies";
 class App extends PureComponent {
   componentDidMount() {
     this.props.fetchApiStocks();
-    setInterval(this.props.updateRandomStockPrice, 500);
+    setInterval(this.props.updateSingleStock, 500);
   }
   render() {
     return (
@@ -25,5 +25,5 @@ class App extends PureComponent {
 
 export default connect(null, {
   fetchApiStocks,
-  updateRandomStockPrice
+  updateSingleStock
 })(App);
