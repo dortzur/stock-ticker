@@ -2,24 +2,36 @@ import React, { Component } from "react";
 import logo from "./logo.svg";
 import "./App.css";
 import { connect } from "react-redux";
-import { fetchApiStocks } from "./state/stock-module";
+import { fetchApiStocks, getCompanyStocks } from "./state/stock-module";
 class App extends Component {
   componentDidMount() {
     this.props.fetchApiStocks();
   }
   render() {
+    const { companyStocks } = this.props;
     return (
       <div className="App">
         <header className="App-header">
           <img src={logo} className="App-logo" alt="logo" />
           <h1 className="App-title">Welcome to React</h1>
         </header>
-        <p className="App-intro">
-          To get started, edit <code>src/App.js</code> and save to reload.
-        </p>
+        {companyStocks.map(cs => (
+          <div key={cs.symbol} style={{ marginTop: 20 }}>
+            <strong style={{ fontSize: 20 }}>{cs.companyName}</strong>
+            <div>
+              <div>Financial Status: {cs.financialStatus}</div>
+              <div>Market Category: {cs.marketCategory}</div>
+            </div>
+            <div>
+              <strong><em>Stock Price: {cs.stock.price}</em></strong>
+            </div>
+          </div>
+        ))}
       </div>
     );
   }
 }
 
-export default connect(state => ({}), { fetchApiStocks })(App);
+export default connect(state => ({ companyStocks: getCompanyStocks(state) }), {
+  fetchApiStocks
+})(App);
