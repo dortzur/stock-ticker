@@ -6,8 +6,8 @@ import registerServiceWorker from "./registerServiceWorker";
 import configureStore from "./configure-store";
 import { Provider } from "react-redux";
 
-import WhyDidYouUpdate from 'why-did-you-update';
-WhyDidYouUpdate(React);
+// import WhyDidYouUpdate from 'why-did-you-update';
+// WhyDidYouUpdate(React);
 
 const store = configureStore();
 //for debug purposes

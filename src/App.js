@@ -9,8 +9,8 @@ class App extends PureComponent {
   componentDidMount() {
     this.props.fetchApiStocks();
 
-    setTimeout(this.props.updateSingleStock, 3000);
-    // setInterval(this.props.updateSingleStock, 500);
+    // setTimeout(this.props.updateSingleStock, 3000);
+    setInterval(this.props.updateSingleStock, 500);
   }
   render() {
     return (
