@@ -6,7 +6,7 @@ class CompanyStock extends PureComponent {
     return (
       <div style={{ marginTop: 20 }}>
         <strong style={{ fontSize: 20 }}>
-          {companyStock.symbol} ({companyStock.companyName})
+          {companyStock.id} ({companyStock.companyName})
         </strong>
         <div>
           <div>Financial Status: {companyStock.financialStatus}</div>
@@ -15,7 +15,7 @@ class CompanyStock extends PureComponent {
         <div>
           <strong>
             <em
-              style={companyStock.symbol === "AAPL" ? { color: "limegreen" } : {}}
+              style={companyStock.id === "AAPL" ? { color: "limegreen" } : {}}
             >
               Stock Price: {companyStock.stock.price}
             </em>

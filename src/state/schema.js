@@ -1,22 +1,10 @@
 import { schema } from "normalizr";
 
-const stockSchema = new schema.Entity(
-  "stocks",
-  {},
-  {
-    idAttribute: stock => stock.symbol
-  }
-);
+const stockSchema = new schema.Entity("stocks", {});
 
-const companySchema = new schema.Entity(
-  "companies",
-  {
-    stock: stockSchema
-  },
-  {
-    idAttribute: company => company.symbol
-  }
-);
+const companySchema = new schema.Entity("companies", {
+  stock: stockSchema
+});
 
 // Schemas for Github API responses.
 export const Schemas = {

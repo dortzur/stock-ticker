@@ -9,7 +9,7 @@ class Companies extends PureComponent {
       <div>
         <h1>Nasdaq 100 Companies</h1>
         {companyStocks.map(cs => (
-          <CompanyStock key={cs.symbol} companyStock={cs} />
+          <CompanyStock key={cs.id} companyStock={cs} />
         ))}
       </div>
     );
