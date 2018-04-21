@@ -1,0 +1,899 @@
+[
+  {
+    "Company Name": "American Airlines Group, Inc.",
+    "Financial Status": "N",
+    "Market Category": "Q",
+    "Round Lot Size": 100,
+    "Security Name": "American Airlines Group, Inc. - Common Stock",
+    "Symbol": "AAL",
+    "Test Issue": "N"
+  },
+  {
+    "Company Name": "Apple Inc.",
+    "Financial Status": "N",
+    "Market Category": "Q",
+    "Round Lot Size": 100,
+    "Security Name": "Apple Inc. - Common Stock",
+    "Symbol": "AAPL",
+    "Test Issue": "N"
+  },
+  {
+    "Company Name": "Adobe Systems Incorporated",
+    "Financial Status": "N",
+    "Market Category": "Q",
+    "Round Lot Size": 100,
+    "Security Name": "Adobe Systems Incorporated - Common Stock",
+    "Symbol": "ADBE",
+    "Test Issue": "N"
+  },
+  {
+    "Company Name": "Analog Devices, Inc.",
+    "Financial Status": "N",
+    "Market Category": "Q",
+    "Round Lot Size": 100,
+    "Security Name": "Analog Devices, Inc. - Common Stock",
+    "Symbol": "ADI",
+    "Test Issue": "N"
+  },
+  {
+    "Company Name": "Automatic Data Processing, Inc.",
+    "Financial Status": "N",
+    "Market Category": "Q",
+    "Round Lot Size": 100,
+    "Security Name": "Automatic Data Processing, Inc. - Common Stock",
+    "Symbol": "ADP",
+    "Test Issue": "N"
+  },
+  {
+    "Company Name": "Autodesk, Inc.",
+    "Financial Status": "N",
+    "Market Category": "Q",
+    "Round Lot Size": 100,
+    "Security Name": "Autodesk, Inc. - Common Stock",
+    "Symbol": "ADSK",
+    "Test Issue": "N"
+  },
+  {
+    "Company Name": "Akamai Technologies, Inc.",
+    "Financial Status": "N",
+    "Market Category": "Q",
+    "Round Lot Size": 100,
+    "Security Name": "Akamai Technologies, Inc. - Common Stock",
+    "Symbol": "AKAM",
+    "Test Issue": "N"
+  },
+  {
+    "Company Name": "Align Technology, Inc.",
+    "Financial Status": "N",
+    "Market Category": "Q",
+    "Round Lot Size": 100,
+    "Security Name": "Align Technology, Inc. - Common Stock",
+    "Symbol": "ALGN",
+    "Test Issue": "N"
+  },
+  {
+    "Company Name": "Alexion Pharmaceuticals, Inc.",
+    "Financial Status": "N",
+    "Market Category": "Q",
+    "Round Lot Size": 100,
+    "Security Name": "Alexion Pharmaceuticals, Inc. - Common Stock",
+    "Symbol": "ALXN",
+    "Test Issue": "N"
+  },
+  {
+    "Company Name": "Applied Materials, Inc.",
+    "Financial Status": "N",
+    "Market Category": "Q",
+    "Round Lot Size": 100,
+    "Security Name": "Applied Materials, Inc. - Common Stock",
+    "Symbol": "AMAT",
+    "Test Issue": "N"
+  },
+  {
+    "Company Name": "Amgen Inc.",
+    "Financial Status": "N",
+    "Market Category": "Q",
+    "Round Lot Size": 100,
+    "Security Name": "Amgen Inc. - Common Stock",
+    "Symbol": "AMGN",
+    "Test Issue": "N"
+  },
+  {
+    "Company Name": "Amazon.com, Inc.",
+    "Financial Status": "N",
+    "Market Category": "Q",
+    "Round Lot Size": 100,
+    "Security Name": "Amazon.com, Inc. - Common Stock",
+    "Symbol": "AMZN",
+    "Test Issue": "N"
+  },
+  {
+    "Company Name": "Activision Blizzard, Inc",
+    "Financial Status": "N",
+    "Market Category": "Q",
+    "Round Lot Size": 100,
+    "Security Name": "Activision Blizzard, Inc - Common Stock",
+    "Symbol": "ATVI",
+    "Test Issue": "N"
+  },
+  {
+    "Company Name": "Avago Technologies Limited",
+    "Financial Status": "N",
+    "Market Category": "Q",
+    "Round Lot Size": 100,
+    "Security Name": "Avago Technologies Limited - Ordinary Shares",
+    "Symbol": "AVGO",
+    "Test Issue": "N"
+  },
+  {
+    "Company Name": "Baidu, Inc.",
+    "Financial Status": "N",
+    "Market Category": "Q",
+    "Round Lot Size": 100,
+    "Security Name":
+      "Baidu, Inc. - American Depositary Shares, each representing one tenth Class A ordinary share",
+    "Symbol": "BIDU",
+    "Test Issue": "N"
+  },
+  {
+    "Company Name": "Biogen Idec Inc.",
+    "Financial Status": "N",
+    "Market Category": "Q",
+    "Round Lot Size": 100,
+    "Security Name": "Biogen Idec Inc. - Common Stock",
+    "Symbol": "BIIB",
+    "Test Issue": "N"
+  },
+  {
+    "Company Name": "BioMarin Pharmaceutical Inc.",
+    "Financial Status": "N",
+    "Market Category": "Q",
+    "Round Lot Size": 100,
+    "Security Name": "BioMarin Pharmaceutical Inc. - Common Stock",
+    "Symbol": "BMRN",
+    "Test Issue": "N"
+  },
+  {
+    "Company Name": "CA Inc.",
+    "Financial Status": "N",
+    "Market Category": "Q",
+    "Round Lot Size": 100,
+    "Security Name": "CA Inc. - Common Stock",
+    "Symbol": "CA",
+    "Test Issue": "N"
+  },
+  {
+    "Company Name": "Celgene Corporation",
+    "Financial Status": "N",
+    "Market Category": "Q",
+    "Round Lot Size": 100,
+    "Security Name": "Celgene Corporation - Common Stock",
+    "Symbol": "CELG",
+    "Test Issue": "N"
+  },
+  {
+    "Company Name": "Cerner Corporation",
+    "Financial Status": "N",
+    "Market Category": "Q",
+    "Round Lot Size": 100,
+    "Security Name": "Cerner Corporation - Common Stock",
+    "Symbol": "CERN",
+    "Test Issue": "N"
+  },
+  {
+    "Company Name": "Check Point Software Technologies Ltd.",
+    "Financial Status": "N",
+    "Market Category": "Q",
+    "Round Lot Size": 100,
+    "Security Name": "Check Point Software Technologies Ltd. - Ordinary Shares",
+    "Symbol": "CHKP",
+    "Test Issue": "N"
+  },
+  {
+    "Company Name": "Charter Communications, Inc.",
+    "Financial Status": "N",
+    "Market Category": "Q",
+    "Round Lot Size": 100,
+    "Security Name": "Charter Communications, Inc. - Class A Common Stock",
+    "Symbol": "CHTR",
+    "Test Issue": "N"
+  },
+  {
+    "Company Name": "Comcast Corporation",
+    "Financial Status": "N",
+    "Market Category": "Q",
+    "Round Lot Size": 100,
+    "Security Name": "Comcast Corporation - Class A Common Stock",
+    "Symbol": "CMCSA",
+    "Test Issue": "N"
+  },
+  {
+    "Company Name": "Costco Wholesale Corporation",
+    "Financial Status": "N",
+    "Market Category": "Q",
+    "Round Lot Size": 100,
+    "Security Name": "Costco Wholesale Corporation - Common Stock",
+    "Symbol": "COST",
+    "Test Issue": "N"
+  },
+  {
+    "Company Name": "Cisco Systems, Inc.",
+    "Financial Status": "N",
+    "Market Category": "Q",
+    "Round Lot Size": 100,
+    "Security Name": "Cisco Systems, Inc. - Common Stock",
+    "Symbol": "CSCO",
+    "Test Issue": "N"
+  },
+  {
+    "Company Name": "Cintas Corporation",
+    "Financial Status": "N",
+    "Market Category": "Q",
+    "Round Lot Size": 100,
+    "Security Name": "Cintas Corporation - Common Stock",
+    "Symbol": "CTAS",
+    "Test Issue": "N"
+  },
+  {
+    "Company Name": "Ctrip.com International, Ltd.",
+    "Financial Status": "N",
+    "Market Category": "Q",
+    "Round Lot Size": 100,
+    "Security Name":
+      "Ctrip.com International, Ltd. - American Depositary Shares",
+    "Symbol": "CTRP",
+    "Test Issue": "N"
+  },
+  {
+    "Company Name": "Cognizant Technology Solutions Corporation",
+    "Financial Status": "N",
+    "Market Category": "Q",
+    "Round Lot Size": 100,
+    "Security Name":
+      "Cognizant Technology Solutions Corporation - Class A Common Stock",
+    "Symbol": "CTSH",
+    "Test Issue": "N"
+  },
+  {
+    "Company Name": "Citrix Systems, Inc.",
+    "Financial Status": "N",
+    "Market Category": "Q",
+    "Round Lot Size": 100,
+    "Security Name": "Citrix Systems, Inc. - Common Stock",
+    "Symbol": "CTXS",
+    "Test Issue": "N"
+  },
+  {
+    "Company Name": "Discovery Communications, Inc.",
+    "Financial Status": "N",
+    "Market Category": "Q",
+    "Round Lot Size": 100,
+    "Security Name": "Discovery Communications, Inc. - Series A Common Stock",
+    "Symbol": "DISCA",
+    "Test Issue": "N"
+  },
+  {
+    "Company Name": "Discovery Communications, Inc.",
+    "Financial Status": "N",
+    "Market Category": "Q",
+    "Round Lot Size": 100,
+    "Security Name": "Discovery Communications, Inc. - Series C Common Stock",
+    "Symbol": "DISCK",
+    "Test Issue": "N"
+  },
+  {
+    "Company Name": "DISH Network Corporation",
+    "Financial Status": "N",
+    "Market Category": "Q",
+    "Round Lot Size": 100,
+    "Security Name": "DISH Network Corporation - Class A Common Stock",
+    "Symbol": "DISH",
+    "Test Issue": "N"
+  },
+  {
+    "Company Name": "Dollar Tree, Inc.",
+    "Financial Status": "N",
+    "Market Category": "Q",
+    "Round Lot Size": 100,
+    "Security Name": "Dollar Tree, Inc. - Common Stock",
+    "Symbol": "DLTR",
+    "Test Issue": "N"
+  },
+  {
+    "Company Name": "Electronic Arts Inc.",
+    "Financial Status": "N",
+    "Market Category": "Q",
+    "Round Lot Size": 100,
+    "Security Name": "Electronic Arts Inc. - Common Stock",
+    "Symbol": "EA",
+    "Test Issue": "N"
+  },
+  {
+    "Company Name": "eBay Inc.",
+    "Financial Status": "N",
+    "Market Category": "Q",
+    "Round Lot Size": 100,
+    "Security Name": "eBay Inc. - Common Stock",
+    "Symbol": "EBAY",
+    "Test Issue": "N"
+  },
+  {
+    "Company Name": "Express Scripts Holding Company",
+    "Financial Status": "N",
+    "Market Category": "Q",
+    "Round Lot Size": 100,
+    "Security Name": "Express Scripts Holding Company - Common Stock",
+    "Symbol": "ESRX",
+    "Test Issue": "N"
+  },
+  {
+    "Company Name": "Expedia, Inc.",
+    "Financial Status": "N",
+    "Market Category": "Q",
+    "Round Lot Size": 100,
+    "Security Name": "Expedia, Inc. - Common Stock",
+    "Symbol": "EXPE",
+    "Test Issue": "N"
+  },
+  {
+    "Company Name": "Fastenal Company",
+    "Financial Status": "N",
+    "Market Category": "Q",
+    "Round Lot Size": 100,
+    "Security Name": "Fastenal Company - Common Stock",
+    "Symbol": "FAST",
+    "Test Issue": "N"
+  },
+  {
+    "Company Name": "Facebook, Inc.",
+    "Financial Status": "N",
+    "Market Category": "Q",
+    "Round Lot Size": 100,
+    "Security Name": "Facebook, Inc. - Class A Common Stock",
+    "Symbol": "FB",
+    "Test Issue": "N"
+  },
+  {
+    "Company Name": "Fiserv, Inc.",
+    "Financial Status": "N",
+    "Market Category": "Q",
+    "Round Lot Size": 100,
+    "Security Name": "Fiserv, Inc. - Common Stock",
+    "Symbol": "FISV",
+    "Test Issue": "N"
+  },
+  {
+    "Company Name": "Twenty",
+    "Financial Status": "N",
+    "Market Category": "Q",
+    "Round Lot Size": 100,
+    "Security Name": "Twenty-First Century Fox, Inc. - Class B Common Stock",
+    "Symbol": "FOX",
+    "Test Issue": "N"
+  },
+  {
+    "Company Name": "Twenty",
+    "Financial Status": "N",
+    "Market Category": "Q",
+    "Round Lot Size": 100,
+    "Security Name": "Twenty-First Century Fox, Inc. - Class A Common Stock",
+    "Symbol": "FOXA",
+    "Test Issue": "N"
+  },
+  {
+    "Company Name": "Gilead Sciences, Inc.",
+    "Financial Status": "N",
+    "Market Category": "Q",
+    "Round Lot Size": 100,
+    "Security Name": "Gilead Sciences, Inc. - Common Stock",
+    "Symbol": "GILD",
+    "Test Issue": "N"
+  },
+  {
+    "Company Name": "Google Inc.",
+    "Financial Status": "N",
+    "Market Category": "Q",
+    "Round Lot Size": 100,
+    "Security Name": "Google Inc. - Class C Capital Stock",
+    "Symbol": "GOOG",
+    "Test Issue": "N"
+  },
+  {
+    "Company Name": "Google Inc.",
+    "Financial Status": "N",
+    "Market Category": "Q",
+    "Round Lot Size": 100,
+    "Security Name": "Google Inc. - Class A Common Stock",
+    "Symbol": "GOOGL",
+    "Test Issue": "N"
+  },
+  {
+    "Company Name": "Hasbro, Inc.",
+    "Financial Status": "N",
+    "Market Category": "Q",
+    "Round Lot Size": 100,
+    "Security Name": "Hasbro, Inc. - Common Stock",
+    "Symbol": "HAS",
+    "Test Issue": "N"
+  },
+  {
+    "Company Name": "Hologic, Inc.",
+    "Financial Status": "N",
+    "Market Category": "Q",
+    "Round Lot Size": 100,
+    "Security Name": "Hologic, Inc. - Common Stock",
+    "Symbol": "HOLX",
+    "Test Issue": "N"
+  },
+  {
+    "Company Name": "Henry Schein, Inc.",
+    "Financial Status": "N",
+    "Market Category": "Q",
+    "Round Lot Size": 100,
+    "Security Name": "Henry Schein, Inc. - Common Stock",
+    "Symbol": "HSIC",
+    "Test Issue": "N"
+  },
+  {
+    "Company Name": "IDEXX Laboratories, Inc.",
+    "Financial Status": "N",
+    "Market Category": "Q",
+    "Round Lot Size": 100,
+    "Security Name": "IDEXX Laboratories, Inc. - Common Stock",
+    "Symbol": "IDXX",
+    "Test Issue": "N"
+  },
+  {
+    "Company Name": "Illumina, Inc.",
+    "Financial Status": "N",
+    "Market Category": "Q",
+    "Round Lot Size": 100,
+    "Security Name": "Illumina, Inc. - Common Stock",
+    "Symbol": "ILMN",
+    "Test Issue": "N"
+  },
+  {
+    "Company Name": "Incyte Corporation",
+    "Financial Status": "N",
+    "Market Category": "Q",
+    "Round Lot Size": 100,
+    "Security Name": "Incyte Corporation - Common Stock",
+    "Symbol": "INCY",
+    "Test Issue": "N"
+  },
+  {
+    "Company Name": "Intel Corporation",
+    "Financial Status": "N",
+    "Market Category": "Q",
+    "Round Lot Size": 100,
+    "Security Name": "Intel Corporation - Common Stock",
+    "Symbol": "INTC",
+    "Test Issue": "N"
+  },
+  {
+    "Company Name": "Intuit Inc.",
+    "Financial Status": "N",
+    "Market Category": "Q",
+    "Round Lot Size": 100,
+    "Security Name": "Intuit Inc. - Common Stock",
+    "Symbol": "INTU",
+    "Test Issue": "N"
+  },
+  {
+    "Company Name": "Intuitive Surgical, Inc.",
+    "Financial Status": "N",
+    "Market Category": "Q",
+    "Round Lot Size": 100,
+    "Security Name": "Intuitive Surgical, Inc. - Common Stock",
+    "Symbol": "ISRG",
+    "Test Issue": "N"
+  },
+  {
+    "Company Name": "J.B. Hunt Transport Services, Inc.",
+    "Financial Status": "N",
+    "Market Category": "Q",
+    "Round Lot Size": 100,
+    "Security Name": "J.B. Hunt Transport Services, Inc. - Common Stock",
+    "Symbol": "JBHT",
+    "Test Issue": "N"
+  },
+  {
+    "Company Name": "JD.com, Inc.",
+    "Financial Status": "N",
+    "Market Category": "Q",
+    "Round Lot Size": 100,
+    "Security Name": "JD.com, Inc. - American Depositary Shares",
+    "Symbol": "JD",
+    "Test Issue": "N"
+  },
+  {
+    "Company Name": "KLA",
+    "Financial Status": "N",
+    "Market Category": "Q",
+    "Round Lot Size": 100,
+    "Security Name": "KLA-Tencor Corporation - Common Stock",
+    "Symbol": "KLAC",
+    "Test Issue": "N"
+  },
+  {
+    "Company Name": "Liberty Global plc",
+    "Financial Status": "N",
+    "Market Category": "Q",
+    "Round Lot Size": 100,
+    "Security Name": "Liberty Global plc - Class A Ordinary Shares",
+    "Symbol": "LBTYA",
+    "Test Issue": "N"
+  },
+  {
+    "Company Name": "Liberty Global plc",
+    "Financial Status": "N",
+    "Market Category": "Q",
+    "Round Lot Size": 100,
+    "Security Name": "Liberty Global plc - Class C Ordinary Shares",
+    "Symbol": "LBTYK",
+    "Test Issue": "N"
+  },
+  {
+    "Company Name": "Lam Research Corporation",
+    "Financial Status": "N",
+    "Market Category": "Q",
+    "Round Lot Size": 100,
+    "Security Name": "Lam Research Corporation - Common Stock",
+    "Symbol": "LRCX",
+    "Test Issue": "N"
+  },
+  {
+    "Company Name": "Marriott International",
+    "Financial Status": "N",
+    "Market Category": "Q",
+    "Round Lot Size": 100,
+    "Security Name": "Marriott International - Class A Common Stock",
+    "Symbol": "MAR",
+    "Test Issue": "N"
+  },
+  {
+    "Company Name": "Mattel, Inc.",
+    "Financial Status": "N",
+    "Market Category": "Q",
+    "Round Lot Size": 100,
+    "Security Name": "Mattel, Inc. - Common Stock",
+    "Symbol": "MAT",
+    "Test Issue": "N"
+  },
+  {
+    "Company Name": "Microchip Technology Incorporated",
+    "Financial Status": "N",
+    "Market Category": "Q",
+    "Round Lot Size": 100,
+    "Security Name": "Microchip Technology Incorporated - Common Stock",
+    "Symbol": "MCHP",
+    "Test Issue": "N"
+  },
+  {
+    "Company Name": "Mondelez International, Inc.",
+    "Financial Status": "N",
+    "Market Category": "Q",
+    "Round Lot Size": 100,
+    "Security Name": "Mondelez International, Inc. - Class A Common Stock",
+    "Symbol": "MDLZ",
+    "Test Issue": "N"
+  },
+  {
+    "Company Name": "MercadoLibre, Inc.",
+    "Financial Status": "N",
+    "Market Category": "Q",
+    "Round Lot Size": 100,
+    "Security Name": "MercadoLibre, Inc. - Common Stock",
+    "Symbol": "MELI",
+    "Test Issue": "N"
+  },
+  {
+    "Company Name": "Monster Beverage Corporation",
+    "Financial Status": "N",
+    "Market Category": "Q",
+    "Round Lot Size": 100,
+    "Security Name": "Monster Beverage Corporation - Common Stock",
+    "Symbol": "MNST",
+    "Test Issue": "N"
+  },
+  {
+    "Company Name": "Microsoft Corporation",
+    "Financial Status": "N",
+    "Market Category": "Q",
+    "Round Lot Size": 100,
+    "Security Name": "Microsoft Corporation - Common Stock",
+    "Symbol": "MSFT",
+    "Test Issue": "N"
+  },
+  {
+    "Company Name": "Micron Technology, Inc.",
+    "Financial Status": "N",
+    "Market Category": "Q",
+    "Round Lot Size": 100,
+    "Security Name": "Micron Technology, Inc. - Common Stock",
+    "Symbol": "MU",
+    "Test Issue": "N"
+  },
+  {
+    "Company Name": "Maxim Integrated Products, Inc.",
+    "Financial Status": "N",
+    "Market Category": "Q",
+    "Round Lot Size": 100,
+    "Security Name": "Maxim Integrated Products, Inc. - Common Stock",
+    "Symbol": "MXIM",
+    "Test Issue": "N"
+  },
+  {
+    "Company Name": "Mylan Inc.",
+    "Financial Status": "N",
+    "Market Category": "Q",
+    "Round Lot Size": 100,
+    "Security Name": "Mylan Inc. - Common Stock",
+    "Symbol": "MYL",
+    "Test Issue": "N"
+  },
+  {
+    "Company Name": "Norwegian Cruise Line Holdings Ltd.",
+    "Financial Status": "N",
+    "Market Category": "Q",
+    "Round Lot Size": 100,
+    "Security Name": "Norwegian Cruise Line Holdings Ltd. - Ordinary Shares",
+    "Symbol": "NCLH",
+    "Test Issue": "N"
+  },
+  {
+    "Company Name": "Netflix, Inc.",
+    "Financial Status": "N",
+    "Market Category": "Q",
+    "Round Lot Size": 100,
+    "Security Name": "Netflix, Inc. - Common Stock",
+    "Symbol": "NFLX",
+    "Test Issue": "N"
+  },
+  {
+    "Company Name": "NetEase, Inc.",
+    "Financial Status": "N",
+    "Market Category": "Q",
+    "Round Lot Size": 100,
+    "Security Name":
+      "NetEase, Inc. - American Depositary Shares, each representing 25 ordinary shares",
+    "Symbol": "NTES",
+    "Test Issue": "N"
+  },
+  {
+    "Company Name": "NVIDIA Corporation",
+    "Financial Status": "N",
+    "Market Category": "Q",
+    "Round Lot Size": 100,
+    "Security Name": "NVIDIA Corporation - Common Stock",
+    "Symbol": "NVDA",
+    "Test Issue": "N"
+  },
+  {
+    "Company Name": "O'Reilly Automotive, Inc.",
+    "Financial Status": "N",
+    "Market Category": "Q",
+    "Round Lot Size": 100,
+    "Security Name": "O'Reilly Automotive, Inc. - Common Stock",
+    "Symbol": "ORLY",
+    "Test Issue": "N"
+  },
+  {
+    "Company Name": "Paychex, Inc.",
+    "Financial Status": "N",
+    "Market Category": "Q",
+    "Round Lot Size": 100,
+    "Security Name": "Paychex, Inc. - Common Stock",
+    "Symbol": "PAYX",
+    "Test Issue": "N"
+  },
+  {
+    "Company Name": "PACCAR Inc.",
+    "Financial Status": "N",
+    "Market Category": "Q",
+    "Round Lot Size": 100,
+    "Security Name": "PACCAR Inc. - Common Stock",
+    "Symbol": "PCAR",
+    "Test Issue": "N"
+  },
+  {
+    "Company Name": "QUALCOMM Incorporated",
+    "Financial Status": "N",
+    "Market Category": "Q",
+    "Round Lot Size": 100,
+    "Security Name": "QUALCOMM Incorporated - Common Stock",
+    "Symbol": "QCOM",
+    "Test Issue": "N"
+  },
+  {
+    "Company Name": "Regeneron Pharmaceuticals, Inc.",
+    "Financial Status": "N",
+    "Market Category": "Q",
+    "Round Lot Size": 100,
+    "Security Name": "Regeneron Pharmaceuticals, Inc. - Common Stock",
+    "Symbol": "REGN",
+    "Test Issue": "N"
+  },
+  {
+    "Company Name": "Ross Stores, Inc.",
+    "Financial Status": "N",
+    "Market Category": "Q",
+    "Round Lot Size": 100,
+    "Security Name": "Ross Stores, Inc. - Common Stock",
+    "Symbol": "ROST",
+    "Test Issue": "N"
+  },
+  {
+    "Company Name": "Starbucks Corporation",
+    "Financial Status": "N",
+    "Market Category": "Q",
+    "Round Lot Size": 100,
+    "Security Name": "Starbucks Corporation - Common Stock",
+    "Symbol": "SBUX",
+    "Test Issue": "N"
+  },
+  {
+    "Company Name": "Shire plc",
+    "Financial Status": "N",
+    "Market Category": "Q",
+    "Round Lot Size": 100,
+    "Security Name":
+      "Shire plc - American Depositary Shares, each representing three Ordinary Shares",
+    "Symbol": "SHPG",
+    "Test Issue": "N"
+  },
+  {
+    "Company Name": "Sirius XM Holdings Inc.",
+    "Financial Status": "N",
+    "Market Category": "Q",
+    "Round Lot Size": 100,
+    "Security Name": "Sirius XM Holdings Inc. - Common Stock",
+    "Symbol": "SIRI",
+    "Test Issue": "N"
+  },
+  {
+    "Company Name": "Seagate Technology.",
+    "Financial Status": "N",
+    "Market Category": "Q",
+    "Round Lot Size": 100,
+    "Security Name": "Seagate Technology. - Common Stock",
+    "Symbol": "STX",
+    "Test Issue": "N"
+  },
+  {
+    "Company Name": "Skyworks Solutions, Inc.",
+    "Financial Status": "N",
+    "Market Category": "Q",
+    "Round Lot Size": 100,
+    "Security Name": "Skyworks Solutions, Inc. - Common Stock",
+    "Symbol": "SWKS",
+    "Test Issue": "N"
+  },
+  {
+    "Company Name": "Symantec Corporation",
+    "Financial Status": "N",
+    "Market Category": "Q",
+    "Round Lot Size": 100,
+    "Security Name": "Symantec Corporation - Common Stock",
+    "Symbol": "SYMC",
+    "Test Issue": "N"
+  },
+  {
+    "Company Name": "Tractor Supply Company",
+    "Financial Status": "N",
+    "Market Category": "Q",
+    "Round Lot Size": 100,
+    "Security Name": "Tractor Supply Company - Common Stock",
+    "Symbol": "TSCO",
+    "Test Issue": "N"
+  },
+  {
+    "Company Name": "Tesla Motors, Inc.",
+    "Financial Status": "N",
+    "Market Category": "Q",
+    "Round Lot Size": 100,
+    "Security Name": "Tesla Motors, Inc. - Common Stock",
+    "Symbol": "TSLA",
+    "Test Issue": "N"
+  },
+  {
+    "Company Name": "Texas Instruments Incorporated",
+    "Financial Status": "N",
+    "Market Category": "Q",
+    "Round Lot Size": 100,
+    "Security Name": "Texas Instruments Incorporated - Common Stock",
+    "Symbol": "TXN",
+    "Test Issue": "N"
+  },
+  {
+    "Company Name": "Ulta Salon, Cosmetics & Fragrance, Inc.",
+    "Financial Status": "N",
+    "Market Category": "Q",
+    "Round Lot Size": 100,
+    "Security Name": "Ulta Salon, Cosmetics & Fragrance, Inc. - Common Stock",
+    "Symbol": "ULTA",
+    "Test Issue": "N"
+  },
+  {
+    "Company Name": "Viacom Inc.",
+    "Financial Status": "N",
+    "Market Category": "Q",
+    "Round Lot Size": 100,
+    "Security Name": "Viacom Inc. - Class B Common Stock",
+    "Symbol": "VIAB",
+    "Test Issue": "N"
+  },
+  {
+    "Company Name": "Vodafone Group Plc",
+    "Financial Status": "N",
+    "Market Category": "Q",
+    "Round Lot Size": 100,
+    "Security Name":
+      "Vodafone Group Plc - American Depositary Shares each representing ten Ordinary Shares",
+    "Symbol": "VOD",
+    "Test Issue": "N"
+  },
+  {
+    "Company Name": "Verisk Analytics, Inc.",
+    "Financial Status": "N",
+    "Market Category": "Q",
+    "Round Lot Size": 100,
+    "Security Name": "Verisk Analytics, Inc. - Class A Common Stock",
+    "Symbol": "VRSK",
+    "Test Issue": "N"
+  },
+  {
+    "Company Name": "Vertex Pharmaceuticals Incorporated",
+    "Financial Status": "N",
+    "Market Category": "Q",
+    "Round Lot Size": 100,
+    "Security Name": "Vertex Pharmaceuticals Incorporated - Common Stock",
+    "Symbol": "VRTX",
+    "Test Issue": "N"
+  },
+  {
+    "Company Name": "Walgreens Boots Alliance, Inc.",
+    "Financial Status": "N",
+    "Market Category": "Q",
+    "Round Lot Size": 100,
+    "Security Name": "Walgreens Boots Alliance, Inc. - Common Stock",
+    "Symbol": "WBA",
+    "Test Issue": "N"
+  },
+  {
+    "Company Name": "Western Digital Corporation",
+    "Financial Status": "N",
+    "Market Category": "Q",
+    "Round Lot Size": 100,
+    "Security Name": "Western Digital Corporation - Common Stock",
+    "Symbol": "WDC",
+    "Test Issue": "N"
+  },
+  {
+    "Company Name": "Wynn Resorts, Limited",
+    "Financial Status": "N",
+    "Market Category": "Q",
+    "Round Lot Size": 100,
+    "Security Name": "Wynn Resorts, Limited - Common Stock",
+    "Symbol": "WYNN",
+    "Test Issue": "N"
+  },
+  {
+    "Company Name": "Xilinx, Inc.",
+    "Financial Status": "N",
+    "Market Category": "Q",
+    "Round Lot Size": 100,
+    "Security Name": "Xilinx, Inc. - Common Stock",
+    "Symbol": "XLNX",
+    "Test Issue": "N"
+  },
+  {
+    "Company Name": "DENTSPLY International Inc.",
+    "Financial Status": "N",
+    "Market Category": "Q",
+    "Round Lot Size": 100,
+    "Security Name": "DENTSPLY International Inc. - Common Stock",
+    "Symbol": "XRAY",
+    "Test Issue": "N"
+  }
+]
