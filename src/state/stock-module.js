@@ -1,4 +1,4 @@
-import apiStocksResponse from "../../data/api-stocks-response";
+import apiStocksResponse from "../data/api-stocks-response";
 
 export const INITIALIZE_STOCKS = "INITIALIZE_STOCKS";
 
