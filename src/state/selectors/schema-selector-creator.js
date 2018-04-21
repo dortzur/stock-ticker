@@ -1,31 +1,8 @@
 import { createSelectorCreator } from "reselect";
 
-function defaultEqualityCheck(a, b) {
-  return a === b;
-}
-function areArgumentsShallowlyEqual(equalityCheck, prev, next) {
-  if (prev === null || next === null || prev.length !== next.length) {
-    return false;
-  }
+import { areArgumentsShallowlyEqual, equalityCheck, toEntity } from "./utils";
 
-  // Do this in a for loop (and not a `forEach` or an `every`) so we can determine equality as fast as possible.
-  const length = prev.length;
-  for (let i = 0; i < length; i++) {
-    if (!equalityCheck(prev[i], next[i])) {
-      return false;
-    }
-  }
-
-  return true;
-}
-
-const toEntity = arr =>
-  arr.reduce((entityMap, item) => {
-    entityMap[item.id] = item;
-    return entityMap;
-  }, {});
-
-export function entityMemoize(func, equalityCheck = defaultEqualityCheck) {
+export function entityMemoize(func, schema) {
   let lastArgs = null;
   let lastResult = null;
   let newResult = null;
@@ -58,5 +35,5 @@ export function entityMemoize(func, equalityCheck = defaultEqualityCheck) {
   };
 }
 
-// const createEntitySelector = createSelectorCreator(entityMemoize);
-export const createEntitySelector = createSelectorCreator(entityMemoize);
+export const schemaSelectorCreator = schema =>
+  createSelectorCreator(entityMemoize, schema);

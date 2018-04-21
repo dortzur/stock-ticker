@@ -2,8 +2,10 @@ import apiStocksResponse from "../data/api-stocks-response";
 import { Schemas } from "./schema";
 import { denormalize, normalize } from "normalizr";
 import { createSelector } from "reselect";
-import { createEntitySelector } from "./entity-selector";
+import { createEntityIdSelector } from "./selectors/entity-id-selector";
+import { schemaSelectorCreator } from "./selectors/schema-selector-creator";
 
+window.Schemas = Schemas;
 export const INITIALIZE_STOCKS = "INITIALIZE_STOCKS";
 
 export default (state = [], action) => {
@@ -26,7 +28,9 @@ const getStockList = state => state.stocks;
 const getCompanyEntities = state => state.entities.companies;
 const getStockEntities = state => state.entities.stocks;
 
-export const getCompanyStocks = createEntitySelector(
+const createEntitySelector = schemaSelectorCreator(Schemas.COMPANY_ARRAY);
+
+export const getCompanyStocks = createEntityIdSelector(
   getStockList,
   getCompanyEntities,
   getStockEntities,
