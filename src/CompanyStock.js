@@ -2,7 +2,6 @@ import React, { PureComponent } from "react";
 
 class CompanyStock extends PureComponent {
   render() {
-
     const { companyStock } = this.props;
     return (
       <div style={{ marginTop: 20 }}>
@@ -16,7 +15,9 @@ class CompanyStock extends PureComponent {
         <div>
           <strong>
             <em
-              style={companyStock.stock.id === "AAPL" ? { color: "limegreen" } : {}}
+              style={
+                companyStock.stock.id === "AAPL" ? { color: "limegreen" } : {}
+              }
             >
               Stock Price: {companyStock.stock.price}
             </em>

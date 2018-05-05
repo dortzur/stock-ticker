@@ -1,5 +1,6 @@
 import { schema } from "normalizr";
 
+window.BABA = schema;
 const stockSchema = new schema.Entity("stocks", {});
 
 const companySchema = new schema.Entity("companies", {
