@@ -52,8 +52,10 @@ export const companyStocksSelector = createSelector(
 
 const companyStocksEntitySelector = createDenormalizeSelector(
   getStockList,
-  getCompanyStockEntities,
-  Schemas.COMPANY_ARRAY
+  Schemas.COMPANY_ARRAY,
+  "companies",
+  "stocks",
+  "earnings"
 );
 const useEntitySelector = !!qs.parse(window.location.search).entitySelector;
 export const getCompanyStocks = useEntitySelector
