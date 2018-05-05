@@ -1,7 +1,8 @@
 import React, { PureComponent } from "react";
 import { connect } from "react-redux";
 import { getCompanyStocks } from "./state/stock-module";
-import CompanyStock from './CompanyStock';
+import CompanyStock from "./CompanyStock";
+
 class Companies extends PureComponent {
   render() {
     const { companyStocks } = this.props;

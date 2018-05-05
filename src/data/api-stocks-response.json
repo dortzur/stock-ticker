@@ -13,7 +13,18 @@
       "price": 46.78,
       "field4": "",
       "change": -0.1,
-      "percentChange": "-0.21%"
+      "percentChange": "-0.21%",
+      "quarterEarnings": [
+        { "reportId": "AAL_QUARTER_1", "quarter": 1, "earnings": 74239 },
+        { "reportId": "AAL_QUARTER_2", "quarter": 2, "earnings": 88368 },
+        { "reportId": "AAL_QUARTER_3", "quarter": 3, "earnings": 79974 },
+        { "reportId": "AAL_QUARTER_4", "quarter": 4, "earnings": 64572 }
+      ],
+      "lastEarningsReport": {
+        "reportId": "AAL_QUARTER_4",
+        "quarter": 4,
+        "earnings": 64572
+      }
     }
   },
   {
@@ -27,10 +38,20 @@
     "stock": {
       "id": "AAPL",
       "name": "Apple Inc",
-      "price": 165.72,
+      "price": 734,
       "field4": "",
       "change": -7.08,
-      "percentChange": "-4.10%"
+      "percentChange": "-4.10%",
+      "quarterEarnings": [
+        { "reportId": "AAPL_QUARTER_1", "quarter": 1, "earnings": 91507 },
+        { "reportId": "AAPL_QUARTER_2", "quarter": 2, "earnings": 69667 },
+        { "reportId": "AAPL_QUARTER_3", "quarter": 3, "earnings": 77598 }
+      ],
+      "lastEarningsReport": {
+        "reportId": "AAPL_QUARTER_3",
+        "quarter": 3,
+        "earnings": 77598
+      }
     }
   },
   {
@@ -47,7 +68,17 @@
       "price": 225.24,
       "field4": "",
       "change": -2.38,
-      "percentChange": "-1.05%"
+      "percentChange": "-1.05%",
+      "quarterEarnings": [
+        { "reportId": "ADBE_QUARTER_1", "quarter": 1, "earnings": 64269 },
+        { "reportId": "ADBE_QUARTER_2", "quarter": 2, "earnings": 65221 },
+        { "reportId": "ADBE_QUARTER_3", "quarter": 3, "earnings": 61579 }
+      ],
+      "lastEarningsReport": {
+        "reportId": "ADBE_QUARTER_3",
+        "quarter": 3,
+        "earnings": 61579
+      }
     }
   },
   {
@@ -64,7 +95,18 @@
       "price": 89.76,
       "field4": "",
       "change": -0.09,
-      "percentChange": "-0.10%"
+      "percentChange": "-0.10%",
+      "quarterEarnings": [
+        { "reportId": "ADI_QUARTER_1", "quarter": 1, "earnings": 76037 },
+        { "reportId": "ADI_QUARTER_2", "quarter": 2, "earnings": 87305 },
+        { "reportId": "ADI_QUARTER_3", "quarter": 3, "earnings": 96619 },
+        { "reportId": "ADI_QUARTER_4", "quarter": 4, "earnings": 82733 }
+      ],
+      "lastEarningsReport": {
+        "reportId": "ADI_QUARTER_4",
+        "quarter": 4,
+        "earnings": 82733
+      }
     }
   },
   {
@@ -81,7 +123,17 @@
       "price": 116.84,
       "field4": "",
       "change": -0.91,
-      "percentChange": "-0.77%"
+      "percentChange": "-0.77%",
+      "quarterEarnings": [
+        { "reportId": "ADP_QUARTER_1", "quarter": 1, "earnings": 84134 },
+        { "reportId": "ADP_QUARTER_2", "quarter": 2, "earnings": 86078 },
+        { "reportId": "ADP_QUARTER_3", "quarter": 3, "earnings": 74430 }
+      ],
+      "lastEarningsReport": {
+        "reportId": "ADP_QUARTER_3",
+        "quarter": 3,
+        "earnings": 74430
+      }
     }
   },
   {
@@ -98,7 +150,17 @@
       "price": 130.09,
       "field4": "",
       "change": -2.24,
-      "percentChange": "-1.69%"
+      "percentChange": "-1.69%",
+      "quarterEarnings": [
+        { "reportId": "ADSK_QUARTER_1", "quarter": 1, "earnings": 75335 },
+        { "reportId": "ADSK_QUARTER_2", "quarter": 2, "earnings": 97799 },
+        { "reportId": "ADSK_QUARTER_3", "quarter": 3, "earnings": 70452 }
+      ],
+      "lastEarningsReport": {
+        "reportId": "ADSK_QUARTER_3",
+        "quarter": 3,
+        "earnings": 70452
+      }
     }
   },
   {
@@ -115,7 +177,18 @@
       "price": 71.3,
       "field4": "",
       "change": -1.16,
-      "percentChange": "-1.60%"
+      "percentChange": "-1.60%",
+      "quarterEarnings": [
+        { "reportId": "AKAM_QUARTER_1", "quarter": 1, "earnings": 95239 },
+        { "reportId": "AKAM_QUARTER_2", "quarter": 2, "earnings": 86945 },
+        { "reportId": "AKAM_QUARTER_3", "quarter": 3, "earnings": 64995 },
+        { "reportId": "AKAM_QUARTER_4", "quarter": 4, "earnings": 96295 }
+      ],
+      "lastEarningsReport": {
+        "reportId": "AKAM_QUARTER_4",
+        "quarter": 4,
+        "earnings": 96295
+      }
     }
   },
   {
@@ -132,7 +205,18 @@
       "price": 247.07,
       "field4": "",
       "change": -5.71,
-      "percentChange": "-2.26%"
+      "percentChange": "-2.26%",
+      "quarterEarnings": [
+        { "reportId": "ALGN_QUARTER_1", "quarter": 1, "earnings": 97114 },
+        { "reportId": "ALGN_QUARTER_2", "quarter": 2, "earnings": 84255 },
+        { "reportId": "ALGN_QUARTER_3", "quarter": 3, "earnings": 67946 },
+        { "reportId": "ALGN_QUARTER_4", "quarter": 4, "earnings": 73817 }
+      ],
+      "lastEarningsReport": {
+        "reportId": "ALGN_QUARTER_4",
+        "quarter": 4,
+        "earnings": 73817
+      }
     }
   },
   {
@@ -149,7 +233,17 @@
       "price": 107.78,
       "field4": "",
       "change": -3.96,
-      "percentChange": "-3.54%"
+      "percentChange": "-3.54%",
+      "quarterEarnings": [
+        { "reportId": "ALXN_QUARTER_1", "quarter": 1, "earnings": 61435 },
+        { "reportId": "ALXN_QUARTER_2", "quarter": 2, "earnings": 74458 },
+        { "reportId": "ALXN_QUARTER_3", "quarter": 3, "earnings": 89725 }
+      ],
+      "lastEarningsReport": {
+        "reportId": "ALXN_QUARTER_3",
+        "quarter": 3,
+        "earnings": 89725
+      }
     }
   },
   {
@@ -166,7 +260,17 @@
       "price": 51.09,
       "field4": "",
       "change": -0.1,
-      "percentChange": "-0.20%"
+      "percentChange": "-0.20%",
+      "quarterEarnings": [
+        { "reportId": "AMAT_QUARTER_1", "quarter": 1, "earnings": 84429 },
+        { "reportId": "AMAT_QUARTER_2", "quarter": 2, "earnings": 75069 },
+        { "reportId": "AMAT_QUARTER_3", "quarter": 3, "earnings": 75621 }
+      ],
+      "lastEarningsReport": {
+        "reportId": "AMAT_QUARTER_3",
+        "quarter": 3,
+        "earnings": 75621
+      }
     }
   },
   {
@@ -183,7 +287,17 @@
       "price": 171.56,
       "field4": "",
       "change": -1.37,
-      "percentChange": "-0.79%"
+      "percentChange": "-0.79%",
+      "quarterEarnings": [
+        { "reportId": "AMGN_QUARTER_1", "quarter": 1, "earnings": 98804 },
+        { "reportId": "AMGN_QUARTER_2", "quarter": 2, "earnings": 93561 },
+        { "reportId": "AMGN_QUARTER_3", "quarter": 3, "earnings": 86385 }
+      ],
+      "lastEarningsReport": {
+        "reportId": "AMGN_QUARTER_3",
+        "quarter": 3,
+        "earnings": 86385
+      }
     }
   },
   {
@@ -200,7 +314,18 @@
       "price": 1527.49,
       "field4": "",
       "change": -29.42,
-      "percentChange": "-1.89%"
+      "percentChange": "-1.89%",
+      "quarterEarnings": [
+        { "reportId": "AMZN_QUARTER_1", "quarter": 1, "earnings": 68187 },
+        { "reportId": "AMZN_QUARTER_2", "quarter": 2, "earnings": 80673 },
+        { "reportId": "AMZN_QUARTER_3", "quarter": 3, "earnings": 71818 },
+        { "reportId": "AMZN_QUARTER_4", "quarter": 4, "earnings": 70009 }
+      ],
+      "lastEarningsReport": {
+        "reportId": "AMZN_QUARTER_4",
+        "quarter": 4,
+        "earnings": 70009
+      }
     }
   },
   {
@@ -217,7 +342,18 @@
       "price": 66.3,
       "field4": "",
       "change": -1.38,
-      "percentChange": "-2.04%"
+      "percentChange": "-2.04%",
+      "quarterEarnings": [
+        { "reportId": "ATVI_QUARTER_1", "quarter": 1, "earnings": 87862 },
+        { "reportId": "ATVI_QUARTER_2", "quarter": 2, "earnings": 94803 },
+        { "reportId": "ATVI_QUARTER_3", "quarter": 3, "earnings": 70005 },
+        { "reportId": "ATVI_QUARTER_4", "quarter": 4, "earnings": 67672 }
+      ],
+      "lastEarningsReport": {
+        "reportId": "ATVI_QUARTER_4",
+        "quarter": 4,
+        "earnings": 67672
+      }
     }
   },
   {
@@ -234,7 +370,17 @@
       "price": 237.12,
       "field4": "",
       "change": -5.74,
-      "percentChange": "-2.36%"
+      "percentChange": "-2.36%",
+      "quarterEarnings": [
+        { "reportId": "AVGO_QUARTER_1", "quarter": 1, "earnings": 76575 },
+        { "reportId": "AVGO_QUARTER_2", "quarter": 2, "earnings": 62843 },
+        { "reportId": "AVGO_QUARTER_3", "quarter": 3, "earnings": 85800 }
+      ],
+      "lastEarningsReport": {
+        "reportId": "AVGO_QUARTER_3",
+        "quarter": 3,
+        "earnings": 85800
+      }
     }
   },
   {
@@ -252,7 +398,18 @@
       "price": 232.5,
       "field4": "",
       "change": -4.61,
-      "percentChange": "-1.94%"
+      "percentChange": "-1.94%",
+      "quarterEarnings": [
+        { "reportId": "BIDU_QUARTER_1", "quarter": 1, "earnings": 76695 },
+        { "reportId": "BIDU_QUARTER_2", "quarter": 2, "earnings": 85192 },
+        { "reportId": "BIDU_QUARTER_3", "quarter": 3, "earnings": 82763 },
+        { "reportId": "BIDU_QUARTER_4", "quarter": 4, "earnings": 66151 }
+      ],
+      "lastEarningsReport": {
+        "reportId": "BIDU_QUARTER_4",
+        "quarter": 4,
+        "earnings": 66151
+      }
     }
   },
   {
@@ -269,7 +426,18 @@
       "price": 263.02,
       "field4": "",
       "change": -3,
-      "percentChange": "-1.13%"
+      "percentChange": "-1.13%",
+      "quarterEarnings": [
+        { "reportId": "BIIB_QUARTER_1", "quarter": 1, "earnings": 86549 },
+        { "reportId": "BIIB_QUARTER_2", "quarter": 2, "earnings": 93205 },
+        { "reportId": "BIIB_QUARTER_3", "quarter": 3, "earnings": 95189 },
+        { "reportId": "BIIB_QUARTER_4", "quarter": 4, "earnings": 74375 }
+      ],
+      "lastEarningsReport": {
+        "reportId": "BIIB_QUARTER_4",
+        "quarter": 4,
+        "earnings": 74375
+      }
     }
   },
   {
@@ -286,7 +454,18 @@
       "price": 82.3,
       "field4": "",
       "change": -1.32,
-      "percentChange": "-1.58%"
+      "percentChange": "-1.58%",
+      "quarterEarnings": [
+        { "reportId": "BMRN_QUARTER_1", "quarter": 1, "earnings": 89094 },
+        { "reportId": "BMRN_QUARTER_2", "quarter": 2, "earnings": 98525 },
+        { "reportId": "BMRN_QUARTER_3", "quarter": 3, "earnings": 66302 },
+        { "reportId": "BMRN_QUARTER_4", "quarter": 4, "earnings": 89112 }
+      ],
+      "lastEarningsReport": {
+        "reportId": "BMRN_QUARTER_4",
+        "quarter": 4,
+        "earnings": 89112
+      }
     }
   },
   {
@@ -303,7 +482,18 @@
       "price": 34.58,
       "field4": "",
       "change": -0.26,
-      "percentChange": "-0.75%"
+      "percentChange": "-0.75%",
+      "quarterEarnings": [
+        { "reportId": "CA_QUARTER_1", "quarter": 1, "earnings": 99704 },
+        { "reportId": "CA_QUARTER_2", "quarter": 2, "earnings": 84013 },
+        { "reportId": "CA_QUARTER_3", "quarter": 3, "earnings": 81417 },
+        { "reportId": "CA_QUARTER_4", "quarter": 4, "earnings": 63002 }
+      ],
+      "lastEarningsReport": {
+        "reportId": "CA_QUARTER_4",
+        "quarter": 4,
+        "earnings": 63002
+      }
     }
   },
   {
@@ -320,7 +510,17 @@
       "price": 88.95,
       "field4": "",
       "change": -0.67,
-      "percentChange": "-0.75%"
+      "percentChange": "-0.75%",
+      "quarterEarnings": [
+        { "reportId": "CELG_QUARTER_1", "quarter": 1, "earnings": 76817 },
+        { "reportId": "CELG_QUARTER_2", "quarter": 2, "earnings": 81913 },
+        { "reportId": "CELG_QUARTER_3", "quarter": 3, "earnings": 62949 }
+      ],
+      "lastEarningsReport": {
+        "reportId": "CELG_QUARTER_3",
+        "quarter": 3,
+        "earnings": 62949
+      }
     }
   },
   {
@@ -337,7 +537,18 @@
       "price": 58.23,
       "field4": "",
       "change": -0.69,
-      "percentChange": "-1.17%"
+      "percentChange": "-1.17%",
+      "quarterEarnings": [
+        { "reportId": "CERN_QUARTER_1", "quarter": 1, "earnings": 73960 },
+        { "reportId": "CERN_QUARTER_2", "quarter": 2, "earnings": 66568 },
+        { "reportId": "CERN_QUARTER_3", "quarter": 3, "earnings": 65520 },
+        { "reportId": "CERN_QUARTER_4", "quarter": 4, "earnings": 71108 }
+      ],
+      "lastEarningsReport": {
+        "reportId": "CERN_QUARTER_4",
+        "quarter": 4,
+        "earnings": 71108
+      }
     }
   },
   {
@@ -354,7 +565,18 @@
       "price": 102.23,
       "field4": "",
       "change": -0.87,
-      "percentChange": "-0.84%"
+      "percentChange": "-0.84%",
+      "quarterEarnings": [
+        { "reportId": "CHKP_QUARTER_1", "quarter": 1, "earnings": 87953 },
+        { "reportId": "CHKP_QUARTER_2", "quarter": 2, "earnings": 83310 },
+        { "reportId": "CHKP_QUARTER_3", "quarter": 3, "earnings": 86100 },
+        { "reportId": "CHKP_QUARTER_4", "quarter": 4, "earnings": 62094 }
+      ],
+      "lastEarningsReport": {
+        "reportId": "CHKP_QUARTER_4",
+        "quarter": 4,
+        "earnings": 62094
+      }
     }
   },
   {
@@ -371,7 +593,18 @@
       "price": 310.94,
       "field4": "",
       "change": -4.61,
-      "percentChange": "-1.46%"
+      "percentChange": "-1.46%",
+      "quarterEarnings": [
+        { "reportId": "CHTR_QUARTER_1", "quarter": 1, "earnings": 60767 },
+        { "reportId": "CHTR_QUARTER_2", "quarter": 2, "earnings": 88139 },
+        { "reportId": "CHTR_QUARTER_3", "quarter": 3, "earnings": 61966 },
+        { "reportId": "CHTR_QUARTER_4", "quarter": 4, "earnings": 60107 }
+      ],
+      "lastEarningsReport": {
+        "reportId": "CHTR_QUARTER_4",
+        "quarter": 4,
+        "earnings": 60107
+      }
     }
   },
   {
@@ -388,7 +621,18 @@
       "price": 33.21,
       "field4": "",
       "change": -0.27,
-      "percentChange": "-0.81%"
+      "percentChange": "-0.81%",
+      "quarterEarnings": [
+        { "reportId": "CMCSA_QUARTER_1", "quarter": 1, "earnings": 88634 },
+        { "reportId": "CMCSA_QUARTER_2", "quarter": 2, "earnings": 74260 },
+        { "reportId": "CMCSA_QUARTER_3", "quarter": 3, "earnings": 91838 },
+        { "reportId": "CMCSA_QUARTER_4", "quarter": 4, "earnings": 77670 }
+      ],
+      "lastEarningsReport": {
+        "reportId": "CMCSA_QUARTER_4",
+        "quarter": 4,
+        "earnings": 77670
+      }
     }
   },
   {
@@ -405,7 +649,18 @@
       "price": 193.56,
       "field4": "",
       "change": -1.51,
-      "percentChange": "-0.77%"
+      "percentChange": "-0.77%",
+      "quarterEarnings": [
+        { "reportId": "COST_QUARTER_1", "quarter": 1, "earnings": 98088 },
+        { "reportId": "COST_QUARTER_2", "quarter": 2, "earnings": 79466 },
+        { "reportId": "COST_QUARTER_3", "quarter": 3, "earnings": 74874 },
+        { "reportId": "COST_QUARTER_4", "quarter": 4, "earnings": 60381 }
+      ],
+      "lastEarningsReport": {
+        "reportId": "COST_QUARTER_4",
+        "quarter": 4,
+        "earnings": 60381
+      }
     }
   },
   {
@@ -422,7 +677,17 @@
       "price": 44.09,
       "field4": "",
       "change": -0.47,
-      "percentChange": "-1.05%"
+      "percentChange": "-1.05%",
+      "quarterEarnings": [
+        { "reportId": "CSCO_QUARTER_1", "quarter": 1, "earnings": 67413 },
+        { "reportId": "CSCO_QUARTER_2", "quarter": 2, "earnings": 69428 },
+        { "reportId": "CSCO_QUARTER_3", "quarter": 3, "earnings": 90710 }
+      ],
+      "lastEarningsReport": {
+        "reportId": "CSCO_QUARTER_3",
+        "quarter": 3,
+        "earnings": 90710
+      }
     }
   },
   {
@@ -439,7 +704,17 @@
       "price": 173.12,
       "field4": "",
       "change": -1.04,
-      "percentChange": "-0.60%"
+      "percentChange": "-0.60%",
+      "quarterEarnings": [
+        { "reportId": "CTAS_QUARTER_1", "quarter": 1, "earnings": 97904 },
+        { "reportId": "CTAS_QUARTER_2", "quarter": 2, "earnings": 73756 },
+        { "reportId": "CTAS_QUARTER_3", "quarter": 3, "earnings": 71709 }
+      ],
+      "lastEarningsReport": {
+        "reportId": "CTAS_QUARTER_3",
+        "quarter": 3,
+        "earnings": 71709
+      }
     }
   },
   {
@@ -457,7 +732,17 @@
       "price": 42.65,
       "field4": "",
       "change": -0.45,
-      "percentChange": "-1.04%"
+      "percentChange": "-1.04%",
+      "quarterEarnings": [
+        { "reportId": "CTRP_QUARTER_1", "quarter": 1, "earnings": 97269 },
+        { "reportId": "CTRP_QUARTER_2", "quarter": 2, "earnings": 82549 },
+        { "reportId": "CTRP_QUARTER_3", "quarter": 3, "earnings": 87384 }
+      ],
+      "lastEarningsReport": {
+        "reportId": "CTRP_QUARTER_3",
+        "quarter": 3,
+        "earnings": 87384
+      }
     }
   },
   {
@@ -475,7 +760,17 @@
       "price": 81.77,
       "field4": "",
       "change": -0.6,
-      "percentChange": "-0.73%"
+      "percentChange": "-0.73%",
+      "quarterEarnings": [
+        { "reportId": "CTSH_QUARTER_1", "quarter": 1, "earnings": 87971 },
+        { "reportId": "CTSH_QUARTER_2", "quarter": 2, "earnings": 75497 },
+        { "reportId": "CTSH_QUARTER_3", "quarter": 3, "earnings": 96358 }
+      ],
+      "lastEarningsReport": {
+        "reportId": "CTSH_QUARTER_3",
+        "quarter": 3,
+        "earnings": 96358
+      }
     }
   },
   {
@@ -492,7 +787,18 @@
       "price": 96.57,
       "field4": "",
       "change": -0.65,
-      "percentChange": "-0.67%"
+      "percentChange": "-0.67%",
+      "quarterEarnings": [
+        { "reportId": "CTXS_QUARTER_1", "quarter": 1, "earnings": 87628 },
+        { "reportId": "CTXS_QUARTER_2", "quarter": 2, "earnings": 76834 },
+        { "reportId": "CTXS_QUARTER_3", "quarter": 3, "earnings": 75540 },
+        { "reportId": "CTXS_QUARTER_4", "quarter": 4, "earnings": 85538 }
+      ],
+      "lastEarningsReport": {
+        "reportId": "CTXS_QUARTER_4",
+        "quarter": 4,
+        "earnings": 85538
+      }
     }
   },
   {
@@ -509,7 +815,17 @@
       "price": 23.16,
       "field4": "",
       "change": -0.22,
-      "percentChange": "-0.94%"
+      "percentChange": "-0.94%",
+      "quarterEarnings": [
+        { "reportId": "DISCA_QUARTER_1", "quarter": 1, "earnings": 84488 },
+        { "reportId": "DISCA_QUARTER_2", "quarter": 2, "earnings": 62379 },
+        { "reportId": "DISCA_QUARTER_3", "quarter": 3, "earnings": 87461 }
+      ],
+      "lastEarningsReport": {
+        "reportId": "DISCA_QUARTER_3",
+        "quarter": 3,
+        "earnings": 87461
+      }
     }
   },
   {
@@ -526,7 +842,18 @@
       "price": 21.46,
       "field4": "",
       "change": -0.17,
-      "percentChange": "-0.79%"
+      "percentChange": "-0.79%",
+      "quarterEarnings": [
+        { "reportId": "DISCK_QUARTER_1", "quarter": 1, "earnings": 78343 },
+        { "reportId": "DISCK_QUARTER_2", "quarter": 2, "earnings": 72267 },
+        { "reportId": "DISCK_QUARTER_3", "quarter": 3, "earnings": 80546 },
+        { "reportId": "DISCK_QUARTER_4", "quarter": 4, "earnings": 96306 }
+      ],
+      "lastEarningsReport": {
+        "reportId": "DISCK_QUARTER_4",
+        "quarter": 4,
+        "earnings": 96306
+      }
     }
   },
   {
@@ -543,7 +870,18 @@
       "price": 37.23,
       "field4": "",
       "change": -1.29,
-      "percentChange": "-3.35%"
+      "percentChange": "-3.35%",
+      "quarterEarnings": [
+        { "reportId": "DISH_QUARTER_1", "quarter": 1, "earnings": 67150 },
+        { "reportId": "DISH_QUARTER_2", "quarter": 2, "earnings": 62057 },
+        { "reportId": "DISH_QUARTER_3", "quarter": 3, "earnings": 79787 },
+        { "reportId": "DISH_QUARTER_4", "quarter": 4, "earnings": 80372 }
+      ],
+      "lastEarningsReport": {
+        "reportId": "DISH_QUARTER_4",
+        "quarter": 4,
+        "earnings": 80372
+      }
     }
   },
   {
@@ -560,7 +898,18 @@
       "price": 97.56,
       "field4": "",
       "change": -1.34,
-      "percentChange": "-1.35%"
+      "percentChange": "-1.35%",
+      "quarterEarnings": [
+        { "reportId": "DLTR_QUARTER_1", "quarter": 1, "earnings": 98706 },
+        { "reportId": "DLTR_QUARTER_2", "quarter": 2, "earnings": 62930 },
+        { "reportId": "DLTR_QUARTER_3", "quarter": 3, "earnings": 66893 },
+        { "reportId": "DLTR_QUARTER_4", "quarter": 4, "earnings": 80344 }
+      ],
+      "lastEarningsReport": {
+        "reportId": "DLTR_QUARTER_4",
+        "quarter": 4,
+        "earnings": 80344
+      }
     }
   },
   {
@@ -577,7 +926,18 @@
       "price": 120.89,
       "field4": "",
       "change": -2.22,
-      "percentChange": "-1.80%"
+      "percentChange": "-1.80%",
+      "quarterEarnings": [
+        { "reportId": "EA_QUARTER_1", "quarter": 1, "earnings": 62433 },
+        { "reportId": "EA_QUARTER_2", "quarter": 2, "earnings": 70709 },
+        { "reportId": "EA_QUARTER_3", "quarter": 3, "earnings": 82274 },
+        { "reportId": "EA_QUARTER_4", "quarter": 4, "earnings": 89299 }
+      ],
+      "lastEarningsReport": {
+        "reportId": "EA_QUARTER_4",
+        "quarter": 4,
+        "earnings": 89299
+      }
     }
   },
   {
@@ -594,7 +954,18 @@
       "price": 42.2,
       "field4": "",
       "change": 0.09,
-      "percentChange": "0.21%"
+      "percentChange": "0.21%",
+      "quarterEarnings": [
+        { "reportId": "EBAY_QUARTER_1", "quarter": 1, "earnings": 98499 },
+        { "reportId": "EBAY_QUARTER_2", "quarter": 2, "earnings": 63261 },
+        { "reportId": "EBAY_QUARTER_3", "quarter": 3, "earnings": 79554 },
+        { "reportId": "EBAY_QUARTER_4", "quarter": 4, "earnings": 71963 }
+      ],
+      "lastEarningsReport": {
+        "reportId": "EBAY_QUARTER_4",
+        "quarter": 4,
+        "earnings": 71963
+      }
     }
   },
   {
@@ -611,7 +982,17 @@
       "price": 73.49,
       "field4": "",
       "change": -0.27,
-      "percentChange": "-0.37%"
+      "percentChange": "-0.37%",
+      "quarterEarnings": [
+        { "reportId": "ESRX_QUARTER_1", "quarter": 1, "earnings": 89152 },
+        { "reportId": "ESRX_QUARTER_2", "quarter": 2, "earnings": 79399 },
+        { "reportId": "ESRX_QUARTER_3", "quarter": 3, "earnings": 63972 }
+      ],
+      "lastEarningsReport": {
+        "reportId": "ESRX_QUARTER_3",
+        "quarter": 3,
+        "earnings": 63972
+      }
     }
   },
   {
@@ -628,7 +1009,18 @@
       "price": 109.77,
       "field4": "",
       "change": -1.6,
-      "percentChange": "-1.44%"
+      "percentChange": "-1.44%",
+      "quarterEarnings": [
+        { "reportId": "EXPE_QUARTER_1", "quarter": 1, "earnings": 89316 },
+        { "reportId": "EXPE_QUARTER_2", "quarter": 2, "earnings": 97912 },
+        { "reportId": "EXPE_QUARTER_3", "quarter": 3, "earnings": 93253 },
+        { "reportId": "EXPE_QUARTER_4", "quarter": 4, "earnings": 92473 }
+      ],
+      "lastEarningsReport": {
+        "reportId": "EXPE_QUARTER_4",
+        "quarter": 4,
+        "earnings": 92473
+      }
     }
   },
   {
@@ -645,7 +1037,18 @@
       "price": 50.49,
       "field4": "",
       "change": -0.09,
-      "percentChange": "-0.18%"
+      "percentChange": "-0.18%",
+      "quarterEarnings": [
+        { "reportId": "FAST_QUARTER_1", "quarter": 1, "earnings": 93940 },
+        { "reportId": "FAST_QUARTER_2", "quarter": 2, "earnings": 92552 },
+        { "reportId": "FAST_QUARTER_3", "quarter": 3, "earnings": 77011 },
+        { "reportId": "FAST_QUARTER_4", "quarter": 4, "earnings": 97741 }
+      ],
+      "lastEarningsReport": {
+        "reportId": "FAST_QUARTER_4",
+        "quarter": 4,
+        "earnings": 97741
+      }
     }
   },
   {
@@ -662,7 +1065,17 @@
       "price": 166.28,
       "field4": "",
       "change": -1.82,
-      "percentChange": "-1.08%"
+      "percentChange": "-1.08%",
+      "quarterEarnings": [
+        { "reportId": "FB_QUARTER_1", "quarter": 1, "earnings": 86307 },
+        { "reportId": "FB_QUARTER_2", "quarter": 2, "earnings": 89661 },
+        { "reportId": "FB_QUARTER_3", "quarter": 3, "earnings": 95755 }
+      ],
+      "lastEarningsReport": {
+        "reportId": "FB_QUARTER_3",
+        "quarter": 3,
+        "earnings": 95755
+      }
     }
   },
   {
@@ -679,7 +1092,17 @@
       "price": 71.34,
       "field4": "",
       "change": -0.41,
-      "percentChange": "-0.57%"
+      "percentChange": "-0.57%",
+      "quarterEarnings": [
+        { "reportId": "FISV_QUARTER_1", "quarter": 1, "earnings": 68283 },
+        { "reportId": "FISV_QUARTER_2", "quarter": 2, "earnings": 75025 },
+        { "reportId": "FISV_QUARTER_3", "quarter": 3, "earnings": 72472 }
+      ],
+      "lastEarningsReport": {
+        "reportId": "FISV_QUARTER_3",
+        "quarter": 3,
+        "earnings": 72472
+      }
     }
   },
   {
@@ -696,7 +1119,18 @@
       "price": 36.18,
       "field4": "",
       "change": -0.5,
-      "percentChange": "-1.36%"
+      "percentChange": "-1.36%",
+      "quarterEarnings": [
+        { "reportId": "FOX_QUARTER_1", "quarter": 1, "earnings": 62013 },
+        { "reportId": "FOX_QUARTER_2", "quarter": 2, "earnings": 75208 },
+        { "reportId": "FOX_QUARTER_3", "quarter": 3, "earnings": 81621 },
+        { "reportId": "FOX_QUARTER_4", "quarter": 4, "earnings": 92413 }
+      ],
+      "lastEarningsReport": {
+        "reportId": "FOX_QUARTER_4",
+        "quarter": 4,
+        "earnings": 92413
+      }
     }
   },
   {
@@ -713,7 +1147,18 @@
       "price": 36.68,
       "field4": "",
       "change": -0.52,
-      "percentChange": "-1.40%"
+      "percentChange": "-1.40%",
+      "quarterEarnings": [
+        { "reportId": "FOXA_QUARTER_1", "quarter": 1, "earnings": 89895 },
+        { "reportId": "FOXA_QUARTER_2", "quarter": 2, "earnings": 88876 },
+        { "reportId": "FOXA_QUARTER_3", "quarter": 3, "earnings": 79368 },
+        { "reportId": "FOXA_QUARTER_4", "quarter": 4, "earnings": 70109 }
+      ],
+      "lastEarningsReport": {
+        "reportId": "FOXA_QUARTER_4",
+        "quarter": 4,
+        "earnings": 70109
+      }
     }
   },
   {
@@ -730,7 +1175,17 @@
       "price": 73.7,
       "field4": "",
       "change": -0.74,
-      "percentChange": "-0.99%"
+      "percentChange": "-0.99%",
+      "quarterEarnings": [
+        { "reportId": "GILD_QUARTER_1", "quarter": 1, "earnings": 96658 },
+        { "reportId": "GILD_QUARTER_2", "quarter": 2, "earnings": 84991 },
+        { "reportId": "GILD_QUARTER_3", "quarter": 3, "earnings": 91349 }
+      ],
+      "lastEarningsReport": {
+        "reportId": "GILD_QUARTER_3",
+        "quarter": 3,
+        "earnings": 91349
+      }
     }
   },
   {
@@ -747,7 +1202,18 @@
       "price": 1072.96,
       "field4": "",
       "change": -14.74,
-      "percentChange": "-1.36%"
+      "percentChange": "-1.36%",
+      "quarterEarnings": [
+        { "reportId": "GOOG_QUARTER_1", "quarter": 1, "earnings": 82804 },
+        { "reportId": "GOOG_QUARTER_2", "quarter": 2, "earnings": 82994 },
+        { "reportId": "GOOG_QUARTER_3", "quarter": 3, "earnings": 62362 },
+        { "reportId": "GOOG_QUARTER_4", "quarter": 4, "earnings": 73152 }
+      ],
+      "lastEarningsReport": {
+        "reportId": "GOOG_QUARTER_4",
+        "quarter": 4,
+        "earnings": 73152
+      }
     }
   },
   {
@@ -764,7 +1230,17 @@
       "price": 1077.3199,
       "field4": "",
       "change": -12.1301,
-      "percentChange": "-1.11%"
+      "percentChange": "-1.11%",
+      "quarterEarnings": [
+        { "reportId": "GOOGL_QUARTER_1", "quarter": 1, "earnings": 90290 },
+        { "reportId": "GOOGL_QUARTER_2", "quarter": 2, "earnings": 71130 },
+        { "reportId": "GOOGL_QUARTER_3", "quarter": 3, "earnings": 76296 }
+      ],
+      "lastEarningsReport": {
+        "reportId": "GOOGL_QUARTER_3",
+        "quarter": 3,
+        "earnings": 76296
+      }
     }
   },
   {
@@ -781,7 +1257,18 @@
       "price": 82.81,
       "field4": "",
       "change": -1.18,
-      "percentChange": "-1.40%"
+      "percentChange": "-1.40%",
+      "quarterEarnings": [
+        { "reportId": "HAS_QUARTER_1", "quarter": 1, "earnings": 64866 },
+        { "reportId": "HAS_QUARTER_2", "quarter": 2, "earnings": 70999 },
+        { "reportId": "HAS_QUARTER_3", "quarter": 3, "earnings": 89934 },
+        { "reportId": "HAS_QUARTER_4", "quarter": 4, "earnings": 92352 }
+      ],
+      "lastEarningsReport": {
+        "reportId": "HAS_QUARTER_4",
+        "quarter": 4,
+        "earnings": 92352
+      }
     }
   },
   {
@@ -798,7 +1285,18 @@
       "price": 38.3,
       "field4": "",
       "change": -0.31,
-      "percentChange": "-0.80%"
+      "percentChange": "-0.80%",
+      "quarterEarnings": [
+        { "reportId": "HOLX_QUARTER_1", "quarter": 1, "earnings": 84501 },
+        { "reportId": "HOLX_QUARTER_2", "quarter": 2, "earnings": 67228 },
+        { "reportId": "HOLX_QUARTER_3", "quarter": 3, "earnings": 76180 },
+        { "reportId": "HOLX_QUARTER_4", "quarter": 4, "earnings": 78808 }
+      ],
+      "lastEarningsReport": {
+        "reportId": "HOLX_QUARTER_4",
+        "quarter": 4,
+        "earnings": 78808
+      }
     }
   },
   {
@@ -815,7 +1313,17 @@
       "price": 69.07,
       "field4": "",
       "change": -0.68,
-      "percentChange": "-0.97%"
+      "percentChange": "-0.97%",
+      "quarterEarnings": [
+        { "reportId": "HSIC_QUARTER_1", "quarter": 1, "earnings": 83822 },
+        { "reportId": "HSIC_QUARTER_2", "quarter": 2, "earnings": 71782 },
+        { "reportId": "HSIC_QUARTER_3", "quarter": 3, "earnings": 75998 }
+      ],
+      "lastEarningsReport": {
+        "reportId": "HSIC_QUARTER_3",
+        "quarter": 3,
+        "earnings": 75998
+      }
     }
   },
   {
@@ -832,7 +1340,18 @@
       "price": 196.75,
       "field4": "",
       "change": -1.07,
-      "percentChange": "-0.54%"
+      "percentChange": "-0.54%",
+      "quarterEarnings": [
+        { "reportId": "IDXX_QUARTER_1", "quarter": 1, "earnings": 73043 },
+        { "reportId": "IDXX_QUARTER_2", "quarter": 2, "earnings": 96301 },
+        { "reportId": "IDXX_QUARTER_3", "quarter": 3, "earnings": 99677 },
+        { "reportId": "IDXX_QUARTER_4", "quarter": 4, "earnings": 81335 }
+      ],
+      "lastEarningsReport": {
+        "reportId": "IDXX_QUARTER_4",
+        "quarter": 4,
+        "earnings": 81335
+      }
     }
   },
   {
@@ -849,7 +1368,18 @@
       "price": 244.6,
       "field4": "",
       "change": -1.24,
-      "percentChange": "-0.50%"
+      "percentChange": "-0.50%",
+      "quarterEarnings": [
+        { "reportId": "ILMN_QUARTER_1", "quarter": 1, "earnings": 94851 },
+        { "reportId": "ILMN_QUARTER_2", "quarter": 2, "earnings": 72363 },
+        { "reportId": "ILMN_QUARTER_3", "quarter": 3, "earnings": 63146 },
+        { "reportId": "ILMN_QUARTER_4", "quarter": 4, "earnings": 60294 }
+      ],
+      "lastEarningsReport": {
+        "reportId": "ILMN_QUARTER_4",
+        "quarter": 4,
+        "earnings": 60294
+      }
     }
   },
   {
@@ -866,7 +1396,18 @@
       "price": 68.43,
       "field4": "",
       "change": -0.62,
-      "percentChange": "-0.90%"
+      "percentChange": "-0.90%",
+      "quarterEarnings": [
+        { "reportId": "INCY_QUARTER_1", "quarter": 1, "earnings": 78909 },
+        { "reportId": "INCY_QUARTER_2", "quarter": 2, "earnings": 87217 },
+        { "reportId": "INCY_QUARTER_3", "quarter": 3, "earnings": 68247 },
+        { "reportId": "INCY_QUARTER_4", "quarter": 4, "earnings": 98319 }
+      ],
+      "lastEarningsReport": {
+        "reportId": "INCY_QUARTER_4",
+        "quarter": 4,
+        "earnings": 98319
+      }
     }
   },
   {
@@ -883,7 +1424,17 @@
       "price": 51.53,
       "field4": "",
       "change": -0.69,
-      "percentChange": "-1.32%"
+      "percentChange": "-1.32%",
+      "quarterEarnings": [
+        { "reportId": "INTC_QUARTER_1", "quarter": 1, "earnings": 89952 },
+        { "reportId": "INTC_QUARTER_2", "quarter": 2, "earnings": 93314 },
+        { "reportId": "INTC_QUARTER_3", "quarter": 3, "earnings": 63381 }
+      ],
+      "lastEarningsReport": {
+        "reportId": "INTC_QUARTER_3",
+        "quarter": 3,
+        "earnings": 63381
+      }
     }
   },
   {
@@ -900,7 +1451,17 @@
       "price": 178.13,
       "field4": "",
       "change": -1.28,
-      "percentChange": "-0.71%"
+      "percentChange": "-0.71%",
+      "quarterEarnings": [
+        { "reportId": "INTU_QUARTER_1", "quarter": 1, "earnings": 69879 },
+        { "reportId": "INTU_QUARTER_2", "quarter": 2, "earnings": 68396 },
+        { "reportId": "INTU_QUARTER_3", "quarter": 3, "earnings": 86701 }
+      ],
+      "lastEarningsReport": {
+        "reportId": "INTU_QUARTER_3",
+        "quarter": 3,
+        "earnings": 86701
+      }
     }
   },
   {
@@ -917,7 +1478,17 @@
       "price": 456.27,
       "field4": "",
       "change": -6.44,
-      "percentChange": "-1.39%"
+      "percentChange": "-1.39%",
+      "quarterEarnings": [
+        { "reportId": "ISRG_QUARTER_1", "quarter": 1, "earnings": 96767 },
+        { "reportId": "ISRG_QUARTER_2", "quarter": 2, "earnings": 78516 },
+        { "reportId": "ISRG_QUARTER_3", "quarter": 3, "earnings": 87866 }
+      ],
+      "lastEarningsReport": {
+        "reportId": "ISRG_QUARTER_3",
+        "quarter": 3,
+        "earnings": 87866
+      }
     }
   },
   {
@@ -934,7 +1505,17 @@
       "price": 119.59,
       "field4": "",
       "change": -1.68,
-      "percentChange": "-1.39%"
+      "percentChange": "-1.39%",
+      "quarterEarnings": [
+        { "reportId": "JBHT_QUARTER_1", "quarter": 1, "earnings": 93980 },
+        { "reportId": "JBHT_QUARTER_2", "quarter": 2, "earnings": 70571 },
+        { "reportId": "JBHT_QUARTER_3", "quarter": 3, "earnings": 82949 }
+      ],
+      "lastEarningsReport": {
+        "reportId": "JBHT_QUARTER_3",
+        "quarter": 3,
+        "earnings": 82949
+      }
     }
   },
   {
@@ -951,7 +1532,17 @@
       "price": 37.44,
       "field4": "",
       "change": -1.46,
-      "percentChange": "-3.75%"
+      "percentChange": "-3.75%",
+      "quarterEarnings": [
+        { "reportId": "JD_QUARTER_1", "quarter": 1, "earnings": 93291 },
+        { "reportId": "JD_QUARTER_2", "quarter": 2, "earnings": 63329 },
+        { "reportId": "JD_QUARTER_3", "quarter": 3, "earnings": 71902 }
+      ],
+      "lastEarningsReport": {
+        "reportId": "JD_QUARTER_3",
+        "quarter": 3,
+        "earnings": 71902
+      }
     }
   },
   {
@@ -968,7 +1559,17 @@
       "price": 101.48,
       "field4": "",
       "change": -0.81,
-      "percentChange": "-0.79%"
+      "percentChange": "-0.79%",
+      "quarterEarnings": [
+        { "reportId": "KLAC_QUARTER_1", "quarter": 1, "earnings": 67010 },
+        { "reportId": "KLAC_QUARTER_2", "quarter": 2, "earnings": 78028 },
+        { "reportId": "KLAC_QUARTER_3", "quarter": 3, "earnings": 96705 }
+      ],
+      "lastEarningsReport": {
+        "reportId": "KLAC_QUARTER_3",
+        "quarter": 3,
+        "earnings": 96705
+      }
     }
   },
   {
@@ -985,7 +1586,17 @@
       "price": 31.78,
       "field4": "",
       "change": -0.44,
-      "percentChange": "-1.37%"
+      "percentChange": "-1.37%",
+      "quarterEarnings": [
+        { "reportId": "LBTYA_QUARTER_1", "quarter": 1, "earnings": 79291 },
+        { "reportId": "LBTYA_QUARTER_2", "quarter": 2, "earnings": 91822 },
+        { "reportId": "LBTYA_QUARTER_3", "quarter": 3, "earnings": 60905 }
+      ],
+      "lastEarningsReport": {
+        "reportId": "LBTYA_QUARTER_3",
+        "quarter": 3,
+        "earnings": 60905
+      }
     }
   },
   {
@@ -1002,7 +1613,18 @@
       "price": 30.45,
       "field4": "",
       "change": -0.42,
-      "percentChange": "-1.36%"
+      "percentChange": "-1.36%",
+      "quarterEarnings": [
+        { "reportId": "LBTYK_QUARTER_1", "quarter": 1, "earnings": 83907 },
+        { "reportId": "LBTYK_QUARTER_2", "quarter": 2, "earnings": 86227 },
+        { "reportId": "LBTYK_QUARTER_3", "quarter": 3, "earnings": 68741 },
+        { "reportId": "LBTYK_QUARTER_4", "quarter": 4, "earnings": 93808 }
+      ],
+      "lastEarningsReport": {
+        "reportId": "LBTYK_QUARTER_4",
+        "quarter": 4,
+        "earnings": 93808
+      }
     }
   },
   {
@@ -1019,7 +1641,18 @@
       "price": 191.91,
       "field4": "",
       "change": 1.52,
-      "percentChange": "0.80%"
+      "percentChange": "0.80%",
+      "quarterEarnings": [
+        { "reportId": "LRCX_QUARTER_1", "quarter": 1, "earnings": 82376 },
+        { "reportId": "LRCX_QUARTER_2", "quarter": 2, "earnings": 65953 },
+        { "reportId": "LRCX_QUARTER_3", "quarter": 3, "earnings": 85267 },
+        { "reportId": "LRCX_QUARTER_4", "quarter": 4, "earnings": 65824 }
+      ],
+      "lastEarningsReport": {
+        "reportId": "LRCX_QUARTER_4",
+        "quarter": 4,
+        "earnings": 65824
+      }
     }
   },
   {
@@ -1036,7 +1669,17 @@
       "price": 137.48,
       "field4": "",
       "change": -0.14,
-      "percentChange": "-0.10%"
+      "percentChange": "-0.10%",
+      "quarterEarnings": [
+        { "reportId": "MAR_QUARTER_1", "quarter": 1, "earnings": 65579 },
+        { "reportId": "MAR_QUARTER_2", "quarter": 2, "earnings": 73463 },
+        { "reportId": "MAR_QUARTER_3", "quarter": 3, "earnings": 93917 }
+      ],
+      "lastEarningsReport": {
+        "reportId": "MAR_QUARTER_3",
+        "quarter": 3,
+        "earnings": 93917
+      }
     }
   },
   {
@@ -1053,7 +1696,18 @@
       "price": 12.96,
       "field4": "",
       "change": -0.49,
-      "percentChange": "-3.64%"
+      "percentChange": "-3.64%",
+      "quarterEarnings": [
+        { "reportId": "MAT_QUARTER_1", "quarter": 1, "earnings": 89669 },
+        { "reportId": "MAT_QUARTER_2", "quarter": 2, "earnings": 63675 },
+        { "reportId": "MAT_QUARTER_3", "quarter": 3, "earnings": 75865 },
+        { "reportId": "MAT_QUARTER_4", "quarter": 4, "earnings": 88758 }
+      ],
+      "lastEarningsReport": {
+        "reportId": "MAT_QUARTER_4",
+        "quarter": 4,
+        "earnings": 88758
+      }
     }
   },
   {
@@ -1070,7 +1724,18 @@
       "price": 85.68,
       "field4": "",
       "change": 0.54,
-      "percentChange": "0.63%"
+      "percentChange": "0.63%",
+      "quarterEarnings": [
+        { "reportId": "MCHP_QUARTER_1", "quarter": 1, "earnings": 85165 },
+        { "reportId": "MCHP_QUARTER_2", "quarter": 2, "earnings": 69660 },
+        { "reportId": "MCHP_QUARTER_3", "quarter": 3, "earnings": 74842 },
+        { "reportId": "MCHP_QUARTER_4", "quarter": 4, "earnings": 78584 }
+      ],
+      "lastEarningsReport": {
+        "reportId": "MCHP_QUARTER_4",
+        "quarter": 4,
+        "earnings": 78584
+      }
     }
   },
   {
@@ -1087,7 +1752,17 @@
       "price": 40.11,
       "field4": "",
       "change": -0.9,
-      "percentChange": "-2.19%"
+      "percentChange": "-2.19%",
+      "quarterEarnings": [
+        { "reportId": "MDLZ_QUARTER_1", "quarter": 1, "earnings": 84034 },
+        { "reportId": "MDLZ_QUARTER_2", "quarter": 2, "earnings": 60373 },
+        { "reportId": "MDLZ_QUARTER_3", "quarter": 3, "earnings": 90965 }
+      ],
+      "lastEarningsReport": {
+        "reportId": "MDLZ_QUARTER_3",
+        "quarter": 3,
+        "earnings": 90965
+      }
     }
   },
   {
@@ -1104,7 +1779,18 @@
       "price": 324.49,
       "field4": "",
       "change": -5.51,
-      "percentChange": "-1.67%"
+      "percentChange": "-1.67%",
+      "quarterEarnings": [
+        { "reportId": "MELI_QUARTER_1", "quarter": 1, "earnings": 95119 },
+        { "reportId": "MELI_QUARTER_2", "quarter": 2, "earnings": 94292 },
+        { "reportId": "MELI_QUARTER_3", "quarter": 3, "earnings": 61391 },
+        { "reportId": "MELI_QUARTER_4", "quarter": 4, "earnings": 67132 }
+      ],
+      "lastEarningsReport": {
+        "reportId": "MELI_QUARTER_4",
+        "quarter": 4,
+        "earnings": 67132
+      }
     }
   },
   {
@@ -1121,7 +1807,18 @@
       "price": 56.5,
       "field4": "",
       "change": -0.81,
-      "percentChange": "-1.41%"
+      "percentChange": "-1.41%",
+      "quarterEarnings": [
+        { "reportId": "MNST_QUARTER_1", "quarter": 1, "earnings": 87771 },
+        { "reportId": "MNST_QUARTER_2", "quarter": 2, "earnings": 89244 },
+        { "reportId": "MNST_QUARTER_3", "quarter": 3, "earnings": 92617 },
+        { "reportId": "MNST_QUARTER_4", "quarter": 4, "earnings": 88206 }
+      ],
+      "lastEarningsReport": {
+        "reportId": "MNST_QUARTER_4",
+        "quarter": 4,
+        "earnings": 88206
+      }
     }
   },
   {
@@ -1138,7 +1835,18 @@
       "price": 95,
       "field4": "",
       "change": -1.11,
-      "percentChange": "-1.15%"
+      "percentChange": "-1.15%",
+      "quarterEarnings": [
+        { "reportId": "MSFT_QUARTER_1", "quarter": 1, "earnings": 60246 },
+        { "reportId": "MSFT_QUARTER_2", "quarter": 2, "earnings": 80750 },
+        { "reportId": "MSFT_QUARTER_3", "quarter": 3, "earnings": 81100 },
+        { "reportId": "MSFT_QUARTER_4", "quarter": 4, "earnings": 81889 }
+      ],
+      "lastEarningsReport": {
+        "reportId": "MSFT_QUARTER_4",
+        "quarter": 4,
+        "earnings": 81889
+      }
     }
   },
   {
@@ -1155,7 +1863,18 @@
       "price": 50.62,
       "field4": "",
       "change": -0.8,
-      "percentChange": "-1.56%"
+      "percentChange": "-1.56%",
+      "quarterEarnings": [
+        { "reportId": "MU_QUARTER_1", "quarter": 1, "earnings": 78261 },
+        { "reportId": "MU_QUARTER_2", "quarter": 2, "earnings": 83942 },
+        { "reportId": "MU_QUARTER_3", "quarter": 3, "earnings": 91529 },
+        { "reportId": "MU_QUARTER_4", "quarter": 4, "earnings": 75414 }
+      ],
+      "lastEarningsReport": {
+        "reportId": "MU_QUARTER_4",
+        "quarter": 4,
+        "earnings": 75414
+      }
     }
   },
   {
@@ -1172,7 +1891,18 @@
       "price": 54.4,
       "field4": "",
       "change": -1.75,
-      "percentChange": "-3.12%"
+      "percentChange": "-3.12%",
+      "quarterEarnings": [
+        { "reportId": "MXIM_QUARTER_1", "quarter": 1, "earnings": 71852 },
+        { "reportId": "MXIM_QUARTER_2", "quarter": 2, "earnings": 70442 },
+        { "reportId": "MXIM_QUARTER_3", "quarter": 3, "earnings": 86423 },
+        { "reportId": "MXIM_QUARTER_4", "quarter": 4, "earnings": 82968 }
+      ],
+      "lastEarningsReport": {
+        "reportId": "MXIM_QUARTER_4",
+        "quarter": 4,
+        "earnings": 82968
+      }
     }
   },
   {
@@ -1189,7 +1919,17 @@
       "price": 40.72,
       "field4": "",
       "change": -0.09,
-      "percentChange": "-0.22%"
+      "percentChange": "-0.22%",
+      "quarterEarnings": [
+        { "reportId": "MYL_QUARTER_1", "quarter": 1, "earnings": 92238 },
+        { "reportId": "MYL_QUARTER_2", "quarter": 2, "earnings": 65818 },
+        { "reportId": "MYL_QUARTER_3", "quarter": 3, "earnings": 63460 }
+      ],
+      "lastEarningsReport": {
+        "reportId": "MYL_QUARTER_3",
+        "quarter": 3,
+        "earnings": 63460
+      }
     }
   },
   {
@@ -1206,7 +1946,18 @@
       "price": 55.65,
       "field4": "",
       "change": 0.69,
-      "percentChange": "1.26%"
+      "percentChange": "1.26%",
+      "quarterEarnings": [
+        { "reportId": "NCLH_QUARTER_1", "quarter": 1, "earnings": 86122 },
+        { "reportId": "NCLH_QUARTER_2", "quarter": 2, "earnings": 82925 },
+        { "reportId": "NCLH_QUARTER_3", "quarter": 3, "earnings": 81680 },
+        { "reportId": "NCLH_QUARTER_4", "quarter": 4, "earnings": 86434 }
+      ],
+      "lastEarningsReport": {
+        "reportId": "NCLH_QUARTER_4",
+        "quarter": 4,
+        "earnings": 86434
+      }
     }
   },
   {
@@ -1223,7 +1974,18 @@
       "price": 327.77,
       "field4": "",
       "change": -4.93,
-      "percentChange": "-1.48%"
+      "percentChange": "-1.48%",
+      "quarterEarnings": [
+        { "reportId": "NFLX_QUARTER_1", "quarter": 1, "earnings": 76592 },
+        { "reportId": "NFLX_QUARTER_2", "quarter": 2, "earnings": 92816 },
+        { "reportId": "NFLX_QUARTER_3", "quarter": 3, "earnings": 83282 },
+        { "reportId": "NFLX_QUARTER_4", "quarter": 4, "earnings": 60054 }
+      ],
+      "lastEarningsReport": {
+        "reportId": "NFLX_QUARTER_4",
+        "quarter": 4,
+        "earnings": 60054
+      }
     }
   },
   {
@@ -1241,7 +2003,17 @@
       "price": 266.3,
       "field4": "",
       "change": -8.84,
-      "percentChange": "-3.21%"
+      "percentChange": "-3.21%",
+      "quarterEarnings": [
+        { "reportId": "NTES_QUARTER_1", "quarter": 1, "earnings": 76988 },
+        { "reportId": "NTES_QUARTER_2", "quarter": 2, "earnings": 74371 },
+        { "reportId": "NTES_QUARTER_3", "quarter": 3, "earnings": 86072 }
+      ],
+      "lastEarningsReport": {
+        "reportId": "NTES_QUARTER_3",
+        "quarter": 3,
+        "earnings": 86072
+      }
     }
   },
   {
@@ -1258,7 +2030,18 @@
       "price": 228.71,
       "field4": "",
       "change": -0.33,
-      "percentChange": "-0.14%"
+      "percentChange": "-0.14%",
+      "quarterEarnings": [
+        { "reportId": "NVDA_QUARTER_1", "quarter": 1, "earnings": 88743 },
+        { "reportId": "NVDA_QUARTER_2", "quarter": 2, "earnings": 83713 },
+        { "reportId": "NVDA_QUARTER_3", "quarter": 3, "earnings": 71498 },
+        { "reportId": "NVDA_QUARTER_4", "quarter": 4, "earnings": 80064 }
+      ],
+      "lastEarningsReport": {
+        "reportId": "NVDA_QUARTER_4",
+        "quarter": 4,
+        "earnings": 80064
+      }
     }
   },
   {
@@ -1275,7 +2058,17 @@
       "price": 221.48,
       "field4": "",
       "change": -1.47,
-      "percentChange": "-0.66%"
+      "percentChange": "-0.66%",
+      "quarterEarnings": [
+        { "reportId": "ORLY_QUARTER_1", "quarter": 1, "earnings": 76910 },
+        { "reportId": "ORLY_QUARTER_2", "quarter": 2, "earnings": 68404 },
+        { "reportId": "ORLY_QUARTER_3", "quarter": 3, "earnings": 79375 }
+      ],
+      "lastEarningsReport": {
+        "reportId": "ORLY_QUARTER_3",
+        "quarter": 3,
+        "earnings": 79375
+      }
     }
   },
   {
@@ -1292,7 +2085,17 @@
       "price": 60.34,
       "field4": "",
       "change": -0.59,
-      "percentChange": "-0.97%"
+      "percentChange": "-0.97%",
+      "quarterEarnings": [
+        { "reportId": "PAYX_QUARTER_1", "quarter": 1, "earnings": 78259 },
+        { "reportId": "PAYX_QUARTER_2", "quarter": 2, "earnings": 94904 },
+        { "reportId": "PAYX_QUARTER_3", "quarter": 3, "earnings": 67509 }
+      ],
+      "lastEarningsReport": {
+        "reportId": "PAYX_QUARTER_3",
+        "quarter": 3,
+        "earnings": 67509
+      }
     }
   },
   {
@@ -1309,7 +2112,18 @@
       "price": 69.18,
       "field4": "",
       "change": -0.46,
-      "percentChange": "-0.66%"
+      "percentChange": "-0.66%",
+      "quarterEarnings": [
+        { "reportId": "PCAR_QUARTER_1", "quarter": 1, "earnings": 66175 },
+        { "reportId": "PCAR_QUARTER_2", "quarter": 2, "earnings": 95407 },
+        { "reportId": "PCAR_QUARTER_3", "quarter": 3, "earnings": 69545 },
+        { "reportId": "PCAR_QUARTER_4", "quarter": 4, "earnings": 80885 }
+      ],
+      "lastEarningsReport": {
+        "reportId": "PCAR_QUARTER_4",
+        "quarter": 4,
+        "earnings": 80885
+      }
     }
   },
   {
@@ -1326,7 +2140,17 @@
       "price": 51.44,
       "field4": "",
       "change": -1.13,
-      "percentChange": "-2.15%"
+      "percentChange": "-2.15%",
+      "quarterEarnings": [
+        { "reportId": "QCOM_QUARTER_1", "quarter": 1, "earnings": 80256 },
+        { "reportId": "QCOM_QUARTER_2", "quarter": 2, "earnings": 80777 },
+        { "reportId": "QCOM_QUARTER_3", "quarter": 3, "earnings": 72793 }
+      ],
+      "lastEarningsReport": {
+        "reportId": "QCOM_QUARTER_3",
+        "quarter": 3,
+        "earnings": 72793
+      }
     }
   },
   {
@@ -1343,7 +2167,17 @@
       "price": 314.25,
       "field4": "",
       "change": -1.58,
-      "percentChange": "-0.50%"
+      "percentChange": "-0.50%",
+      "quarterEarnings": [
+        { "reportId": "REGN_QUARTER_1", "quarter": 1, "earnings": 98309 },
+        { "reportId": "REGN_QUARTER_2", "quarter": 2, "earnings": 74994 },
+        { "reportId": "REGN_QUARTER_3", "quarter": 3, "earnings": 80804 }
+      ],
+      "lastEarningsReport": {
+        "reportId": "REGN_QUARTER_3",
+        "quarter": 3,
+        "earnings": 80804
+      }
     }
   },
   {
@@ -1360,7 +2194,18 @@
       "price": 77.32,
       "field4": "",
       "change": -1.43,
-      "percentChange": "-1.82%"
+      "percentChange": "-1.82%",
+      "quarterEarnings": [
+        { "reportId": "ROST_QUARTER_1", "quarter": 1, "earnings": 84073 },
+        { "reportId": "ROST_QUARTER_2", "quarter": 2, "earnings": 69571 },
+        { "reportId": "ROST_QUARTER_3", "quarter": 3, "earnings": 76688 },
+        { "reportId": "ROST_QUARTER_4", "quarter": 4, "earnings": 89987 }
+      ],
+      "lastEarningsReport": {
+        "reportId": "ROST_QUARTER_4",
+        "quarter": 4,
+        "earnings": 89987
+      }
     }
   },
   {
@@ -1377,7 +2222,17 @@
       "price": 58,
       "field4": "",
       "change": -1.22,
-      "percentChange": "-2.06%"
+      "percentChange": "-2.06%",
+      "quarterEarnings": [
+        { "reportId": "SBUX_QUARTER_1", "quarter": 1, "earnings": 62737 },
+        { "reportId": "SBUX_QUARTER_2", "quarter": 2, "earnings": 95069 },
+        { "reportId": "SBUX_QUARTER_3", "quarter": 3, "earnings": 63193 }
+      ],
+      "lastEarningsReport": {
+        "reportId": "SBUX_QUARTER_3",
+        "quarter": 3,
+        "earnings": 63193
+      }
     }
   },
   {
@@ -1395,7 +2250,17 @@
       "price": 164.37,
       "field4": "",
       "change": 3.63,
-      "percentChange": "2.26%"
+      "percentChange": "2.26%",
+      "quarterEarnings": [
+        { "reportId": "SHPG_QUARTER_1", "quarter": 1, "earnings": 71440 },
+        { "reportId": "SHPG_QUARTER_2", "quarter": 2, "earnings": 72320 },
+        { "reportId": "SHPG_QUARTER_3", "quarter": 3, "earnings": 71099 }
+      ],
+      "lastEarningsReport": {
+        "reportId": "SHPG_QUARTER_3",
+        "quarter": 3,
+        "earnings": 71099
+      }
     }
   },
   {
@@ -1412,7 +2277,18 @@
       "price": 6.31,
       "field4": "",
       "change": -0.03,
-      "percentChange": "-0.47%"
+      "percentChange": "-0.47%",
+      "quarterEarnings": [
+        { "reportId": "SIRI_QUARTER_1", "quarter": 1, "earnings": 64013 },
+        { "reportId": "SIRI_QUARTER_2", "quarter": 2, "earnings": 68931 },
+        { "reportId": "SIRI_QUARTER_3", "quarter": 3, "earnings": 80455 },
+        { "reportId": "SIRI_QUARTER_4", "quarter": 4, "earnings": 97264 }
+      ],
+      "lastEarningsReport": {
+        "reportId": "SIRI_QUARTER_4",
+        "quarter": 4,
+        "earnings": 97264
+      }
     }
   },
   {
@@ -1429,7 +2305,17 @@
       "price": 59.64,
       "field4": "",
       "change": -0.26,
-      "percentChange": "-0.43%"
+      "percentChange": "-0.43%",
+      "quarterEarnings": [
+        { "reportId": "STX_QUARTER_1", "quarter": 1, "earnings": 93791 },
+        { "reportId": "STX_QUARTER_2", "quarter": 2, "earnings": 77417 },
+        { "reportId": "STX_QUARTER_3", "quarter": 3, "earnings": 86672 }
+      ],
+      "lastEarningsReport": {
+        "reportId": "STX_QUARTER_3",
+        "quarter": 3,
+        "earnings": 86672
+      }
     }
   },
   {
@@ -1446,7 +2332,17 @@
       "price": 91.18,
       "field4": "",
       "change": -2.7,
-      "percentChange": "-2.88%"
+      "percentChange": "-2.88%",
+      "quarterEarnings": [
+        { "reportId": "SWKS_QUARTER_1", "quarter": 1, "earnings": 93095 },
+        { "reportId": "SWKS_QUARTER_2", "quarter": 2, "earnings": 99549 },
+        { "reportId": "SWKS_QUARTER_3", "quarter": 3, "earnings": 86707 }
+      ],
+      "lastEarningsReport": {
+        "reportId": "SWKS_QUARTER_3",
+        "quarter": 3,
+        "earnings": 86707
+      }
     }
   },
   {
@@ -1463,7 +2359,18 @@
       "price": 27.71,
       "field4": "",
       "change": -0.14,
-      "percentChange": "-0.50%"
+      "percentChange": "-0.50%",
+      "quarterEarnings": [
+        { "reportId": "SYMC_QUARTER_1", "quarter": 1, "earnings": 70742 },
+        { "reportId": "SYMC_QUARTER_2", "quarter": 2, "earnings": 63871 },
+        { "reportId": "SYMC_QUARTER_3", "quarter": 3, "earnings": 86418 },
+        { "reportId": "SYMC_QUARTER_4", "quarter": 4, "earnings": 70981 }
+      ],
+      "lastEarningsReport": {
+        "reportId": "SYMC_QUARTER_4",
+        "quarter": 4,
+        "earnings": 70981
+      }
     }
   },
   {
@@ -1480,7 +2387,18 @@
       "price": 60.33,
       "field4": "",
       "change": 0.45,
-      "percentChange": "0.75%"
+      "percentChange": "0.75%",
+      "quarterEarnings": [
+        { "reportId": "TSCO_QUARTER_1", "quarter": 1, "earnings": 66648 },
+        { "reportId": "TSCO_QUARTER_2", "quarter": 2, "earnings": 61564 },
+        { "reportId": "TSCO_QUARTER_3", "quarter": 3, "earnings": 88193 },
+        { "reportId": "TSCO_QUARTER_4", "quarter": 4, "earnings": 79122 }
+      ],
+      "lastEarningsReport": {
+        "reportId": "TSCO_QUARTER_4",
+        "quarter": 4,
+        "earnings": 79122
+      }
     }
   },
   {
@@ -1497,7 +2415,18 @@
       "price": 290.24,
       "field4": "",
       "change": -9.84,
-      "percentChange": "-3.28%"
+      "percentChange": "-3.28%",
+      "quarterEarnings": [
+        { "reportId": "TSLA_QUARTER_1", "quarter": 1, "earnings": 68323 },
+        { "reportId": "TSLA_QUARTER_2", "quarter": 2, "earnings": 63126 },
+        { "reportId": "TSLA_QUARTER_3", "quarter": 3, "earnings": 61121 },
+        { "reportId": "TSLA_QUARTER_4", "quarter": 4, "earnings": 75063 }
+      ],
+      "lastEarningsReport": {
+        "reportId": "TSLA_QUARTER_4",
+        "quarter": 4,
+        "earnings": 75063
+      }
     }
   },
   {
@@ -1514,7 +2443,18 @@
       "price": 99.96,
       "field4": "",
       "change": -1.33,
-      "percentChange": "-1.31%"
+      "percentChange": "-1.31%",
+      "quarterEarnings": [
+        { "reportId": "TXN_QUARTER_1", "quarter": 1, "earnings": 95147 },
+        { "reportId": "TXN_QUARTER_2", "quarter": 2, "earnings": 97610 },
+        { "reportId": "TXN_QUARTER_3", "quarter": 3, "earnings": 68339 },
+        { "reportId": "TXN_QUARTER_4", "quarter": 4, "earnings": 82956 }
+      ],
+      "lastEarningsReport": {
+        "reportId": "TXN_QUARTER_4",
+        "quarter": 4,
+        "earnings": 82956
+      }
     }
   },
   {
@@ -1531,7 +2471,17 @@
       "price": 235.05,
       "field4": "",
       "change": 0.89,
-      "percentChange": "0.38%"
+      "percentChange": "0.38%",
+      "quarterEarnings": [
+        { "reportId": "ULTA_QUARTER_1", "quarter": 1, "earnings": 80190 },
+        { "reportId": "ULTA_QUARTER_2", "quarter": 2, "earnings": 94447 },
+        { "reportId": "ULTA_QUARTER_3", "quarter": 3, "earnings": 83306 }
+      ],
+      "lastEarningsReport": {
+        "reportId": "ULTA_QUARTER_3",
+        "quarter": 3,
+        "earnings": 83306
+      }
     }
   },
   {
@@ -1548,7 +2498,17 @@
       "price": 30.66,
       "field4": "",
       "change": -0.1,
-      "percentChange": "-0.33%"
+      "percentChange": "-0.33%",
+      "quarterEarnings": [
+        { "reportId": "VIAB_QUARTER_1", "quarter": 1, "earnings": 71242 },
+        { "reportId": "VIAB_QUARTER_2", "quarter": 2, "earnings": 73156 },
+        { "reportId": "VIAB_QUARTER_3", "quarter": 3, "earnings": 81470 }
+      ],
+      "lastEarningsReport": {
+        "reportId": "VIAB_QUARTER_3",
+        "quarter": 3,
+        "earnings": 81470
+      }
     }
   },
   {
@@ -1566,7 +2526,18 @@
       "price": 29.74,
       "field4": "",
       "change": 0.28,
-      "percentChange": "0.95%"
+      "percentChange": "0.95%",
+      "quarterEarnings": [
+        { "reportId": "VOD_QUARTER_1", "quarter": 1, "earnings": 80808 },
+        { "reportId": "VOD_QUARTER_2", "quarter": 2, "earnings": 63262 },
+        { "reportId": "VOD_QUARTER_3", "quarter": 3, "earnings": 73247 },
+        { "reportId": "VOD_QUARTER_4", "quarter": 4, "earnings": 91260 }
+      ],
+      "lastEarningsReport": {
+        "reportId": "VOD_QUARTER_4",
+        "quarter": 4,
+        "earnings": 91260
+      }
     }
   },
   {
@@ -1583,7 +2554,18 @@
       "price": 107.38,
       "field4": "",
       "change": -0.19,
-      "percentChange": "-0.18%"
+      "percentChange": "-0.18%",
+      "quarterEarnings": [
+        { "reportId": "VRSK_QUARTER_1", "quarter": 1, "earnings": 93428 },
+        { "reportId": "VRSK_QUARTER_2", "quarter": 2, "earnings": 74631 },
+        { "reportId": "VRSK_QUARTER_3", "quarter": 3, "earnings": 93059 },
+        { "reportId": "VRSK_QUARTER_4", "quarter": 4, "earnings": 91059 }
+      ],
+      "lastEarningsReport": {
+        "reportId": "VRSK_QUARTER_4",
+        "quarter": 4,
+        "earnings": 91059
+      }
     }
   },
   {
@@ -1600,7 +2582,18 @@
       "price": 158.15,
       "field4": "",
       "change": -1.4,
-      "percentChange": "-0.88%"
+      "percentChange": "-0.88%",
+      "quarterEarnings": [
+        { "reportId": "VRTX_QUARTER_1", "quarter": 1, "earnings": 77445 },
+        { "reportId": "VRTX_QUARTER_2", "quarter": 2, "earnings": 80638 },
+        { "reportId": "VRTX_QUARTER_3", "quarter": 3, "earnings": 70020 },
+        { "reportId": "VRTX_QUARTER_4", "quarter": 4, "earnings": 88834 }
+      ],
+      "lastEarningsReport": {
+        "reportId": "VRTX_QUARTER_4",
+        "quarter": 4,
+        "earnings": 88834
+      }
     }
   },
   {
@@ -1617,7 +2610,18 @@
       "price": 63.92,
       "field4": "",
       "change": -1.36,
-      "percentChange": "-2.08%"
+      "percentChange": "-2.08%",
+      "quarterEarnings": [
+        { "reportId": "WBA_QUARTER_1", "quarter": 1, "earnings": 67356 },
+        { "reportId": "WBA_QUARTER_2", "quarter": 2, "earnings": 86801 },
+        { "reportId": "WBA_QUARTER_3", "quarter": 3, "earnings": 82042 },
+        { "reportId": "WBA_QUARTER_4", "quarter": 4, "earnings": 67680 }
+      ],
+      "lastEarningsReport": {
+        "reportId": "WBA_QUARTER_4",
+        "quarter": 4,
+        "earnings": 67680
+      }
     }
   },
   {
@@ -1634,7 +2638,17 @@
       "price": 89.56,
       "field4": "",
       "change": 0.05,
-      "percentChange": "0.06%"
+      "percentChange": "0.06%",
+      "quarterEarnings": [
+        { "reportId": "WDC_QUARTER_1", "quarter": 1, "earnings": 68670 },
+        { "reportId": "WDC_QUARTER_2", "quarter": 2, "earnings": 92869 },
+        { "reportId": "WDC_QUARTER_3", "quarter": 3, "earnings": 76125 }
+      ],
+      "lastEarningsReport": {
+        "reportId": "WDC_QUARTER_3",
+        "quarter": 3,
+        "earnings": 76125
+      }
     }
   },
   {
@@ -1651,7 +2665,18 @@
       "price": 192.51,
       "field4": "",
       "change": 0.86,
-      "percentChange": "0.45%"
+      "percentChange": "0.45%",
+      "quarterEarnings": [
+        { "reportId": "WYNN_QUARTER_1", "quarter": 1, "earnings": 67942 },
+        { "reportId": "WYNN_QUARTER_2", "quarter": 2, "earnings": 66906 },
+        { "reportId": "WYNN_QUARTER_3", "quarter": 3, "earnings": 68399 },
+        { "reportId": "WYNN_QUARTER_4", "quarter": 4, "earnings": 78891 }
+      ],
+      "lastEarningsReport": {
+        "reportId": "WYNN_QUARTER_4",
+        "quarter": 4,
+        "earnings": 78891
+      }
     }
   },
   {
@@ -1668,7 +2693,18 @@
       "price": 64.15,
       "field4": "",
       "change": -0.75,
-      "percentChange": "-1.16%"
+      "percentChange": "-1.16%",
+      "quarterEarnings": [
+        { "reportId": "XLNX_QUARTER_1", "quarter": 1, "earnings": 96302 },
+        { "reportId": "XLNX_QUARTER_2", "quarter": 2, "earnings": 65441 },
+        { "reportId": "XLNX_QUARTER_3", "quarter": 3, "earnings": 67277 },
+        { "reportId": "XLNX_QUARTER_4", "quarter": 4, "earnings": 65531 }
+      ],
+      "lastEarningsReport": {
+        "reportId": "XLNX_QUARTER_4",
+        "quarter": 4,
+        "earnings": 65531
+      }
     }
   },
   {
@@ -1685,7 +2721,17 @@
       "price": 49.34,
       "field4": "",
       "change": -0.4,
-      "percentChange": "-0.80%"
+      "percentChange": "-0.80%",
+      "quarterEarnings": [
+        { "reportId": "XRAY_QUARTER_1", "quarter": 1, "earnings": 65156 },
+        { "reportId": "XRAY_QUARTER_2", "quarter": 2, "earnings": 89803 },
+        { "reportId": "XRAY_QUARTER_3", "quarter": 3, "earnings": 73672 }
+      ],
+      "lastEarningsReport": {
+        "reportId": "XRAY_QUARTER_3",
+        "quarter": 3,
+        "earnings": 73672
+      }
     }
   }
 ]
