@@ -39,7 +39,6 @@ export function entityMemoize(func, schema) {
   return function() {
     if (!areArgumentsShallowlyEqual(equalityCheck, lastArgs, arguments)) {
       // apply arguments instead of spreading for performance.
-
       newResult = func.apply(null, arguments);
       const newResultCache = toEntity(newResult);
       const [input, entities] = arguments;
