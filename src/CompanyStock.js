@@ -1,4 +1,6 @@
 import React, { PureComponent } from "react";
+import Earning from "./Earning";
+import YearlyEarnings from "./YearlyEarnings";
 
 class CompanyStock extends PureComponent {
   render() {
@@ -8,10 +10,6 @@ class CompanyStock extends PureComponent {
         <strong style={{ fontSize: 20 }}>
           {companyStock.stock.id} ({companyStock.companyName})
         </strong>
-        <div>
-          <div>Financial Status: {companyStock.financialStatus}</div>
-          <div>Market Category: {companyStock.marketCategory}</div>
-        </div>
         <div>
           <strong>
             <em
@@ -23,6 +21,11 @@ class CompanyStock extends PureComponent {
             </em>
           </strong>
         </div>
+        <div>
+          <span>Latest Earnings: </span>
+          <Earning {...companyStock.stock.lastEarningsReport} />
+        </div>
+        <YearlyEarnings earnings={companyStock.stock.quarterEarnings} />
       </div>
     );
   }

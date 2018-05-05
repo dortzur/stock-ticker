@@ -8,7 +8,7 @@ const earningSchema = new schema.Entity(
   { idAttribute: "reportId" }
 );
 const stockSchema = new schema.Entity("stocks", {
-  lastEarningReport: earningSchema,
+  lastEarningsReport: earningSchema,
   quarterEarnings: [earningSchema]
 });
 

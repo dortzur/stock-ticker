@@ -5,9 +5,13 @@ import App from "./App";
 import registerServiceWorker from "./registerServiceWorker";
 import configureStore from "./configure-store";
 import { Provider } from "react-redux";
+import qs from "query-string";
+import WhyDidYouUpdate from "why-did-you-update";
 
-import WhyDidYouUpdate from 'why-did-you-update';
-WhyDidYouUpdate(React);
+const wdyu = qs.parse(window.location.search).wdyu;
+if (wdyu !== "false") {
+  WhyDidYouUpdate(React);
+}
 
 const store = configureStore();
 //for debug purposes
