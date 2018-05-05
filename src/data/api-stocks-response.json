@@ -5,7 +5,7 @@
     "marketCategory": "Q",
     "roundLotSize": 100,
     "securityName": "American Airlines Group, Inc. - Common Stock",
-    "id": "AAL",
+    "id": "COMP_AAL",
     "testIssue": "N",
     "stock": {
       "id": "AAL",
@@ -22,7 +22,7 @@
     "marketCategory": "Q",
     "roundLotSize": 100,
     "securityName": "Apple Inc. - Common Stock",
-    "id": "AAPL",
+    "id": "COMP_AAPL",
     "testIssue": "N",
     "stock": {
       "id": "AAPL",
@@ -39,7 +39,7 @@
     "marketCategory": "Q",
     "roundLotSize": 100,
     "securityName": "Adobe Systems Incorporated - Common Stock",
-    "id": "ADBE",
+    "id": "COMP_ADBE",
     "testIssue": "N",
     "stock": {
       "id": "ADBE",
@@ -56,7 +56,7 @@
     "marketCategory": "Q",
     "roundLotSize": 100,
     "securityName": "Analog Devices, Inc. - Common Stock",
-    "id": "ADI",
+    "id": "COMP_ADI",
     "testIssue": "N",
     "stock": {
       "id": "ADI",
@@ -73,7 +73,7 @@
     "marketCategory": "Q",
     "roundLotSize": 100,
     "securityName": "Automatic Data Processing, Inc. - Common Stock",
-    "id": "ADP",
+    "id": "COMP_ADP",
     "testIssue": "N",
     "stock": {
       "id": "ADP",
@@ -90,7 +90,7 @@
     "marketCategory": "Q",
     "roundLotSize": 100,
     "securityName": "Autodesk, Inc. - Common Stock",
-    "id": "ADSK",
+    "id": "COMP_ADSK",
     "testIssue": "N",
     "stock": {
       "id": "ADSK",
@@ -107,7 +107,7 @@
     "marketCategory": "Q",
     "roundLotSize": 100,
     "securityName": "Akamai Technologies, Inc. - Common Stock",
-    "id": "AKAM",
+    "id": "COMP_AKAM",
     "testIssue": "N",
     "stock": {
       "id": "AKAM",
@@ -124,7 +124,7 @@
     "marketCategory": "Q",
     "roundLotSize": 100,
     "securityName": "Align Technology, Inc. - Common Stock",
-    "id": "ALGN",
+    "id": "COMP_ALGN",
     "testIssue": "N",
     "stock": {
       "id": "ALGN",
@@ -141,7 +141,7 @@
     "marketCategory": "Q",
     "roundLotSize": 100,
     "securityName": "Alexion Pharmaceuticals, Inc. - Common Stock",
-    "id": "ALXN",
+    "id": "COMP_ALXN",
     "testIssue": "N",
     "stock": {
       "id": "ALXN",
@@ -158,7 +158,7 @@
     "marketCategory": "Q",
     "roundLotSize": 100,
     "securityName": "Applied Materials, Inc. - Common Stock",
-    "id": "AMAT",
+    "id": "COMP_AMAT",
     "testIssue": "N",
     "stock": {
       "id": "AMAT",
@@ -175,7 +175,7 @@
     "marketCategory": "Q",
     "roundLotSize": 100,
     "securityName": "Amgen Inc. - Common Stock",
-    "id": "AMGN",
+    "id": "COMP_AMGN",
     "testIssue": "N",
     "stock": {
       "id": "AMGN",
@@ -192,7 +192,7 @@
     "marketCategory": "Q",
     "roundLotSize": 100,
     "securityName": "Amazon.com, Inc. - Common Stock",
-    "id": "AMZN",
+    "id": "COMP_AMZN",
     "testIssue": "N",
     "stock": {
       "id": "AMZN",
@@ -209,7 +209,7 @@
     "marketCategory": "Q",
     "roundLotSize": 100,
     "securityName": "Activision Blizzard, Inc - Common Stock",
-    "id": "ATVI",
+    "id": "COMP_ATVI",
     "testIssue": "N",
     "stock": {
       "id": "ATVI",
@@ -226,7 +226,7 @@
     "marketCategory": "Q",
     "roundLotSize": 100,
     "securityName": "Avago Technologies Limited - Ordinary Shares",
-    "id": "AVGO",
+    "id": "COMP_AVGO",
     "testIssue": "N",
     "stock": {
       "id": "AVGO",
@@ -244,7 +244,7 @@
     "roundLotSize": 100,
     "securityName":
       "Baidu, Inc. - American Depositary Shares, each representing one tenth Class A ordinary share",
-    "id": "BIDU",
+    "id": "COMP_BIDU",
     "testIssue": "N",
     "stock": {
       "id": "BIDU",
@@ -261,7 +261,7 @@
     "marketCategory": "Q",
     "roundLotSize": 100,
     "securityName": "Biogen Idec Inc. - Common Stock",
-    "id": "BIIB",
+    "id": "COMP_BIIB",
     "testIssue": "N",
     "stock": {
       "id": "BIIB",
@@ -278,7 +278,7 @@
     "marketCategory": "Q",
     "roundLotSize": 100,
     "securityName": "BioMarin Pharmaceutical Inc. - Common Stock",
-    "id": "BMRN",
+    "id": "COMP_BMRN",
     "testIssue": "N",
     "stock": {
       "id": "BMRN",
@@ -295,7 +295,7 @@
     "marketCategory": "Q",
     "roundLotSize": 100,
     "securityName": "CA Inc. - Common Stock",
-    "id": "CA",
+    "id": "COMP_CA",
     "testIssue": "N",
     "stock": {
       "id": "CA",
@@ -312,7 +312,7 @@
     "marketCategory": "Q",
     "roundLotSize": 100,
     "securityName": "Celgene Corporation - Common Stock",
-    "id": "CELG",
+    "id": "COMP_CELG",
     "testIssue": "N",
     "stock": {
       "id": "CELG",
@@ -329,7 +329,7 @@
     "marketCategory": "Q",
     "roundLotSize": 100,
     "securityName": "Cerner Corporation - Common Stock",
-    "id": "CERN",
+    "id": "COMP_CERN",
     "testIssue": "N",
     "stock": {
       "id": "CERN",
@@ -346,7 +346,7 @@
     "marketCategory": "Q",
     "roundLotSize": 100,
     "securityName": "Check Point Software Technologies Ltd. - Ordinary Shares",
-    "id": "CHKP",
+    "id": "COMP_CHKP",
     "testIssue": "N",
     "stock": {
       "id": "CHKP",
@@ -363,7 +363,7 @@
     "marketCategory": "Q",
     "roundLotSize": 100,
     "securityName": "Charter Communications, Inc. - Class A Common Stock",
-    "id": "CHTR",
+    "id": "COMP_CHTR",
     "testIssue": "N",
     "stock": {
       "id": "CHTR",
@@ -380,7 +380,7 @@
     "marketCategory": "Q",
     "roundLotSize": 100,
     "securityName": "Comcast Corporation - Class A Common Stock",
-    "id": "CMCSA",
+    "id": "COMP_CMCSA",
     "testIssue": "N",
     "stock": {
       "id": "CMCSA",
@@ -397,7 +397,7 @@
     "marketCategory": "Q",
     "roundLotSize": 100,
     "securityName": "Costco Wholesale Corporation - Common Stock",
-    "id": "COST",
+    "id": "COMP_COST",
     "testIssue": "N",
     "stock": {
       "id": "COST",
@@ -414,7 +414,7 @@
     "marketCategory": "Q",
     "roundLotSize": 100,
     "securityName": "Cisco Systems, Inc. - Common Stock",
-    "id": "CSCO",
+    "id": "COMP_CSCO",
     "testIssue": "N",
     "stock": {
       "id": "CSCO",
@@ -431,7 +431,7 @@
     "marketCategory": "Q",
     "roundLotSize": 100,
     "securityName": "Cintas Corporation - Common Stock",
-    "id": "CTAS",
+    "id": "COMP_CTAS",
     "testIssue": "N",
     "stock": {
       "id": "CTAS",
@@ -449,7 +449,7 @@
     "roundLotSize": 100,
     "securityName":
       "Ctrip.com International, Ltd. - American Depositary Shares",
-    "id": "CTRP",
+    "id": "COMP_CTRP",
     "testIssue": "N",
     "stock": {
       "id": "CTRP",
@@ -467,7 +467,7 @@
     "roundLotSize": 100,
     "securityName":
       "Cognizant Technology Solutions Corporation - Class A Common Stock",
-    "id": "CTSH",
+    "id": "COMP_CTSH",
     "testIssue": "N",
     "stock": {
       "id": "CTSH",
@@ -484,7 +484,7 @@
     "marketCategory": "Q",
     "roundLotSize": 100,
     "securityName": "Citrix Systems, Inc. - Common Stock",
-    "id": "CTXS",
+    "id": "COMP_CTXS",
     "testIssue": "N",
     "stock": {
       "id": "CTXS",
@@ -501,7 +501,7 @@
     "marketCategory": "Q",
     "roundLotSize": 100,
     "securityName": "Discovery Communications, Inc. - Series A Common Stock",
-    "id": "DISCA",
+    "id": "COMP_DISCA",
     "testIssue": "N",
     "stock": {
       "id": "DISCA",
@@ -518,7 +518,7 @@
     "marketCategory": "Q",
     "roundLotSize": 100,
     "securityName": "Discovery Communications, Inc. - Series C Common Stock",
-    "id": "DISCK",
+    "id": "COMP_DISCK",
     "testIssue": "N",
     "stock": {
       "id": "DISCK",
@@ -535,7 +535,7 @@
     "marketCategory": "Q",
     "roundLotSize": 100,
     "securityName": "DISH Network Corporation - Class A Common Stock",
-    "id": "DISH",
+    "id": "COMP_DISH",
     "testIssue": "N",
     "stock": {
       "id": "DISH",
@@ -552,7 +552,7 @@
     "marketCategory": "Q",
     "roundLotSize": 100,
     "securityName": "Dollar Tree, Inc. - Common Stock",
-    "id": "DLTR",
+    "id": "COMP_DLTR",
     "testIssue": "N",
     "stock": {
       "id": "DLTR",
@@ -569,7 +569,7 @@
     "marketCategory": "Q",
     "roundLotSize": 100,
     "securityName": "Electronic Arts Inc. - Common Stock",
-    "id": "EA",
+    "id": "COMP_EA",
     "testIssue": "N",
     "stock": {
       "id": "EA",
@@ -586,7 +586,7 @@
     "marketCategory": "Q",
     "roundLotSize": 100,
     "securityName": "eBay Inc. - Common Stock",
-    "id": "EBAY",
+    "id": "COMP_EBAY",
     "testIssue": "N",
     "stock": {
       "id": "EBAY",
@@ -603,7 +603,7 @@
     "marketCategory": "Q",
     "roundLotSize": 100,
     "securityName": "Express Scripts Holding Company - Common Stock",
-    "id": "ESRX",
+    "id": "COMP_ESRX",
     "testIssue": "N",
     "stock": {
       "id": "ESRX",
@@ -620,7 +620,7 @@
     "marketCategory": "Q",
     "roundLotSize": 100,
     "securityName": "Expedia, Inc. - Common Stock",
-    "id": "EXPE",
+    "id": "COMP_EXPE",
     "testIssue": "N",
     "stock": {
       "id": "EXPE",
@@ -637,7 +637,7 @@
     "marketCategory": "Q",
     "roundLotSize": 100,
     "securityName": "Fastenal Company - Common Stock",
-    "id": "FAST",
+    "id": "COMP_FAST",
     "testIssue": "N",
     "stock": {
       "id": "FAST",
@@ -654,7 +654,7 @@
     "marketCategory": "Q",
     "roundLotSize": 100,
     "securityName": "Facebook, Inc. - Class A Common Stock",
-    "id": "FB",
+    "id": "COMP_FB",
     "testIssue": "N",
     "stock": {
       "id": "FB",
@@ -671,7 +671,7 @@
     "marketCategory": "Q",
     "roundLotSize": 100,
     "securityName": "Fiserv, Inc. - Common Stock",
-    "id": "FISV",
+    "id": "COMP_FISV",
     "testIssue": "N",
     "stock": {
       "id": "FISV",
@@ -688,7 +688,7 @@
     "marketCategory": "Q",
     "roundLotSize": 100,
     "securityName": "Twenty-First Century Fox, Inc. - Class B Common Stock",
-    "id": "FOX",
+    "id": "COMP_FOX",
     "testIssue": "N",
     "stock": {
       "id": "FOX",
@@ -705,7 +705,7 @@
     "marketCategory": "Q",
     "roundLotSize": 100,
     "securityName": "Twenty-First Century Fox, Inc. - Class A Common Stock",
-    "id": "FOXA",
+    "id": "COMP_FOXA",
     "testIssue": "N",
     "stock": {
       "id": "FOXA",
@@ -722,7 +722,7 @@
     "marketCategory": "Q",
     "roundLotSize": 100,
     "securityName": "Gilead Sciences, Inc. - Common Stock",
-    "id": "GILD",
+    "id": "COMP_GILD",
     "testIssue": "N",
     "stock": {
       "id": "GILD",
@@ -739,7 +739,7 @@
     "marketCategory": "Q",
     "roundLotSize": 100,
     "securityName": "Google Inc. - Class C Capital Stock",
-    "id": "GOOG",
+    "id": "COMP_GOOG",
     "testIssue": "N",
     "stock": {
       "id": "GOOG",
@@ -756,7 +756,7 @@
     "marketCategory": "Q",
     "roundLotSize": 100,
     "securityName": "Google Inc. - Class A Common Stock",
-    "id": "GOOGL",
+    "id": "COMP_GOOGL",
     "testIssue": "N",
     "stock": {
       "id": "GOOGL",
@@ -773,7 +773,7 @@
     "marketCategory": "Q",
     "roundLotSize": 100,
     "securityName": "Hasbro, Inc. - Common Stock",
-    "id": "HAS",
+    "id": "COMP_HAS",
     "testIssue": "N",
     "stock": {
       "id": "HAS",
@@ -790,7 +790,7 @@
     "marketCategory": "Q",
     "roundLotSize": 100,
     "securityName": "Hologic, Inc. - Common Stock",
-    "id": "HOLX",
+    "id": "COMP_HOLX",
     "testIssue": "N",
     "stock": {
       "id": "HOLX",
@@ -807,7 +807,7 @@
     "marketCategory": "Q",
     "roundLotSize": 100,
     "securityName": "Henry Schein, Inc. - Common Stock",
-    "id": "HSIC",
+    "id": "COMP_HSIC",
     "testIssue": "N",
     "stock": {
       "id": "HSIC",
@@ -824,7 +824,7 @@
     "marketCategory": "Q",
     "roundLotSize": 100,
     "securityName": "IDEXX Laboratories, Inc. - Common Stock",
-    "id": "IDXX",
+    "id": "COMP_IDXX",
     "testIssue": "N",
     "stock": {
       "id": "IDXX",
@@ -841,7 +841,7 @@
     "marketCategory": "Q",
     "roundLotSize": 100,
     "securityName": "Illumina, Inc. - Common Stock",
-    "id": "ILMN",
+    "id": "COMP_ILMN",
     "testIssue": "N",
     "stock": {
       "id": "ILMN",
@@ -858,7 +858,7 @@
     "marketCategory": "Q",
     "roundLotSize": 100,
     "securityName": "Incyte Corporation - Common Stock",
-    "id": "INCY",
+    "id": "COMP_INCY",
     "testIssue": "N",
     "stock": {
       "id": "INCY",
@@ -875,7 +875,7 @@
     "marketCategory": "Q",
     "roundLotSize": 100,
     "securityName": "Intel Corporation - Common Stock",
-    "id": "INTC",
+    "id": "COMP_INTC",
     "testIssue": "N",
     "stock": {
       "id": "INTC",
@@ -892,7 +892,7 @@
     "marketCategory": "Q",
     "roundLotSize": 100,
     "securityName": "Intuit Inc. - Common Stock",
-    "id": "INTU",
+    "id": "COMP_INTU",
     "testIssue": "N",
     "stock": {
       "id": "INTU",
@@ -909,7 +909,7 @@
     "marketCategory": "Q",
     "roundLotSize": 100,
     "securityName": "Intuitive Surgical, Inc. - Common Stock",
-    "id": "ISRG",
+    "id": "COMP_ISRG",
     "testIssue": "N",
     "stock": {
       "id": "ISRG",
@@ -926,7 +926,7 @@
     "marketCategory": "Q",
     "roundLotSize": 100,
     "securityName": "J.B. Hunt Transport Services, Inc. - Common Stock",
-    "id": "JBHT",
+    "id": "COMP_JBHT",
     "testIssue": "N",
     "stock": {
       "id": "JBHT",
@@ -943,7 +943,7 @@
     "marketCategory": "Q",
     "roundLotSize": 100,
     "securityName": "JD.com, Inc. - American Depositary Shares",
-    "id": "JD",
+    "id": "COMP_JD",
     "testIssue": "N",
     "stock": {
       "id": "JD",
@@ -960,7 +960,7 @@
     "marketCategory": "Q",
     "roundLotSize": 100,
     "securityName": "KLA-Tencor Corporation - Common Stock",
-    "id": "KLAC",
+    "id": "COMP_KLAC",
     "testIssue": "N",
     "stock": {
       "id": "KLAC",
@@ -977,7 +977,7 @@
     "marketCategory": "Q",
     "roundLotSize": 100,
     "securityName": "Liberty Global plc - Class A Ordinary Shares",
-    "id": "LBTYA",
+    "id": "COMP_LBTYA",
     "testIssue": "N",
     "stock": {
       "id": "LBTYA",
@@ -994,7 +994,7 @@
     "marketCategory": "Q",
     "roundLotSize": 100,
     "securityName": "Liberty Global plc - Class C Ordinary Shares",
-    "id": "LBTYK",
+    "id": "COMP_LBTYK",
     "testIssue": "N",
     "stock": {
       "id": "LBTYK",
@@ -1011,7 +1011,7 @@
     "marketCategory": "Q",
     "roundLotSize": 100,
     "securityName": "Lam Research Corporation - Common Stock",
-    "id": "LRCX",
+    "id": "COMP_LRCX",
     "testIssue": "N",
     "stock": {
       "id": "LRCX",
@@ -1028,7 +1028,7 @@
     "marketCategory": "Q",
     "roundLotSize": 100,
     "securityName": "Marriott International - Class A Common Stock",
-    "id": "MAR",
+    "id": "COMP_MAR",
     "testIssue": "N",
     "stock": {
       "id": "MAR",
@@ -1045,7 +1045,7 @@
     "marketCategory": "Q",
     "roundLotSize": 100,
     "securityName": "Mattel, Inc. - Common Stock",
-    "id": "MAT",
+    "id": "COMP_MAT",
     "testIssue": "N",
     "stock": {
       "id": "MAT",
@@ -1062,7 +1062,7 @@
     "marketCategory": "Q",
     "roundLotSize": 100,
     "securityName": "Microchip Technology Incorporated - Common Stock",
-    "id": "MCHP",
+    "id": "COMP_MCHP",
     "testIssue": "N",
     "stock": {
       "id": "MCHP",
@@ -1079,7 +1079,7 @@
     "marketCategory": "Q",
     "roundLotSize": 100,
     "securityName": "Mondelez International, Inc. - Class A Common Stock",
-    "id": "MDLZ",
+    "id": "COMP_MDLZ",
     "testIssue": "N",
     "stock": {
       "id": "MDLZ",
@@ -1096,7 +1096,7 @@
     "marketCategory": "Q",
     "roundLotSize": 100,
     "securityName": "MercadoLibre, Inc. - Common Stock",
-    "id": "MELI",
+    "id": "COMP_MELI",
     "testIssue": "N",
     "stock": {
       "id": "MELI",
@@ -1113,7 +1113,7 @@
     "marketCategory": "Q",
     "roundLotSize": 100,
     "securityName": "Monster Beverage Corporation - Common Stock",
-    "id": "MNST",
+    "id": "COMP_MNST",
     "testIssue": "N",
     "stock": {
       "id": "MNST",
@@ -1130,7 +1130,7 @@
     "marketCategory": "Q",
     "roundLotSize": 100,
     "securityName": "Microsoft Corporation - Common Stock",
-    "id": "MSFT",
+    "id": "COMP_MSFT",
     "testIssue": "N",
     "stock": {
       "id": "MSFT",
@@ -1147,7 +1147,7 @@
     "marketCategory": "Q",
     "roundLotSize": 100,
     "securityName": "Micron Technology, Inc. - Common Stock",
-    "id": "MU",
+    "id": "COMP_MU",
     "testIssue": "N",
     "stock": {
       "id": "MU",
@@ -1164,7 +1164,7 @@
     "marketCategory": "Q",
     "roundLotSize": 100,
     "securityName": "Maxim Integrated Products, Inc. - Common Stock",
-    "id": "MXIM",
+    "id": "COMP_MXIM",
     "testIssue": "N",
     "stock": {
       "id": "MXIM",
@@ -1181,7 +1181,7 @@
     "marketCategory": "Q",
     "roundLotSize": 100,
     "securityName": "Mylan Inc. - Common Stock",
-    "id": "MYL",
+    "id": "COMP_MYL",
     "testIssue": "N",
     "stock": {
       "id": "MYL",
@@ -1198,7 +1198,7 @@
     "marketCategory": "Q",
     "roundLotSize": 100,
     "securityName": "Norwegian Cruise Line Holdings Ltd. - Ordinary Shares",
-    "id": "NCLH",
+    "id": "COMP_NCLH",
     "testIssue": "N",
     "stock": {
       "id": "NCLH",
@@ -1215,7 +1215,7 @@
     "marketCategory": "Q",
     "roundLotSize": 100,
     "securityName": "Netflix, Inc. - Common Stock",
-    "id": "NFLX",
+    "id": "COMP_NFLX",
     "testIssue": "N",
     "stock": {
       "id": "NFLX",
@@ -1233,7 +1233,7 @@
     "roundLotSize": 100,
     "securityName":
       "NetEase, Inc. - American Depositary Shares, each representing 25 ordinary shares",
-    "id": "NTES",
+    "id": "COMP_NTES",
     "testIssue": "N",
     "stock": {
       "id": "NTES",
@@ -1250,7 +1250,7 @@
     "marketCategory": "Q",
     "roundLotSize": 100,
     "securityName": "NVIDIA Corporation - Common Stock",
-    "id": "NVDA",
+    "id": "COMP_NVDA",
     "testIssue": "N",
     "stock": {
       "id": "NVDA",
@@ -1267,7 +1267,7 @@
     "marketCategory": "Q",
     "roundLotSize": 100,
     "securityName": "O'Reilly Automotive, Inc. - Common Stock",
-    "id": "ORLY",
+    "id": "COMP_ORLY",
     "testIssue": "N",
     "stock": {
       "id": "ORLY",
@@ -1284,7 +1284,7 @@
     "marketCategory": "Q",
     "roundLotSize": 100,
     "securityName": "Paychex, Inc. - Common Stock",
-    "id": "PAYX",
+    "id": "COMP_PAYX",
     "testIssue": "N",
     "stock": {
       "id": "PAYX",
@@ -1301,7 +1301,7 @@
     "marketCategory": "Q",
     "roundLotSize": 100,
     "securityName": "PACCAR Inc. - Common Stock",
-    "id": "PCAR",
+    "id": "COMP_PCAR",
     "testIssue": "N",
     "stock": {
       "id": "PCAR",
@@ -1318,7 +1318,7 @@
     "marketCategory": "Q",
     "roundLotSize": 100,
     "securityName": "QUALCOMM Incorporated - Common Stock",
-    "id": "QCOM",
+    "id": "COMP_QCOM",
     "testIssue": "N",
     "stock": {
       "id": "QCOM",
@@ -1335,7 +1335,7 @@
     "marketCategory": "Q",
     "roundLotSize": 100,
     "securityName": "Regeneron Pharmaceuticals, Inc. - Common Stock",
-    "id": "REGN",
+    "id": "COMP_REGN",
     "testIssue": "N",
     "stock": {
       "id": "REGN",
@@ -1352,7 +1352,7 @@
     "marketCategory": "Q",
     "roundLotSize": 100,
     "securityName": "Ross Stores, Inc. - Common Stock",
-    "id": "ROST",
+    "id": "COMP_ROST",
     "testIssue": "N",
     "stock": {
       "id": "ROST",
@@ -1369,7 +1369,7 @@
     "marketCategory": "Q",
     "roundLotSize": 100,
     "securityName": "Starbucks Corporation - Common Stock",
-    "id": "SBUX",
+    "id": "COMP_SBUX",
     "testIssue": "N",
     "stock": {
       "id": "SBUX",
@@ -1387,7 +1387,7 @@
     "roundLotSize": 100,
     "securityName":
       "Shire plc - American Depositary Shares, each representing three Ordinary Shares",
-    "id": "SHPG",
+    "id": "COMP_SHPG",
     "testIssue": "N",
     "stock": {
       "id": "SHPG",
@@ -1404,7 +1404,7 @@
     "marketCategory": "Q",
     "roundLotSize": 100,
     "securityName": "Sirius XM Holdings Inc. - Common Stock",
-    "id": "SIRI",
+    "id": "COMP_SIRI",
     "testIssue": "N",
     "stock": {
       "id": "SIRI",
@@ -1421,7 +1421,7 @@
     "marketCategory": "Q",
     "roundLotSize": 100,
     "securityName": "Seagate Technology. - Common Stock",
-    "id": "STX",
+    "id": "COMP_STX",
     "testIssue": "N",
     "stock": {
       "id": "STX",
@@ -1438,7 +1438,7 @@
     "marketCategory": "Q",
     "roundLotSize": 100,
     "securityName": "Skyworks Solutions, Inc. - Common Stock",
-    "id": "SWKS",
+    "id": "COMP_SWKS",
     "testIssue": "N",
     "stock": {
       "id": "SWKS",
@@ -1455,7 +1455,7 @@
     "marketCategory": "Q",
     "roundLotSize": 100,
     "securityName": "Symantec Corporation - Common Stock",
-    "id": "SYMC",
+    "id": "COMP_SYMC",
     "testIssue": "N",
     "stock": {
       "id": "SYMC",
@@ -1472,7 +1472,7 @@
     "marketCategory": "Q",
     "roundLotSize": 100,
     "securityName": "Tractor Supply Company - Common Stock",
-    "id": "TSCO",
+    "id": "COMP_TSCO",
     "testIssue": "N",
     "stock": {
       "id": "TSCO",
@@ -1489,7 +1489,7 @@
     "marketCategory": "Q",
     "roundLotSize": 100,
     "securityName": "Tesla Motors, Inc. - Common Stock",
-    "id": "TSLA",
+    "id": "COMP_TSLA",
     "testIssue": "N",
     "stock": {
       "id": "TSLA",
@@ -1506,7 +1506,7 @@
     "marketCategory": "Q",
     "roundLotSize": 100,
     "securityName": "Texas Instruments Incorporated - Common Stock",
-    "id": "TXN",
+    "id": "COMP_TXN",
     "testIssue": "N",
     "stock": {
       "id": "TXN",
@@ -1523,7 +1523,7 @@
     "marketCategory": "Q",
     "roundLotSize": 100,
     "securityName": "Ulta Salon, Cosmetics & Fragrance, Inc. - Common Stock",
-    "id": "ULTA",
+    "id": "COMP_ULTA",
     "testIssue": "N",
     "stock": {
       "id": "ULTA",
@@ -1540,7 +1540,7 @@
     "marketCategory": "Q",
     "roundLotSize": 100,
     "securityName": "Viacom Inc. - Class B Common Stock",
-    "id": "VIAB",
+    "id": "COMP_VIAB",
     "testIssue": "N",
     "stock": {
       "id": "VIAB",
@@ -1558,7 +1558,7 @@
     "roundLotSize": 100,
     "securityName":
       "Vodafone Group Plc - American Depositary Shares each representing ten Ordinary Shares",
-    "id": "VOD",
+    "id": "COMP_VOD",
     "testIssue": "N",
     "stock": {
       "id": "VOD",
@@ -1575,7 +1575,7 @@
     "marketCategory": "Q",
     "roundLotSize": 100,
     "securityName": "Verisk Analytics, Inc. - Class A Common Stock",
-    "id": "VRSK",
+    "id": "COMP_VRSK",
     "testIssue": "N",
     "stock": {
       "id": "VRSK",
@@ -1592,7 +1592,7 @@
     "marketCategory": "Q",
     "roundLotSize": 100,
     "securityName": "Vertex Pharmaceuticals Incorporated - Common Stock",
-    "id": "VRTX",
+    "id": "COMP_VRTX",
     "testIssue": "N",
     "stock": {
       "id": "VRTX",
@@ -1609,7 +1609,7 @@
     "marketCategory": "Q",
     "roundLotSize": 100,
     "securityName": "Walgreens Boots Alliance, Inc. - Common Stock",
-    "id": "WBA",
+    "id": "COMP_WBA",
     "testIssue": "N",
     "stock": {
       "id": "WBA",
@@ -1626,7 +1626,7 @@
     "marketCategory": "Q",
     "roundLotSize": 100,
     "securityName": "Western Digital Corporation - Common Stock",
-    "id": "WDC",
+    "id": "COMP_WDC",
     "testIssue": "N",
     "stock": {
       "id": "WDC",
@@ -1643,7 +1643,7 @@
     "marketCategory": "Q",
     "roundLotSize": 100,
     "securityName": "Wynn Resorts, Limited - Common Stock",
-    "id": "WYNN",
+    "id": "COMP_WYNN",
     "testIssue": "N",
     "stock": {
       "id": "WYNN",
@@ -1660,7 +1660,7 @@
     "marketCategory": "Q",
     "roundLotSize": 100,
     "securityName": "Xilinx, Inc. - Common Stock",
-    "id": "XLNX",
+    "id": "COMP_XLNX",
     "testIssue": "N",
     "stock": {
       "id": "XLNX",
@@ -1677,7 +1677,7 @@
     "marketCategory": "Q",
     "roundLotSize": 100,
     "securityName": "DENTSPLY International Inc. - Common Stock",
-    "id": "XRAY",
+    "id": "COMP_XRAY",
     "testIssue": "N",
     "stock": {
       "id": "XRAY",

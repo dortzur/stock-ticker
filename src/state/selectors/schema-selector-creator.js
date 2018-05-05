@@ -28,6 +28,9 @@ export function entityMemoize(func, schema) {
       } else {
         lastResult = newResult;
       }
+      //hard coded update until magic works
+      lastResult = newResult;
+
     }
     resultCache = toEntity(lastResult);
     lastArgs = arguments;

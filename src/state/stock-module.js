@@ -30,7 +30,7 @@ const getStockEntities = state => state.entities.stocks;
 
 const createEntitySelector = schemaSelectorCreator(Schemas.COMPANY_ARRAY);
 
-export const getCompanyStocks = createEntityIdSelector(
+export const getCompanyStocks = createEntitySelector(
   getStockList,
   getCompanyEntities,
   getStockEntities,
