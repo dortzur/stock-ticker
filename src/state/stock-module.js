@@ -4,7 +4,7 @@ import { denormalize, normalize } from "normalizr";
 import { createSelector } from "reselect";
 import { createEntityIdSelector } from "./selectors/entity-id-selector";
 import { schemaSelectorCreator } from "./selectors/schema-selector-creator";
-
+import qs from "query-string";
 window.Schemas = Schemas;
 export const INITIALIZE_STOCKS = "INITIALIZE_STOCKS";
 
@@ -31,17 +31,21 @@ const getEntities = state => state.entities;
 
 const createEntitySelector = schemaSelectorCreator(Schemas.COMPANY_ARRAY);
 
-export const getCompanyStocks = createEntitySelector(
+export const companyStocksSelector = createSelector(
+  getStockList,
+  getCompanyEntities,
+  getStockEntities,
+  (stockList, companies, stocks) =>
+    denormalize(stockList, Schemas.COMPANY_ARRAY, { companies, stocks })
+);
+
+const companyStocksEntitySelector = createEntitySelector(
   getStockList,
   getEntities,
   (stockList, entities) =>
     denormalize(stockList, Schemas.COMPANY_ARRAY, entities)
 );
-
-// export const getCompanyStocks = createEntitySelector(
-//   getStockList,
-//   getCompanyEntities,
-//   getStockEntities,
-//   (stockList, companies, stocks) =>
-//     denormalize(stockList, Schemas.COMPANY_ARRAY, { companies, stocks })
-// );
+const useEntitySelector = !!qs.parse(window.location.search).entitySelector;
+export const getCompanyStocks = useEntitySelector
+  ? companyStocksEntitySelector
+  : companyStocksSelector;

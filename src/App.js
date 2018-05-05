@@ -4,15 +4,14 @@ import "./App.css";
 import { connect } from "react-redux";
 import { fetchApiStocks } from "./state/stock-module";
 import { updateSingleStock } from "./state/entity-module";
+import qs from "query-string";
 import Companies from "./Companies";
 class App extends PureComponent {
   componentDidMount() {
     this.props.fetchApiStocks();
 
-    setTimeout(this.props.updateSingleStock, 3000);
-    setTimeout(this.props.updateSingleStock, 6000);
-    setTimeout(this.props.updateSingleStock, 9000);
-    // setInterval(this.props.updateSingleStock, 500);
+    const interval = qs.parse(window.location.search).interval || 3000;
+    setInterval(this.props.updateSingleStock, interval);
   }
   render() {
     return (
