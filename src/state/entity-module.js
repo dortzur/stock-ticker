@@ -22,7 +22,10 @@ export const updateSingleStock = () => (dispatch, getState) => {
   });
 };
 
-export default (state = { companies: {}, stocks: {} }, action) => {
+export default (
+  state = { companies: {}, stocks: {}, earnings: {} },
+  action
+) => {
   switch (action.type) {
     case INITIALIZE_STOCKS: {
       const { entities } = normalize(action.payload, Schemas.COMPANY_ARRAY);

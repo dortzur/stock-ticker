@@ -1,7 +1,16 @@
 import { schema } from "normalizr";
 
 window.BABA = schema;
-const stockSchema = new schema.Entity("stocks", {});
+
+const earningSchema = new schema.Entity(
+  "earnings",
+  {},
+  { idAttribute: "reportId" }
+);
+const stockSchema = new schema.Entity("stocks", {
+  lastEarningReport: earningSchema,
+  quarterEarnings: [earningSchema]
+});
 
 const companySchema = new schema.Entity("companies", {
   stock: stockSchema

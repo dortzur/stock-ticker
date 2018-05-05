@@ -27,6 +27,7 @@ export const fetchApiStocks = () => ({
 const getStockList = state => state.stocks;
 const getCompanyEntities = state => state.entities.companies;
 const getStockEntities = state => state.entities.stocks;
+const getEarningsEntities = state => state.entities.earnings;
 const getEntities = state => state.entities;
 
 const createEntitySelector = schemaSelectorCreator(Schemas.COMPANY_ARRAY);
@@ -35,8 +36,13 @@ export const companyStocksSelector = createSelector(
   getStockList,
   getCompanyEntities,
   getStockEntities,
-  (stockList, companies, stocks) =>
-    denormalize(stockList, Schemas.COMPANY_ARRAY, { companies, stocks })
+  getEarningsEntities,
+  (stockList, companies, stocks, earnings) =>
+    denormalize(stockList, Schemas.COMPANY_ARRAY, {
+      companies,
+      stocks,
+      earnings
+    })
 );
 
 const companyStocksEntitySelector = createEntitySelector(

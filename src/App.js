@@ -9,9 +9,13 @@ import Companies from "./Companies";
 class App extends PureComponent {
   componentDidMount() {
     this.props.fetchApiStocks();
-
-    const interval = qs.parse(window.location.search).interval || 3000;
-    setInterval(this.props.updateSingleStock, interval);
+    const options = qs.parse(window.location.search);
+    const interval = options.interval || 3000;
+    if (options.singleRun) {
+      setTimeout(this.props.updateSingleStock, interval);
+    } else {
+      setInterval(this.props.updateSingleStock, interval);
+    }
   }
   render() {
     return (
