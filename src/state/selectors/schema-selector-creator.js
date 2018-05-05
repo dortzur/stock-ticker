@@ -1,22 +1,28 @@
 import { createSelectorCreator } from "reselect";
 import { areArgumentsShallowlyEqual, equalityCheck, toEntity } from "./utils";
-import { traverseEntities } from "../../utils/traverseEntities";
 
 const getEntity = (id, schema, entities) => ({
   entity: entities[schema.key][id],
   schema
 });
 const getAffectedEntities = (id, schema, entities, affectedEntities = []) => {
-  const entity = getEntity(id, schema, entities);
-  affectedEntities.push(entity);
-  Object.entries(schema.schema).forEach(([childKey, childSchema]) => {
-    const entityId = entity.entity[childKey];
-    return getAffectedEntities(
-      entityId,
-      childSchema,
-      entities,
-      affectedEntities
-    );
+  if (Array.isArray(schema)) {
+    schema = schema[0];
+  } else {
+    id = [id];
+  }
+  id.forEach(id => {
+    const entity = getEntity(id, schema, entities);
+    affectedEntities.push(entity);
+    Object.entries(schema.schema).forEach(([childKey, childSchema]) => {
+      const entityId = entity.entity[childKey];
+      return getAffectedEntities(
+        entityId,
+        childSchema,
+        entities,
+        affectedEntities
+      );
+    });
   });
   return affectedEntities;
 };
