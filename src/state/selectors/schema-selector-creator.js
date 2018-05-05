@@ -6,16 +6,19 @@ const getEntity = (id, schema, entities) => ({
   entity: entities[schema.key][id],
   schema
 });
-
-const getAffectedEntities = (id, schema, entities) => {
+const getAffectedEntities = (id, schema, entities, affectedEntities = []) => {
   const entity = getEntity(id, schema, entities);
-  const childEntities = Object.entries(schema.schema).map(
-    ([childKey, childSchema]) => {
-      const entityId = entity.entity[childKey];
-      return getEntity(entityId, childSchema, entities);
-    }
-  );
-  return [entity, ...childEntities];
+  affectedEntities.push(entity);
+  Object.entries(schema.schema).forEach(([childKey, childSchema]) => {
+    const entityId = entity.entity[childKey];
+    return getAffectedEntities(
+      entityId,
+      childSchema,
+      entities,
+      affectedEntities
+    );
+  });
+  return affectedEntities;
 };
 
 export function entityMemoize(func, schema) {
