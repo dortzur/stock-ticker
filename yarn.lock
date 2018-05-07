@@ -1943,6 +1943,13 @@ delegates@^1.0.0:
   version "1.0.0"
   resolved "https://registry.yarnpkg.com/delegates/-/delegates-1.0.0.tgz#84c6e159b81904fdca59a0ef44cd870d31250f9a"
 
+denormalize-selector@^0.2.0:
+  version "0.2.0"
+  resolved "https://registry.yarnpkg.com/denormalize-selector/-/denormalize-selector-0.2.0.tgz#4fa53907dbfe17c74fb632da467c16c465db4bdc"
+  dependencies:
+    normalizr "^3.2.4"
+    reselect "^3.0.1"
+
 depd@1.1.1:
   version "1.1.1"
   resolved "https://registry.yarnpkg.com/depd/-/depd-1.1.1.tgz#5783b4e1c459f06fa5ca27f991f3d06e7a310359"
