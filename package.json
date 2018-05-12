@@ -3,7 +3,7 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
-    "denormalize-selector": "^0.2.0",
+    "dlect": "^0.3.2",
     "normalizr": "^3.2.4",
     "prop-types": "^15.6.1",
     "query-string": "^6.1.0",

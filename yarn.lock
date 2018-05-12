@@ -1943,13 +1943,6 @@ delegates@^1.0.0:
   version "1.0.0"
   resolved "https://registry.yarnpkg.com/delegates/-/delegates-1.0.0.tgz#84c6e159b81904fdca59a0ef44cd870d31250f9a"
 
-denormalize-selector@^0.2.0:
-  version "0.2.0"
-  resolved "https://registry.yarnpkg.com/denormalize-selector/-/denormalize-selector-0.2.0.tgz#4fa53907dbfe17c74fb632da467c16c465db4bdc"
-  dependencies:
-    normalizr "^3.2.4"
-    reselect "^3.0.1"
-
 depd@1.1.1:
   version "1.1.1"
   resolved "https://registry.yarnpkg.com/depd/-/depd-1.1.1.tgz#5783b4e1c459f06fa5ca27f991f3d06e7a310359"
@@ -2001,6 +1994,13 @@ diffie-hellman@^5.0.0:
     bn.js "^4.1.0"
     miller-rabin "^4.0.0"
     randombytes "^2.0.0"
+
+dlect@^0.3.2:
+  version "0.3.2"
+  resolved "https://registry.yarnpkg.com/dlect/-/dlect-0.3.2.tgz#9c43d187d991805b3415628568984a2f9c1bd88b"
+  dependencies:
+    normalizr "^3.2.4"
+    reselect "^3.0.1"
 
 dns-equal@^1.0.0:
   version "1.0.0"

@@ -1,6 +1,5 @@
 import { schema } from "normalizr";
 
-window.BABA = schema;
 
 const earningSchema = new schema.Entity(
   "earnings",
@@ -16,7 +15,6 @@ const companySchema = new schema.Entity("companies", {
   stock: stockSchema
 });
 
-// Schemas for Github API responses.
 export const Schemas = {
   STOCK: stockSchema,
   STOCK_ARRAY: [stockSchema],

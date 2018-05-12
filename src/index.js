@@ -9,7 +9,7 @@ import qs from "query-string";
 import WhyDidYouUpdate from "why-did-you-update";
 
 const wdyu = qs.parse(window.location.search).wdyu;
-if (wdyu !== "false") {
+if (wdyu) {
   WhyDidYouUpdate(React);
 }
 
