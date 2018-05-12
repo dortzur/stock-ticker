@@ -2,7 +2,7 @@ import apiStocksResponse from "../data/api-stocks-response";
 import { Schemas } from "./schema";
 import { denormalize, normalize } from "normalizr";
 import { createSelector } from "reselect";
-import qs from "query-string";
+import qs from "../utils";
 import renorm from "renorm";
 export const INITIALIZE_STOCKS = "INITIALIZE_STOCKS";
 
@@ -42,7 +42,7 @@ export const companyStocksSelector = createSelector(
 
 const companyStocksEntitySelector = renorm(getStockList, Schemas.COMPANY_ARRAY);
 
-const useDlect = !!qs.parse(window.location.search).dlect;
-export const getCompanyStocks = useDlect
+const useRenorm = !!qs.parse(window.location.search).renorm;
+export const getCompanyStocks = useRenorm
   ? companyStocksEntitySelector
   : companyStocksSelector;

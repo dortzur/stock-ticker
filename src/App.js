@@ -4,7 +4,7 @@ import "./App.css";
 import { connect } from "react-redux";
 import { fetchApiStocks } from "./state/stock-module";
 import { updateSingleStock } from "./state/entity-module";
-import qs from "query-string";
+import qs from "./utils";
 import Companies from "./Companies";
 
 class App extends PureComponent {
