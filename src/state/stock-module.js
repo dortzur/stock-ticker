@@ -3,7 +3,7 @@ import { Schemas } from "./schema";
 import { denormalize, normalize } from "normalizr";
 import { createSelector } from "reselect";
 import qs from "query-string";
-import dlect from "dlect";
+import renorm from "renorm";
 export const INITIALIZE_STOCKS = "INITIALIZE_STOCKS";
 
 export default (state = [], action) => {
@@ -40,7 +40,7 @@ export const companyStocksSelector = createSelector(
     })
 );
 
-const companyStocksEntitySelector = dlect(getStockList, Schemas.COMPANY_ARRAY);
+const companyStocksEntitySelector = renorm(getStockList, Schemas.COMPANY_ARRAY);
 
 const useDlect = !!qs.parse(window.location.search).dlect;
 export const getCompanyStocks = useDlect

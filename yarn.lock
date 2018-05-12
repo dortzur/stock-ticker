@@ -1995,13 +1995,6 @@ diffie-hellman@^5.0.0:
     miller-rabin "^4.0.0"
     randombytes "^2.0.0"
 
-dlect@^0.3.2:
-  version "0.3.2"
-  resolved "https://registry.yarnpkg.com/dlect/-/dlect-0.3.2.tgz#9c43d187d991805b3415628568984a2f9c1bd88b"
-  dependencies:
-    normalizr "^3.2.4"
-    reselect "^3.0.1"
-
 dns-equal@^1.0.0:
   version "1.0.0"
   resolved "https://registry.yarnpkg.com/dns-equal/-/dns-equal-1.0.0.tgz#b39e7f1da6eb0a75ba9c17324b34753c47e0654d"
@@ -5856,6 +5849,13 @@ renderkid@^2.0.1:
     htmlparser2 "~3.3.0"
     strip-ansi "^3.0.0"
     utila "~0.3"
+
+renorm@^0.3.2:
+  version "0.3.2"
+  resolved "https://registry.yarnpkg.com/renorm/-/renorm-0.3.2.tgz#a52fb7356cd565573b246a96616cbc15f5875fa5"
+  dependencies:
+    normalizr "^3.2.4"
+    reselect "^3.0.1"
 
 repeat-element@^1.1.2:
   version "1.1.2"
