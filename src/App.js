@@ -4,8 +4,9 @@ import "./App.css";
 import { connect } from "react-redux";
 import { fetchApiStocks } from "./state/stock-module";
 import { updateSingleStock } from "./state/entity-module";
-import qs from "./utils";
+import { qs } from "./utils";
 import Companies from "./Companies";
+import OptionsForm from "./OptionsForm";
 
 class App extends PureComponent {
   componentDidMount() {
@@ -22,8 +23,8 @@ class App extends PureComponent {
     return (
       <div className="App">
         <header className="App-header">
-          <img src={logo} className="App-logo" alt="logo" />
-          <h1 className="App-title">Welcome to React</h1>
+          <h1 className="App-title">Welcome to the Stock Sticker Demo</h1>
+          <OptionsForm />
         </header>
         <Companies />
       </div>

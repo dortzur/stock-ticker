@@ -5,7 +5,7 @@ import App from "./App";
 import registerServiceWorker from "./registerServiceWorker";
 import configureStore from "./configure-store";
 import { Provider } from "react-redux";
-import qs from "./utils";
+import { qs } from "./utils";
 import WhyDidYouUpdate from "why-did-you-update";
 
 const wdyu = qs.parse(window.location.search).wdyu;

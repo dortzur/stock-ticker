@@ -3,7 +3,7 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
-    "renorm": "^0.3.2",
+    "formik": "^0.11.11",
     "normalizr": "^3.2.4",
     "prop-types": "^15.6.1",
     "random-int": "^1.0.0",
@@ -14,6 +14,7 @@
     "redux": "^4.0.0",
     "redux-devtools-extension": "^2.13.2",
     "redux-thunk": "^2.2.0",
+    "renorm": "^0.3.8",
     "reselect": "^3.0.1",
     "why-did-you-update": "^0.1.1"
   },

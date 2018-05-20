@@ -2,7 +2,7 @@ import apiStocksResponse from "../data/api-stocks-response";
 import { Schemas } from "./schema";
 import { denormalize, normalize } from "normalizr";
 import { createSelector } from "reselect";
-import qs from "../utils";
+import { qs } from "../utils";
 import renorm from "renorm";
 export const INITIALIZE_STOCKS = "INITIALIZE_STOCKS";
 
